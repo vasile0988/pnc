@@ -1,0 +1,973 @@
+{
+  "metadataTitle": {
+    "home": "Startseite",
+    "virtualWallet": "Virtuelles Wallet",
+    "checkingAccount": "Girokonto",
+    "saving": "Ersparnis",
+    "creditCards": "Kreditkarten",
+    "studentBanking": "Studierendenbanking",
+    "homeEquity": "Eigenheimkreditlinien",
+    "construction": "Bau- und Grundstücksdarlehen",
+    "autoLoans": "Autokredite",
+    "personalLoans": "Persönliche Kredite und Kreditlinien",
+    "login": "Einloggen",
+    "contact": "Kontaktieren Sie uns",
+    "signup": "Ein Konto erstellen",
+    "dashboard": "Dashboard",
+    "profile": "Mein Profil",
+    "settings": "Einstellungen",
+    "virement": "Überweisung",
+    "notifications": "Benachrichtigungen"
+  },
+  "navigation": {
+    "loadingText": "Laden ",
+    "more": "Mehr",
+    "menu": "Menü",
+    "borrowingLink": "Darlehen beantragen",
+    "banking": {
+      "title": "Banking",
+      "virtualWallet": "Virtuelles Wallet",
+      "checking": "Girokonto",
+      "saving": "Ersparnis",
+      "creditCards": "Kreditkarten",
+      "studentBanking": "Studierendenbanking",
+      "militaryBanking": "Militärbanking"
+    },
+    "borrowing": {
+      "title": "Kredit",
+      "homeEquity": "Eigenheimkreditlinien",
+      "constructionLoans": "Bau- und Grundstücksdarlehen",
+      "autoLoans": "Autokredite",
+      "personalLoans": "Persönliche Kredite und Kreditlinien",
+      "studentLoans": "Studienkredite",
+      "studentLoanRefinancing": "Refinanzierung von Studienkrediten"
+    },
+    "investing": {
+      "title": "Investitionen und Vermögensverwaltung",
+      "pncInvestments": "PNC-Investitionen",
+      "pncPrivateBank": "PNC-Private Banking"
+    },
+    "contactUs": "Kontaktieren Sie uns",
+    "login": "Einloggen",
+    "signup": "Ein Konto erstellen"
+  },
+  "sectionImgItems": {
+    "banking": {
+      "checking": "Scheck",
+      "creditCards": "Kreditkarten",
+      "saving": "Ersparnis",
+      "homeLoans": "Immobilienkredite",
+      "retirement": "Rente",
+      "autoLoans": "Autokredite",
+      "title": "Produkte & Dienstleistungen",
+      "text": "Entdecken und online beantragen."
+    },
+    "virtualWallet": {
+      "title": "Der PNC-Scheck ist ein virtuelles Wallet",
+      "text": "Ihr virtuelles Wallet wird mit nützlichen digitalen Tools, verknüpften Giro- und Sparkonten sowie bereitgestellt:",
+      "tab": {
+        "text1": "Über 2.200 Standorte und etwa 60.000 Geldautomaten von PNC und Partnern",
+        "text2": "Digitale Geldmanagement-Tools an einem Ort",
+        "text3": "Niedriger Geldmodus® - gibt Ihnen mehr Kontrolle, wenn Ihr Saldo niedrig ist"
+      }
+    }
+  },
+  "sectionHero": {
+    "banking": {
+      "title": "Der sicherste Plan ist oft der klügste",
+      "linkText": "Sehen Sie, was langweiliges Banking für Sie tun kann"
+    },
+    "virtualWallet": {
+      "title": "Verdienen Sie bis zu 400 $",
+      "text": "wenn Sie ein neues ausgewähltes virtuelles Wallet eröffnen und verwenden."
+    },
+    "autoLoans": {
+      "title": "Monatliche Zahlungsberechnungsrechner",
+      "text": "Verwenden Sie den Rechner unten, um Ihre monatlichen Fahrzeugzahlungen zu bestimmen."
+    }
+  },
+  "sectionTitleParagraph": {
+    "banking": {
+      "title": "Wichtige rechtliche Informationen und Offenlegungen",
+      "paragraph1": "Die PNC erhebt keine Gebühren für mobile Bankdienstleistungen. Es können jedoch Gebühren von Drittanbietern für Nachrichten und Daten anfallen. Dazu gehören Gebühren, die Ihr Mobilfunkanbieter möglicherweise für die Nutzung von Daten und Textnachrichtendiensten erhebt. Überprüfen Sie bei Ihrem Mobilfunkanbieter die Einzelheiten zu Ihrem spezifischen Mobilfunktarif und den geltenden Daten- oder Textnachrichtengebühren. Außerdem ist ein unterstütztes mobiles Gerät erforderlich, um die mobile Banking-App nutzen zu können. Mobile Einzahlungen sind eine Funktion von PNC Mobile Banking. Die Nutzung der mobilen Einzahlungsfunktion erfordert ein kompatibles Gerät mit Kamera, und Sie müssen die PNC Mobile Banking-App herunterladen. Ein berechtigtes PNC-Bankkonto und PNC-Online-Banking-Dienste sind erforderlich. Es gelten möglicherweise weitere Einschränkungen. Überprüfen Sie die Allgemeinen Geschäftsbedingungen für mobile Bankdienstleistungen im PNC-Online-Banking-Servicevertrag.",
+      "paragraph2": "Die Videos von Kunden auf dieser Website sind unbezahlte Zeugenaussagen echter PNC-Kunden.",
+      "paragraph3": "Gleichberechtigter Wohnungsgeber",
+      "paragraph4": "PNC, PNC HomeHQ, PNC Home Insight und Home Insight sind eingetragene Dienstleistungsmarken der The PNC Financial Services Group, Inc. („PNC“). PNC hat Patentanträge für verschiedene Funktionen und Merkmale des Home Insight Planner und des Home Insight Tracker eingereicht. Alle Kredite werden von der PNC, National Association, einer Tochtergesellschaft von PNC, gewährt und unterliegen der Kreditgenehmigung und der Immobilienbewertung.",
+      "paragraph5": "Die The PNC Financial Services Group, Inc. („PNC“) verwendet die Handelsnamen PNC Private Bank℠ und PNC Private Bank Hawthorn® zur Bereitstellung von Anlageberatung und Vermögensverwaltung, Treuhanddiensten, von der FDIC versicherten Bankprodukten und -dienstleistungen sowie zur Bereitstellung von Mittelkrediten an Privatkunden über die PNC, National Association („PNC“), die Mitglied der FDIC ist, sowie zur Bereitstellung spezifischer Treuhand- und Agenturdienste über ihre Tochtergesellschaft, die PNC Delaware Trust Company oder die PNC Ohio Trust Company. PNC verwendet den Handelsnamen PNC Institutional Asset Management® für verschiedene diskretionäre und nicht-diskretionäre institutionelle Anlageverwaltungs-, Treuhand-, Verwahrungs- und andere verwandte Dienstleistungen, die von PNC erbracht werden, sowie für Anlageverwaltungsaktivitäten, die von der PNC Capital Advisors, LLC, einem bei der SEC registrierten Anlageberater und 100%igen Tochtergesellschaft von PNC („PNC Capital Advisors“) durchgeführt werden. PNC verwendet den Handelsnamen PNC Institutional Advisory Solutions® für die diskretionäre Vermögensverwaltung, Treuhanddienste und verwandte Dienstleistungen, die von PNC bereitgestellt werden. PNC verwendet den Handelsnamen PNC Retirement Solutions® für Anlage-, Beratungs-, Treuhand- und Verwahrungsdienste für von Arbeitgebern gesponserte Rentenpläne, die von PNC bereitgestellt werden. PNC gibt keine Rechts-, Steuer- oder Buchhaltungsberatung, es sei denn, in Bezug auf Steuerberatung hat PNC einen schriftlichen Steuerberatungsvertrag abgeschlossen. PNC ist nicht als kommunaler Berater unter dem Dodd-Frank-Gesetz über die Reform der Wall Street und den Verbraucherschutz („Gesetz“) registriert. Die Anlageverwaltung und die damit verbundenen Produkte und Dienstleistungen, die an eine „kommunale Einheit“ oder eine „verpflichtete Person“ in Bezug auf „kommunale Wertpapiere“ (wie diese Begriffe im Gesetz definiert sind) bereitgestellt werden, werden von PNC Capital Advisors bereitgestellt.",
+      "paragraph6": "Investitionen: Nicht durch die FDIC versichert. Keine Bankgarantie. Kann an Wert verlieren.",
+      "paragraph7": "©2024 The PNC Financial Services Group, Inc. Alle Rechte vorbehalten. PNC, National Association. Mitglied der FDIC.",
+      "paragraph8": "Lesen Sie eine Zusammenfassung der Datenschutzrechte für kalifornische Einwohner, die die Arten von Informationen beschreibt, die wir sammeln, sowie wie und warum wir diese Informationen verwenden."
+    },
+    "virtualWallet": {
+      "paragraph1": "Das Virtual Wallet mit Performance Spend beinhaltet eine Rückerstattung der ersten zwei PNC-Gebühren an nationalen oder internationalen Geldautomaten, die nicht PNC sind, sowie bis zu 5 $ für zusätzliche Gebühren anderer Banken pro Abrechnungszyklus. Das Virtual Wallet mit Performance Select enthält keine Gebühren für die Nutzung nationaler oder internationaler Geldautomaten anderer Banken und bis zu 10 $ Rückerstattung von Gebühren pro Abrechnungszyklus für zusätzliche Gebühren anderer Banken.",
+      "paragraph2": "Der Low Cash Mode ist nur auf dem Spend-Konto Ihres Virtual Wallet-Produkts verfügbar.",
+      "paragraph3": "Eine berechtigte Direktüberweisung wird definiert als eine wiederkehrende Direktüberweisung eines Gehaltsschecks, einer Rente, der Sozialversicherung oder eines anderen regelmäßigen monatlichen Einkommens, das elektronisch von einem Arbeitgeber oder einer externen Agentur auf das Spend-Konto eines Virtual Wallet mit Performance Select, Performance Spend oder Virtual Wallet eingezahlt wird. Es gelten Ausschlüsse. Siehe die Produktmerkmale und -gebühren für weitere Details.",
+      "paragraph4": "Um für einen Beziehungstarif berechtigt zu sein, müssen Sie ein verknüpftes Ausgabenkonto eines Virtual Wallet mit Performance Select, Performance Spend oder Virtual Wallet haben und eines der folgenden Kriterien erfüllen: Führen Sie eine Kombination von 5 oder mehr Transaktionen am Verkaufsort mit PIN und/oder Unterschrift (ohne Bargeldvorschüsse) durch, die im vorhergehenden Kalendermonat auf Ihrem Konto mit Ihrer Visa-Debitkarte oder Ihrer verknüpften Visa-Kreditkarte aufgezeichnet wurden. Haben Sie 500 $ an berechtigten Direktüberweisungen auf einem verknüpften Spend-Konto im vorhergehenden Kalendermonat. Haben Sie 2.000 $ an berechtigten Direktüberweisungen (1.000 $ für WorkPlace- oder Military Banking-Kunden) auf einem verknüpften Spend-Konto mit Performance Spend im vorhergehenden Kalendermonat. Haben Sie 5.000 $ an berechtigten Direktüberweisungen auf einem verknüpften Spend-Konto mit Performance Select im vorhergehenden Kalendermonat. (Eine berechtigte Direktüberweisung ist eine wiederkehrende elektronische Überweisung, die von einem Arbeitgeber oder einer externen Agentur durchgeführt wird. Überweisungen von einem Konto auf ein anderes oder Einzahlungen, die über eine Filiale, einen Geldautomaten, online, mobil oder per Post vorgenommen werden, sind für diese Anforderung nicht berechtigt.)",
+      "paragraph5": "Ab dem Monat nach der Eröffnung Ihres Virtual Wallet Growth-Kontos und monatlich danach wird festgestellt, ob das Konto für den Standard- oder Beziehungstarif für den gesamten Kalendermonat berechtigt ist, basierend auf der Anzahl der berechtigten Transaktionen oder der Direktüberweisungsanforderung des vorhergehenden Kalendermonats.",
+      "paragraph6": "Wenn Änderungen an Ihrem verknüpften Girokonto vorgenommen werden (es wird geschlossen, in einen neuen Kontotyp geändert oder nicht mehr mit Ihrem Virtual Wallet Growth-Konto verknüpft), sind Sie möglicherweise nicht mehr berechtigt für einen Beziehungstarif, oder die Tarife können auf die zum Zeitpunkt der Änderung geltenden Tarife geändert werden.",
+      "paragraph7": "Für das Virtual Wallet mit Performance Spend beträgt der durchschnittliche monatliche Gesamtsaldo von 10.000 $ alle verknüpften PNC-Verbraucherkonten. Für das Virtual Wallet mit Performance Select beträgt der durchschnittliche monatliche Gesamtsaldo von 25.000 $ alle verknüpften PNC-Verbraucher- und Investitionskonten. Siehe die Produktmerkmale und -gebühren für weitere Details.",
+      "paragraph8": "Maximal acht (8) verknüpfte PNC-Konten, einschließlich Ausgaben- und Reservekonten, können in die Beziehung des durchschnittlichen monatlichen Gesamtsaldos einbezogen werden.",
+      "paragraph9": "Einige Konten sind möglicherweise nicht berechtigt, in die Anforderung des durchschnittlichen monatlichen Gesamtsaldos einbezogen zu werden, basierend auf der Kontostruktur, dem Produkttyp oder anderen Einschränkungen. Der Kunde muss anfordern, dass das Konto verknüpft wird, um von den Beziehungsvorteilen zu profitieren.",
+      "paragraph10": "Zelle® darf nur verwendet werden, um Geld an Personen zu senden oder zu empfangen, die Sie kennen und denen Sie vertrauen. Bevor Sie Zelle® verwenden, um Geld zu senden, müssen Sie die E-Mail-Adresse oder die US-Handynummer des Empfängers bestätigen. Weder PNC noch Zelle® bieten Käuferschutz für Zahlungen, die mit Zelle® getätigt werden, beispielsweise wenn Sie den Artikel, für den Sie bezahlt haben, nicht erhalten oder wenn der Artikel nicht der Beschreibung oder Ihren Erwartungen entspricht. Zelle® ist für fast jeden mit einem Bankkonto in den USA verfügbar. Transaktionen erfolgen normalerweise innerhalb weniger Minuten zwischen registrierten Benutzern. Wenn der Empfänger sich nicht registriert hat, läuft die Zahlung nach 14 Kalendertagen ab. Bitte beachten Sie die Nutzungsbedingungen von PNC Zelle für zusätzliche allgemeine Bedingungen. Die Nutzung von Zelle® unterliegt den Nutzungsbedingungen von PNC Zelle®.",
+      "paragraph11": "✝ Dieses Angebot unterliegt der Verfügbarkeit des Produkts und kann je nach Standort, an dem Sie Ihr Konto eröffnen, und der Postleitzahl Ihrer Hauptadresse variieren. Bei Online- oder Telefontransaktionen wird die Postleitzahl Ihrer Hauptadresse verwendet, um die Verfügbarkeit des Produkts zu bestimmen. Sie können eine Belohnung von 400 $ erhalten, wenn Sie eine neue virtuelle Brieftasche mit Performance Select eröffnen und verwenden, eine Belohnung von 200 $, wenn Sie eine neue virtuelle Brieftasche mit Performance Spend eröffnen und verwenden, oder eine Belohnung von 100 $, wenn Sie eine neue virtuelle Brieftasche eröffnen und verwenden. Wenn Sie den Typ des virtuellen Brieftaschenprodukts nach der Kontoeröffnung ändern, bestimmt der Produkttyp, in dem Sie am letzten Geschäftstag des Monats, in dem Sie Ihr Konto eröffnet haben, sind, Ihre Berechtigung für das Angebot, die Bedingungen und den entsprechenden Belohnungsbetrag, falls zutreffend.",
+      "paragraph12": "Um für die Belohnung berechtigt zu sein, muss das neue Produkt der virtuellen Brieftasche online über die Bewerbungslinks auf dieser Seite vom 09.04.2024 bis zum 31.10.2024 eröffnet werden, und es müssen innerhalb der ersten 60 Tage eine oder mehrere berechtigte Direktüberweisungen eingegangen sein. Ihr Produkt der virtuellen Brieftasche muss geöffnet bleiben, damit Sie die Belohnung erhalten können, die 60 bis 90 Tage nach Erfüllung aller Bedingungen auf dem berechtigten Konto gutgeschrieben wird und auf Ihrem monatlichen Kontoauszug als Kreditprüfungsbelohnung ausgewiesen wird.",
+      "paragraph13": "Eine berechtigte Direktüberweisung für dieses Angebot wird definiert als eine wiederkehrende Direktüberweisung eines Gehaltschecks, einer Rente, Sozialversicherungsleistungen oder eines anderen regelmäßigen monatlichen Einkommens, das elektronisch von einem Arbeitgeber oder einer externen Agentur auf das Spend-Konto einer virtuellen Brieftasche mit Performance Select, einer virtuellen Brieftasche mit Performance Spend oder einer virtuellen Brieftasche überwiesen wird. Der Gesamtbetrag aller berechtigten Direktüberweisungen, die Ihrem Spend-Konto gutgeschrieben werden, muss mindestens 5.000 $ für eine virtuelle Brieftasche mit Performance Select, 2.000 $ für eine virtuelle Brieftasche mit Performance Spend oder 500 $ für eine virtuelle Brieftasche betragen. Vorauszahlungen per Kreditkarte, elektronische Überweisungen, Person-zu-Person-Überweisungen, Überweisungen von einem Konto auf ein anderes oder Einzahlungen an einem physischen PNC-Standort oder Geldautomaten gelten nicht als berechtigte Direktüberweisungen.",
+      "paragraph14": "Das neue Konto ist nicht für das Angebot berechtigt, wenn Sie oder einer der Unterzeichner des neuen Kontos bereits ein Verbraucher-Girokonto bei PNC Bank besitzen, ein Konto in den letzten 12 Monaten geschlossen haben oder in den letzten 24 Monaten einen PNC-Werbebonus erhalten haben. Wenn mehrere Konten mit denselben Unterzeichnern eröffnet werden, ist nur eines der Konten für den Bonus berechtigt. Treuhandkonten, Nachlasskonten und andere spezialisierte Konten sind von diesem Angebot ausgeschlossen. Das Angebot kann jederzeit verlängert, geändert oder eingestellt werden und kann je nach Markt variieren. Der Wert der Belohnung kann auf den entsprechenden Formularen des Internal Revenue Service (IRS) angegeben werden und kann als steuerpflichtiges Einkommen für Sie angesehen werden. Bitte konsultieren Sie Ihren Steuerberater bezüglich Ihrer spezifischen Situation.",
+      "paragraph15": "Virtual Wallet ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph16": "Low Cash Mode ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph17": "Zelle und die damit verbundenen Marken sind Eigentum von Early Warning Services, LLC und werden hier unter Lizenz verwendet.",
+      "paragraph18": "Die PNC besitzt zahlreiche Patente/Patentanmeldungen für verschiedene Funktionen und Merkmale von Virtual Wallet.",
+      "paragraph19": "Bankeinlagenprodukte und -dienstleistungen werden von der PNC Bank, National Association, angeboten. Mitglied der FDIC.",
+      "paragraph20": "Lesen Sie eine Zusammenfassung der Datenschutzrechte für Einwohner Kaliforniens, die die Arten von Informationen beschreibt, die wir sammeln, sowie die Art und Weise und den Grund, warum wir diese Informationen verwenden.",
+      "paragraph21": "Das Virtual Wallet mit Performance Spending umfasst die Erstattung der ersten beiden Gebühren von PNC an nationalen oder internationalen Geldautomaten und bis zu 5 $ für Überziehungsgebühren anderer Banken pro Abrechnungszyklus. Das Virtual Wallet mit Performance Select umfasst keine Gebühren für die Nutzung nationaler oder internationaler Geldautomaten anderer Banken und bis zu 10 $ pro Abrechnungszyklus für Überziehungsgebühren anderer Banken.",
+      "paragraph22": "Der Low Cash Mode ist nur auf dem Ausgaben-Konto Ihres Virtual Wallet-Produkts verfügbar.",
+      "paragraph23": "Ein berechtigter direkter Einzahlungsbetrag ist definiert als eine wiederkehrende direkte Einzahlung eines Gehalts, einer Rente, von Sozialversicherungsleistungen oder einem anderen regelmäßigen monatlichen Einkommen, das elektronisch von einem Arbeitgeber oder einer externen Agentur auf das Ausgaben-Konto eines Virtual Wallet mit Performance Select, Virtual Wallet mit Performance Spending oder Virtual Wallet eingezahlt wird. Es gelten Ausschlüsse. Siehe Produktmerkmale und Gebühren für weitere Details.",
+      "paragraph24": "Um für einen Beziehungssatz berechtigt zu sein, müssen Sie ein verknüpftes Ausgaben-Konto eines Virtual Wallet mit Performance Spending oder ein Virtual Wallet haben und eines der folgenden Kriterien erfüllen:",
+      "paragraph25": "  - Erhalten Sie eine Kombination aus 5 oder mehr PIN-Transaktionen und/oder Unterschrift-POS-Transaktionen (außer Bargeldabhebungen), die im vorhergehenden Kalendermonat auf Ihrem Konto aufgezeichnet wurden, unter Verwendung Ihrer Visa-Debitkarte oder Ihrer Visa-Kreditkarte.",
+      "paragraph26": "  - Haben Sie 500 $ an berechtigten direkten Einzahlungen auf ein verknüpftes Ausgaben-Konto eines Virtual Wallet im vorhergehenden Kalendermonat.",
+      "paragraph27": "  - Haben Sie 2.000 $ an berechtigten direkten Einzahlungen (1.000 $ für WorkPlace- oder Military Banking-Kunden) auf ein verknüpftes Ausgaben-Konto eines Virtual Wallet mit Performance Spending im vorhergehenden Kalendermonat.",
+      "paragraph28": "  - Haben Sie 5.000 $ an berechtigten direkten Einzahlungen auf ein verknüpftes Ausgaben-Konto eines Virtual Wallet mit Performance Select im vorhergehenden Kalendermonat. (Eine berechtigte direkte Einzahlung ist eine wiederkehrende elektronische Einzahlung, die von einem Arbeitgeber oder einer externen Agentur getätigt wird. Überweisungen von einem Konto auf ein anderes oder Einzahlungen, die in einer PNC-Filiale, an einem Geldautomaten, online, mobil oder per Post vorgenommen werden, sind nicht berechtigt, um diese Anforderung zu erfüllen.)",
+      "paragraph29": "Ab dem ersten Kalendermonat nach der Eröffnung Ihres Virtual Wallet Growth-Kontos und monatlich danach wird festgestellt, ob das Konto den Standard- oder den Beziehungssatz für den gesamten Kalendermonat erhält, basierend auf der Anzahl der berechtigten Transaktionen oder der Anforderung an direkte Einzahlungen des vorhergehenden Kalendermonats.",
+      "paragraph30": "Wenn es Änderungen an Ihrem verknüpften Girokonto gibt (es wird geschlossen, in einen neuen Kontotyp geändert oder ist nicht mehr mit Ihrem Virtual Wallet Growth-Konto verknüpft), sind Sie möglicherweise nicht mehr für einen Beziehungssatz berechtigt oder die Sätze können sich ändern zu denen, die zum Zeitpunkt der Änderung gelten.",
+      "paragraph31": "Für das Virtual Wallet mit Performance Spending beträgt der kombinierte durchschnittliche Monatsbestand von 10.000 $ alle Verbraucher-Konten von PNC. Für das Virtual Wallet mit Performance Select beträgt der kombinierte durchschnittliche Monatsbestand von 25.000 $ alle verknüpften Verbraucher- und Investitionskonten von PNC. Siehe Produktmerkmale und Gebühren für weitere Details.",
+      "paragraph32": "Maximal acht (8) verknüpfte PNC-Konten, einschließlich Ausgaben und Reserven, können in die Beziehung zum kombinierten durchschnittlichen Monatsbestand einfließen.",
+      "paragraph33": "Einige Konten sind möglicherweise nicht berechtigt, in die Anforderung des kombinierten monatlichen Durchschnittsbestand aufgenommen zu werden, basierend auf der Eigentumsstruktur, dem Produkttyp oder anderen Einschränkungen. Der Kunde muss ein verknüpftes Konto beantragen, um die damit verbundenen Vorteile zu erhalten.",
+      "paragraph34": "Sollte nur verwendet werden, um Geld mit Personen zu senden oder zu empfangen, die Sie kennen und denen Sie vertrauen. Bevor Sie Geld senden, müssen Sie die E-Mail-Adresse des Empfängers oder die US-Handynummer bestätigen. Weder PNC noch die PNC bieten Käuferschutz für Zahlungen, die mit Zelle getätigt werden, zum Beispiel, wenn Sie den Artikel, den Sie bezahlt haben, nicht erhalten oder der Artikel nicht wie beschrieben oder erwartet ist. Es steht fast jedem zur Verfügung, der ein Bankkonto in den USA hat. Transaktionen erfolgen in der Regel innerhalb weniger Minuten zwischen registrierten Nutzern. Wenn der Empfänger sich nicht registriert hat, verfällt die Zahlung nach 14 Kalendertagen.",
+      "paragraph35": "Dieses Angebot unterliegt der Produktverfügbarkeit und kann je nach Ort, an dem Sie Ihr Konto eröffnen, und der Postleitzahl Ihrer Hauptadresse variieren. Für die Online- oder Telefonanmeldung wird die Postleitzahl Ihrer Hauptadresse verwendet, um die Verfügbarkeit des Produkts zu bestimmen. Sie können eine Belohnung von 400 $ erhalten, wenn Sie ein neues Virtual Wallet mit Performance Select eröffnen und verwenden, eine Belohnung von 200 $ erhalten, wenn Sie ein neues Virtual Wallet mit Performance Spending eröffnen und verwenden, oder eine Belohnung von 100 $, wenn Sie ein neues Virtual Wallet eröffnen und verwenden. Wenn Sie Ihren Typ des Virtual Wallet-Produkts nach Kontoeröffnung ändern, bestimmt der Kontotyp, bei dem Sie am letzten Geschäftstag des Monats, in dem Sie Ihr Konto eröffnet haben, sind, Ihr Berechtigungsangebot, die Bedingungen und den entsprechenden Belohnungsbetrag, falls zutreffend.",
+      "paragraph36": "Um für die Belohnung berechtigt zu sein, muss das neue Produkt Virtual Wallet online über die Bewerbungslinks auf dieser Seite zwischen dem 09.04.2024 und dem 31.10.2024 eröffnet werden, und es müssen innerhalb der ersten 60 Tage eine oder mehrere berechtigte direkte Einzahlungen eingehen. Ihr Virtual Wallet-Produkt muss geöffnet bleiben, damit Sie die Belohnung erhalten können, die 60 bis 90 Tage nach Erfüllung aller Anforderungen auf dem berechtigten Konto gutgeschrieben wird und auf Ihrem monatlichen Kontoauszug als Gutschrift gekennzeichnet ist.",
+      "paragraph37": "Eine berechtigte direkte Einzahlung für dieses Angebot ist definiert als eine wiederkehrende direkte Einzahlung eines Gehalts, einer Rente, von Sozialversicherungsleistungen oder einem anderen regelmäßigen monatlichen Einkommen, das elektronisch von einem Arbeitgeber oder einer externen Agentur auf das Ausgaben-Konto eines Virtual Wallet mit Performance Select, Virtual Wallet mit Performance Spending oder Virtual Wallet eingezahlt wird. Der Gesamtbetrag aller auf Ihrem Ausgaben-Konto gutgeschriebenen berechtigten direkten Einzahlungen muss mindestens 5.000 $ für das Virtual Wallet mit Performance Select, 2.000 $ für das Virtual Wallet mit Performance Spending oder 500 $ für das Virtual Wallet betragen. Vorabüberweisungen per Kreditkarte, Überweisungen, Übertragungen von Person zu Person, Übertragungen von einem Konto auf ein anderes oder Einzahlungen, die in einer PNC-Filiale oder an einem Geldautomaten vorgenommen werden, gelten nicht als berechtigte direkte Einzahlungen.",
+      "paragraph38": "Das neue Konto kann nicht angeboten werden, wenn Sie oder ein Unterzeichner des neuen Kontos ein Verbraucher-Girokonto bei PNC Bank haben oder ein Konto in den letzten 12 Monaten geschlossen haben oder in den letzten 24 Monaten eine PNC-Werbebonus erhalten haben. Wenn mehrere Konten mit denselben Unterzeichnern eröffnet werden, ist nur eines der Konten für den Bonus berechtigt. Treuhandkonten, Nachlasskonten und andere spezialisierte Konten sind von diesem Angebot ausgeschlossen. Das Angebot kann jederzeit verlängert, geändert oder eingestellt werden und kann je nach Markt variieren. Der Wert der Belohnung kann auf den entsprechenden Formularen des Internal Revenue Service (IRS) angegeben werden und kann als steuerpflichtiges Einkommen für Sie angesehen werden. Bitte konsultieren Sie Ihren Steuerberater bezüglich Ihrer spezifischen Situation.",
+      "paragraph39": "Virtual Wallet ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph40": "Low Cash Mode ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph41": "Die Marken von Zelle werden hier unter Lizenz verwendet.",
+      "paragraph42": "Die PNC hat zahlreiche Patente/Patentanmeldungen für verschiedene Funktionen und Merkmale von Virtual Wallet.",
+      "paragraph43": "Bankeinlagenprodukte und -dienstleistungen werden von der PNC Bank, National Association, angeboten. Mitglied der FDIC."
+  },
+    "checkingAccount": {
+      "paragraph1": "Der Hypo-Modus ist nur auf dem Ausgabenkonto Ihres Virtual Wallet-Produkts verfügbar.",
+      "paragraph2": "Ein unterstütztes mobiles Gerät ist erforderlich, um Mobile Banking zu nutzen. Es können Standardgebühren für Nachrichten und Daten anfallen.",
+      "paragraph3": "Das Virtual Wallet-Studentenkonto hat keine Mindestguthabenanforderung oder monatliche Servicegebühr für aktive Studenten für sechs Jahre ab dem Datum der Kontoeröffnung. Möglicherweise werden Sie gebeten, einen Nachweis über die aktive Einschreibung in einer berechtigten Bildungseinrichtung vorzulegen. Am Ende der sechs Jahre wird Ihr Konto in ein Virtual Wallet umgewandelt und unterliegt den zu diesem Zeitpunkt geltenden Funktionen und Gebühren des Virtual Wallet. Wenn Sie dieses Konto innerhalb der ersten sechs Jahre auf einen anderen Produkttyp oder ein anderes Konto übertragen, verlieren Sie die Vorteile des Virtual Wallet-Studentenkontos und können nicht zum Virtual Wallet-Studentenkonto zurückkehren.",
+      "paragraph4": "Virtual Wallet ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph5": "PNC Purchase Payback ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph6": "Der Bargeldmodus ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph7": "Visa ist eine eingetragene Marke der Visa International Service Association und wird unter Lizenz verwendet.",
+      "paragraph8": "Bankeinzahlungsprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. CIDEC-Mitglied."
+    },
+    "savings": {
+      "paragraph1": "Um für einen Beziehungstarif in Frage zu kommen, müssen Sie ein verknüpftes Girokonto haben (für den Beziehungstarif des leistungsbasierten Girokontos müssen Sie ein leistungsbasiertes Girokonto oder eine virtuelle Geldbörse mit leistungsbasierten Ausgaben verknüpfen; für den Beziehungstarif des leistungsbasierten Girokontos müssen Sie ein leistungsbasiertes Girokonto oder eine virtuelle Geldbörse mit Performance Select verknüpfen) und eines der folgenden Kriterien erfüllen: ",
+      "paragraph2": " - Erhalten Sie eine Kombination aus 5 PINs oder mehr und/oder Transaktionen am Verkaufsort mit Unterschrift (ohne Bargeldvorschüsse), die im vorhergehenden Kalendermonat auf Ihrem Konto unter Verwendung Ihrer Visa-Debitkarte oder Ihrer verknüpften Visa-Kreditkarte aufgezeichnet wurden.",
+      "paragraph3": " - Haben Sie 2.000 Euro an berechtigten Direktüberweisungen (1.000 Euro für Kunden von WorkPlace oder Militärbanking) in einer verknüpften virtuellen Geldbörse mit leistungsbasierten Ausgaben oder einem leistungsbasierten Girokonto im vorhergehenden Kalendermonat.",
+      "paragraph4": " - Haben Sie 5.000 Euro an berechtigten Direktüberweisungen in einer verknüpften virtuellen Geldbörse mit Performance Select oder Performance Select Checking im vorhergehenden Kalendermonat. (Eine berechtigte Direktüberweisung ist eine wiederkehrende elektronische Überweisung, die von einem Arbeitgeber oder einer externen Agentur durchgeführt wird. Überweisungen von einem Konto auf ein anderes oder Einzahlungen, die über eine Filiale, Geldautomat, Online-Überweisung, mobiles Gerät oder per Post erfolgen, sind nicht berechtigt, um dieses Kriterium zu erfüllen.) Ab dem Monat nach der Eröffnung Ihres Premiere Money Market-Kontos und monatlich danach wird bestimmt, ob das Konto den Standardvariable oder den Beziehungstarif für den gesamten Kalendermonat verdient, basierend auf der Anzahl der berechtigten Transaktionen oder Anforderungen an Direktüberweisungen des vorhergehenden Kalendermonats. Wenn es Änderungen an Ihrem verknüpften Girokonto gibt (es wird geschlossen, in einen neuen Kontotyp geändert oder ist nicht mehr mit Ihrem Premiere Money Market-Konto verknüpft), sind Sie möglicherweise nicht mehr berechtigt für einen Beziehungstarif, oder die Tarife können auf die zum Zeitpunkt der Änderung geltenden Tarife geändert werden. Wir verknüpfen Konten nur auf Ihre Anweisung. Wenn Sie PNC nicht angewiesen haben, ein anderes Konto mit Ihrer virtuellen Geldbörse zu verknüpfen, werden die Konten nicht verknüpft, und Sie erhalten keinen Beziehungstarif, keine geltenden Ausnahmen von monatlichen Servicegebühren oder andere Beziehungsvorteile auf Ihren nicht verknüpften PNC-Konten. Sie sind verpflichtet, uns anzuweisen, Konten zu verknüpfen, damit Sie die Vorteile erhalten, die auf alle Ihre PNC-Konten angewendet werden.",
+      "paragraph5": "Um sich für den Standardbeziehungstarif für Ersparnisse zu qualifizieren, müssen Sie eine Standard-Giroverknüpfung, eine leistungsbasierte Giroverknüpfung, eine virtuelle Geldbörse mit leistungsbasierten Ausgaben, eine Auswahl an leistungsbasierten Giroverknüpfungen oder eine virtuelle Geldbörse mit ausgewählten Leistungen haben und eines der folgenden Kriterien erfüllen:",
+      "paragraph6": " - Erhalten Sie eine Kombination aus 5 PINs und/oder Unterschrift oder mehr von Transaktionen am Verkaufsort (ohne Bargeldvorschüsse), die im vorhergehenden Kalendermonat auf Ihrem Girokonto unter Verwendung Ihrer Visa-Debitkarte oder Ihrer PNC-Visa-Kreditkarte angezeigt werden, die Sie gewählt haben, um sie mit einem berechtigten PNC-Girokonto zu verknüpfen.",
+      "paragraph7": " - Haben Sie 500 Euro an berechtigten Direktüberweisungen in einem verknüpften Standard-Girokonto im vorhergehenden Kalendermonat.",
+      "paragraph8": " - Haben Sie 2.000 Euro an berechtigten Direktüberweisungen (1.000 Euro für Kunden von WorkPlace oder Militärdiensten) im vorhergehenden Kalendermonat in einer virtuellen Geldbörse mit leistungsbasierten Ausgaben oder einem leistungsbasierten Girokonto, das Sie gewählt haben zu verknüpfen.",
+      "paragraph9": " - Haben Sie 5.000 Euro an berechtigten Direktüberweisungen im vorhergehenden Kalendermonat in einer virtuellen Geldbörse mit Performance Select oder Select Checking, die Sie gewählt haben zu verknüpfen.",
+      "paragraph10": "(Eine berechtigte Direktüberweisung ist eine wiederkehrende elektronische Überweisung, die von einem Arbeitgeber oder einer externen Agentur durchgeführt wird. Überweisungen von einem Konto auf ein anderes oder Einzahlungen, die über eine Filiale, Geldautomat, Online-Überweisung, mobiles Gerät oder per Post erfolgen, sind nicht berechtigt, um dieses Kriterium zu erfüllen.)",
+      "paragraph11": "Wenn Sie ein Standard-Sparkonto oder Premiere Money Market-Konto eröffnen oder darauf übertragen, wird monatlich danach bestimmt, ob das Konto den Standardtarif oder den Beziehungstarif verdient, am ersten Tag eines jeden Monats, basierend auf der Anzahl der berechtigten Transaktionen oder Anforderungen an Direktüberweisungen im Vergleich zum vorhergehenden Kalendermonat.",
+      "paragraph12": "Wenn es Änderungen an Ihrem verknüpften Girokonto gibt (es wird geschlossen, in einen neuen Kontotyp geändert oder ist nicht mehr mit Ihrem Standard-Sparkonto oder Premiere Money Market-Konto verknüpft), sind Sie möglicherweise nicht mehr berechtigt für einen Beziehungstarif, oder die Tarife können auf die zum Zeitpunkt der Änderung geltenden Tarife geändert werden.",
+      "paragraph13": "Wir verknüpfen Konten nur auf Ihre Anweisung. Wenn Sie PNC nicht angewiesen haben, ein anderes Konto mit Ihrem Standard-Sparkonto oder Premiere Money Market-Konto zu verknüpfen, werden die Konten nicht verknüpft, und Sie erhalten keinen Beziehungstarif, keine geltenden Ausnahmen von monatlichen Servicegebühren oder andere Beziehungsvorteile auf Ihren nicht verknüpften PNC-Konten. Sie sind verpflichtet, uns anzuweisen, Konten zu verknüpfen, damit Sie die Vorteile erhalten, die auf alle Ihre PNC-Konten angewendet werden.",
+      "paragraph14": "Transaktionsgebühren gelten für Ihr Konto, wenn Sie während eines monatlichen Servicezeitraums mehr als sechs (6) eingeschränkte Überweisungen überschreiten. Eingeschränkte Überweisungen sind Überweisungen von einem Sparkonto oder Geldmarktkonto auf andere Konten (einschließlich Überweisungen auf ein anderes Konto zur Überziehungsschutz) oder an Dritte per Scheck, Entwurf, durch Transaktionen am Verkaufsort oder ähnliche Debitkarten-Transaktionen, durch vorab genehmigte oder automatische Vereinbarungen, telefonisch, online oder ähnliche Zahlungsanweisungen an einen Dritten. Wenn Sie mehr als insgesamt sechs (6) eingeschränkte Überweisungen während eines monatlichen Servicezeitraums vornehmen, werden Ihnen für jede eingeschränkte Überweisung Gebühren berechnet. Siehe Ihren Kontovertrag und die Gebührenübersicht für weitere Informationen. Andere Einschränkungen können auf Ihr Konto zutreffen. Wir behalten uns das Recht vor, die Durchsetzung dieser Transaktionsbeschränkungen auszusetzen oder nach unserem Ermessen zu ändern.",
+      "paragraph15": "Investitionen sind nicht durch die FDIC versichert, werden nicht von der Bank garantiert und können an Wert verlieren.",
+      "paragraph16": "Sesame Street, \"Sesame Workshop\" und die damit verbundenen Charaktere, Marken und Designs sind im Besitz und lizenziert von Sesame Workshop. - Sesame Workshop. Alle Rechte vorbehalten.",
+      "paragraph17": "\"S steht für Ersparnisse\" ist eine eingetragene Marke der PNC Financial Services Group, Inc.",
+      "paragraph18": "Virtual Wallet ist eine eingetragene Marke der PNC Financial Services Group, Inc.",
+      "paragraph19": "Money Mode ist eine eingetragene Marke der PNC Financial Services Group, Inc.",
+      "paragraph20": "Bankeinlagenprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. Mitglied der FDIC."
+    },
+    "creditCards": {
+      "paragraph1": "Um für Bonusangebote in Frage zu kommen, dürfen Sie das gleiche Kreditkartenprodukt nicht geöffnet haben und in den letzten 24 Monaten einen Bonus im Zusammenhang mit der Kontoeröffnung erhalten haben. Wenn Sie beispielsweise am 15. Januar 2023 eine PNC Cash Rewards-Kreditkarte eröffnet haben und dann einen Bonus im Rahmen der Kontoeröffnung erhalten haben, haben Sie keinen Anspruch auf einen Kontoeröffnungsbonus für eine andere PNC Cash Rewards-Kreditkarte, die vor dem 15. Januar 2025 eröffnet wurde, vorbehaltlich anderer Bedingungen.",
+      "paragraph2": "Der Begriff „Einkäufe“ umfasst nicht alle Transaktionen, die Sie mit Ihrer Kreditkarte durchführen. Einige eingeschränkte Transaktionen, wie Bargeldvorschüsse (einschließlich des Kaufs von barähnlichen Produkten) und Überweisungen, sind ausgeschlossen.",
+      "paragraph3": "Wir prüfen verschiedene Faktoren, einschließlich, aber nicht beschränkt auf, Ihre Kreditgeschichte, Ihr Einkommen und alle bestehenden Beziehungen zu PNC, um zu bestimmen, ob Sie die Voraussetzungen erfüllen, um mindestens die mit dem Kreditkartenprodukt, für das Sie sich bewerben, verbundene Mindestkreditlinie zu erhalten. Wenn wir Ihren Antrag ablehnen, teilen wir Ihnen die Gründe für die Ablehnung mit.",
+      "paragraph4": "Beantragen Sie eine neue PNC Cash Unlimited Visa Signature-Kreditkarte über PNC.com. Das Angebot ist verfügbar, wenn Sie sich über einen der auf dieser Seite bereitgestellten Links bewerben. Wenn Sie genehmigt werden, erhalten Sie einen Bargeldbonus von 250 Euro auf Ihrem Kontoauszug, nachdem Sie in den ersten 3 Monaten nach der Kontoeröffnung Einkäufe im Wert von 1.000 Euro getätigt haben. Der Bargeldbonus von 250 Euro wird Ihrem Konto innerhalb von 90 Tagen nach dem Einkauf gutgeschrieben, der es Ihnen ermöglicht hat, die Mindestanforderung von 1.000 Euro zu erfüllen.",
+      "paragraph5": "Beantragen Sie eine neue PNC Cash Rewards Visa-Kreditkarte über PNC.com. Das Angebot ist verfügbar, wenn Sie sich über einen der auf dieser Seite bereitgestellten Links bewerben. Wenn Sie genehmigt werden, erhalten Sie einen Bargeldbonus von 250 Euro auf Ihrem Kontoauszug, nachdem Sie in den ersten 3 Monaten nach der Kontoeröffnung Einkäufe im Wert von 1.000 Euro getätigt haben. Der Bargeldbonus von 250 Euro wird Ihrem Konto innerhalb von 90 Tagen nach dem Einkauf gutgeschrieben, der es Ihnen ermöglicht hat, die Mindestanforderung von 1.000 Euro zu erfüllen.",
+      "paragraph6": "Beantragen Sie eine neue PNC Punkte Visa-Kreditkarte über PNC.com. Das Angebot ist verfügbar, wenn Sie sich über einen der auf dieser Seite bereitgestellten Links bewerben. Wenn genehmigt, werden 100.000 Bonuspunkte gutgeschrieben, nachdem Sie in den ersten 3 Monaten nach der Kontoeröffnung mindestens 1.000 Euro an Einkäufen getätigt haben. Die 100.000 Bonuspunkte werden innerhalb von 90 Tagen nach dem Einkauf gutgeschrieben, der es Ihnen ermöglicht hat, die Mindestanforderung von 1.000 Euro zu erfüllen. Die PNC Bank, National Association („wir“, „unser“, „unsere“) behält sich das Recht vor, dieses Angebot jederzeit zu ändern oder zu widerrufen, ohne Ihnen gegenüber eine Entschädigung zu leisten.",
+      "paragraph7": "Sie können alle Boni (oder Belohnungen), die Sie unter diesem Angebot verdient haben, verlieren, wenn wir nach unserem alleinigen Ermessen feststellen, dass Sie sich an Missbrauch, Betrug oder Spielen im Rahmen dieses Angebots in irgendeiner Weise beteiligt haben oder beabsichtigen, dies zu tun. Dies kann ohne Einschränkung und ohne vorherige Ankündigung Folgendes umfassen: (1) dass Sie von dem Angebot disqualifiziert werden; (2) die Stornierung aller unter diesem Angebot gewährten Prämien (oder Belohnungen); (3) die Schließung oder Aussetzung Ihres Kontos; oder (4) rechtliche Schritte gegen Sie zur Rückforderung von finanziellen Verlusten, einschließlich Anwaltsgebühren und Schadensersatz.",
+      "paragraph8": "Die PNC Bank, National Association („wir“, „unser“, „unsere“) behält sich das Recht vor, dieses Angebot jederzeit zu ändern oder zu widerrufen, ohne Ihnen gegenüber eine Entschädigung zu leisten.",
+      "paragraph9": "Wenn Sie Ihr Konto selbst oder von uns schließen, werden alle Punkte und/oder Rückerstattungen, die Sie verdient, aber nicht eingelöst haben, sofort und automatisch einbehalten.",
+      "paragraph10": "Die jährliche Obergrenze von 8.000 Euro wird jedes Jahr am Datum Ihres Jubiläums zurückgesetzt und nicht zu Beginn jedes Kalenderjahres. Ihr Jubiläum ist das Datum, an dem Ihr Konto im PNC Cashback-Prämienprogramm registriert wurde, und jedes Jahr in demselben Monat/Tag danach. Wenn Ihr Konto beispielsweise am 17. Juni 2023 im Programm registriert wurde, ist Ihr Jubiläum im Jahr 2024 der Juni 2024.",
+      "paragraph11": "Einige Einkäufe von Lebensmitteln, Benzin oder Essen können nur für 1 % Cashback in Frage kommen. Dies liegt daran, dass der Cashback für einen Einkauf durch den Händlerkategoriecode bestimmt wird, der einem Händler zugewiesen ist. Der Händlerkategoriecode basiert auf der Art der Aktivitäten des Händlers und wird vom Kreditkartenverarbeiter des Händlers zugewiesen. Die PNC Bank weist keine Händlerkategoriecodes zu. Für weitere Einzelheiten siehe die Bedingungen des PNC Cashback-Prämienprogramms.",
+      "paragraph12": "Alle Punkte verfallen am Ende des Monats, 48 Monate nachdem sie Ihrem PNC Punkte-Konto hinzugefügt wurden. Wenn Sie Ihr Konto schließen, sei es von Ihnen oder von uns, werden die verdienten, aber nicht eingelösten Punkte sofort und automatisch einbehalten.",
+      "paragraph13": "Es gelten Einschränkungen. Informieren Sie die PNC Bank sofort über jede unautorisierte Nutzung. Für spezifische zeitliche Einschränkungen, Beschränkungen und andere Einzelheiten zur unautorisierten Nutzung konsultieren Sie bitte Ihren Kontovertrag.",
+      "paragraph14": "Wenn Sie Ihre monatliche Mobilfunkrechnung mit Ihrer berechtigten PNC Visa-Kreditkarte bezahlen, ist Ihr Mobiltelefon im folgenden Kalender-Monat geschützt, wenn es gestohlen oder beschädigt wird. Maximal zwei Ansprüche werden innerhalb eines Zeitraums von 12 Monaten bearbeitet, wobei jeder Anspruch einer Selbstbeteiligung von 50 Euro unterliegt. Zusätzliche Bedingungen und Ausschlüsse gelten. Wenn Ihr Kreditantrag genehmigt wird, erhalten Sie einen Link zu einem Leistungsleitfaden, der vollständige Einzelheiten über das Programm enthält.",
+      "paragraph15": "Die Punkte PNC Cash Unlimited, PNC Cash Rewards, PNC Core und PNC sind eingetragene Marken der PNC Financial Services Group, Inc.",
+      "paragraph16": "Virtual Wallet ist eine eingetragene Marke der PNC Financial Services Group, Inc.",
+      "paragraph17": "Visa und Visa Signature sind eingetragene Marken der Visa International Service Association und werden unter Lizenz verwendet.",
+      "paragraph18": "Die PNC Bank, National Association ist der Emittent der hier beschriebenen Kreditkarten der PNC Bank.",
+      "paragraph19": "Bankeinzahlungsprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. CIDEC-Mitglied.",
+      "paragraph20": "Gemäß dem Gesetz von 2009 über die Verantwortung, Haftung und Werbung für Kreditkarten wurden die folgenden Kreditkartenverträge dem Federal Reserve Board vorgelegt. Diese Verträge waren am 31. Juli 2024 in Kraft. Wenn Sie jetzt einen Kreditkartenantrag stellen, können die Bedingungen des Kontos, das Sie beantragen, von den unten eingereichten Verträgen abweichen."
+    },
+    "studentBanking": {
+      "paragraph1": "Der Student der virtuellen Geldbörse hat keine Anforderungen an ein Mindestguthaben oder monatliche Servicegebühren für aktive Studenten für sechs Jahre ab dem Datum der Kontoeröffnung. Es kann erforderlich sein, dass Sie einen Nachweis über die aktive Immatrikulation an einer qualifizierten Bildungseinrichtung vorlegen. Nach Ablauf von sechs Jahren wird Ihr Konto in eine virtuelle Geldbörse umgewandelt und unterliegt den zu diesem Zeitpunkt geltenden Merkmalen und Gebühren für virtuelle Geldbörsen. Wenn Sie dieses Konto innerhalb der ersten sechs Jahre auf ein anderes Produkt oder Konto übertragen, verlieren Sie die Vorteile des Kontos Virtual Wallet Student und können nicht mehr auf das Konto Virtual Wallet Student zurückkehren.",
+      "paragraph2": "Die PNC erhebt keine Gebühren für mobile Bankdienstleistungen, einschließlich PNC-Benachrichtigungen. Es können jedoch Gebühren für Nachrichten und Daten von Drittanbietern anfallen. Überprüfen Sie dies bei Ihrem Mobilfunkanbieter für weitere Details.",
+      "paragraph3": "Der Hyposchet-Modus ist nur auf dem Ausgabenkonto Ihres Produkts Virtual Wallet verfügbar.",
+      "paragraph4": "Er sollte nur verwendet werden, um Geld mit Personen zu senden oder zu empfangen, die Sie kennen und denen Sie vertrauen. Bevor Sie Geld senden, müssen Sie die E-Mail-Adresse des Empfängers oder die US-Handynummer bestätigen. Weder die PNC noch die PNC bieten Käuferschutz für Zahlungen, die mit Zelle getätigt werden, zum Beispiel, wenn Sie den Artikel, für den Sie bezahlt haben, nicht erhalten oder der Artikel nicht wie beschrieben oder erwartet ist. Es steht nahezu jedem mit einem Bankkonto in den USA zur Verfügung. Transaktionen erfolgen in der Regel innerhalb weniger Minuten zwischen registrierten Nutzern. Wenn der Empfänger sich nicht registriert hat, läuft die Zahlung nach 14 Kalendertagen ab. Für weitere Nutzungsbedingungen siehe die Nutzungsbedingungen von PNC Zelle für zusätzliche Bedingungen. Die Nutzung von Zelle unterliegt der Einhaltung der Nutzungsbedingungen von PNC.",
+      "paragraph5": "Die PNC Solution-Darlehen und die Bildungskredite der PNC unterliegen der Kreditgenehmigung. Es gelten bestimmte Einschränkungen und Bedingungen. Sie werden ermutigt, alle Optionen für Stipendien, Zuschüsse und Bundesdarlehen zu prüfen, bevor Sie einen Privatkredit beantragen. Bundesdarlehen bieten Vorteile, die möglicherweise nicht bei einem Privatkredit verfügbar sind.",
+      "paragraph6": "Der Modus in numérité ist ein eingetragenes Markenzeichen der The PNC Financial Services Group, Inc.",
+      "paragraph7": "Die Marken von Avertissement, LLC, werden hier unter Lizenz verwendet.",
+      "paragraph8": "Virtual Wallet Student ist eine eingetragene Marke der The PNC Financial Services Group, Inc.",
+      "paragraph9": "Visa ist eine eingetragene Marke der Visa International Service Association und wird unter Lizenz verwendet.",
+      "paragraph10": "Die PNC bietet gleichen Zugang für qualifizierte Personen, unabhängig von Rasse, Hautfarbe, Geschlecht, Religion, nationaler Herkunft, Alter, sexueller Orientierung, Geschlechtsidentität, Behinderung, Veteranenstatus oder einer anderen gesetzlich geschützten Kategorie.",
+      "paragraph11": "Einlagenprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. CIDEC-Mitglied."
+    },
+    "homeEquity": {
+      "paragraph1": "Kredite unterliegen der Genehmigung. Es gelten bestimmte Einschränkungen und Bedingungen.",
+      "paragraph2": "Dieses Konto bietet die Möglichkeit, einen oder mehrere Festzins-Blockaden während der Abhebungsperiode für einen Zeitraum von 5 bis 30 Jahren einzurichten (außer im Bundesstaat Tennessee, wo die Laufzeiten von 5 bis 20 Jahren reichen). Es fällt eine Gebühr an, jedes Mal, wenn Sie diese Option nutzen. Der einführende effektive Jahreszins (APR) gilt nicht für Salden, die Sie in einen Festzins-Teil übertragen.",
+      "paragraph3": "Zinsen auf Kredite/Eigenkapitallinien, die nicht als Hypothekenschulden gelten, sind nicht steuerlich absetzbar. Bitte konsultieren Sie Ihren Steuerberater.",
+      "paragraph4": "Um einen Rabatt von 0,25 % auf den variablen APR, der nach Ablauf der Einführungsphase gilt, zu erhalten, müssen Sie automatische Zahlungen von einem berechtigten PNC-Girokonto bei Abschluss einrichten. Der automatische Zahlungserlass wird unterbrochen, wenn Sie die automatischen Zahlungen stornieren. Die PNC kann gelegentlich ein werbewirksames Angebot für automatische Zahlungen anbieten. Der automatische Zahlungserlass gilt nicht für den einführenden APR.",
+      "paragraph5": "Transportgebühren können anfallen.",
+      "paragraph6": "Die Jahresgebühr beträgt 50 Euro.",
+      "paragraph7": "Eine Titelversicherung kann für Linien von 500.000 Euro oder mehr und für Linien mit niedrigeren Beträgen erforderlich sein, abhängig von verschiedenen Faktoren, einschließlich der Art und Weise, wie die Immobilie erworben wurde. Wenn eine Titelversicherung erforderlich ist, können die Gebühren bis zu 605 Euro und 16.270 Euro betragen.",
+      "paragraph8": "Es fällt eine Gebühr an, wenn Sie einen Teil mit festem Zinssatz festlegen; diese Gebühren werden jedoch erlassen, wenn Sie einen Teil mit festem Zinssatz bei der ursprünglichen Kreditlinie erstellen.",
+      "paragraph9": "Neben allen erforderlichen Eigentumsversicherungen sind Sie verpflichtet, eine Wohngebäudeversicherung für die Vermögenswerte abzuschließen, die Ihr Konto absichern. Eine Hochwasserversicherung kann erforderlich sein. Ihre Zahlungen auf diesem Konto enthalten keine Steuern oder Versicherungen. Die PNC Bank übernimmt bestimmte Abschlussgebühren, einschließlich, falls zutreffend, bestimmter staatlicher Übertragungsgebühren und Kosten in Ihrem Namen. Wenn Sie Ihre Kreditlinie innerhalb der ersten 36 Monate bezahlen und schließen, müssen Sie diese Abschlussgebühren zurückerstatten. Für Konten im Texas gelten keine rückzahlbaren Gebühren.",
+      "paragraph10": "Dieses Konto beinhaltet eine Option zur Einrichtung eines Festzins-Teils für Laufzeiten von 5 bis 30 Jahren (außer im Bundesstaat Tennessee, wo die Laufzeiten von 5 bis 20 Jahren reichen). Die Zahlungen umfassen Kapital- und Zinsbeträge, die auf einer Amortisationstabelle basieren, die darauf ausgelegt ist, den Betrag des Festzins-Teils am Ende der gewählten Laufzeit vollständig zurückzuzahlen.",
+      "paragraph11": "Die anwendbaren APRs für die Festzins-Teile variieren und basieren auf dem Wert des aktuell geltenden Festzins-Optionsindex, zum Zeitpunkt der Festlegung eines Festzins-Teils; und einem Margenwert basierend auf Ihren Kreditqualifikationen, der Rückzahlungsdauer des Festzins-Teils, dem Überweisungsbetrag, dem Immobilientyp, dem Darlehen im Verhältnis zum Wert, der Pfandrecht-Position und ob Sie die automatische Zahlungsfunktion auf einem bei der Antragstellung eingerichteten PNC-Girokonto wählen. Sobald ein Festzins-Teil eingerichtet ist, ändert sich die APR für diesen Teil nicht. Der Mindestbetrag zur Einrichtung eines Festzins-Teils beträgt 5.000 Euro. Die Hauptzahlungen während der Abhebungsphase erneuern die verfügbare Kreditlinie und stehen für zukünftige Abhebungen zur Verfügung.",
+      "paragraph12": "Ihr Zinssatz kann auch höher oder niedriger sein, da die Zinssätze jederzeit in Abhängigkeit von Marktbedingungen oder anderen geschäftlichen Faktoren, einschließlich Änderungen der Referenzzinssätze, angepasst werden können. Rufen Sie 1-833-353-0111 an, um die aktuellsten verfügbaren Tarife in Ihrem Markt zu erhalten.",
+      "paragraph13": "Die Zinssätze für den festen Teil und die angezeigten Zahlungen gelten nur für Neukunden.",
+      "paragraph14": "Aussetzung der Kreditprivilegien und Reduzierung des maximalen Kreditlimits. Bestimmte Bedingungen, wie z. B. eine wesentliche negative Änderung Ihrer finanziellen Situation oder ein erheblicher Rückgang des Marktwerts Ihres Hauses, können zur vorübergehenden Aussetzung Ihrer Fähigkeit führen, auf Ihr HELOC zuzugreifen, oder zur Reduzierung Ihres maximalen Kreditlimits führen. Bitte beachten Sie die Offenlegung mit dem Titel „Wichtige Bedingungen unserer Wahl von Kreditlinien für Eigenheimwerte“ für eine vollständige Beschreibung der Bedingungen, unter denen die PNC zusätzliche Abhebungen einschränken oder das Kreditlimit reduzieren kann.",
+      "paragraph15": "Bankeinzahlungsprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. CIDEC Mitglied.",
+      "paragraph16": "Die Vorteile eines HELOCs zur Schuldenkonsolidierung hängen von Ihrer individuellen Situation ab. Da ein HELOC eine längere Laufzeit haben kann als die Schulden, die Sie konsolidieren möchten, könnten Sie möglicherweise über die gesamte Laufzeit Ihrer neuen HELOC keine Einsparungen erzielen.",
+      "paragraph17": "Wenn Sie derzeit Anspruch auf die Vorteile des Service Civil Relief Act (SCRA) haben, könnte eine Refinanzierung der bestehenden Schulden nicht vorteilhaft sein.",
+      "paragraph18": "Ursprungsgebühren: Kunden mit Sicherheiten in Kalifornien, North Carolina und New York unterliegen einer Ursprungsgebühr, die mit dem ersten monatlichen Abrechnungsauszug nach Eröffnung des Kontos fällig wird. Die Ursprungsgebühr wird basierend auf dem genehmigten Kreditlimit wie folgt berechnet: Für genehmigte Kreditlinien bis 149.999,99 Euro beträgt die Ursprungsgebühr 199 Euro; für genehmigte Kreditlinien von 150.000 Euro bis 499.999,99 Euro beträgt die Ursprungsgebühr 299 Euro; für genehmigte Kreditlinien von 500.000 Euro bis 749.999,99 Euro beträgt die Gebühr 499 Euro.",
+      "paragraph19": "Kreditlinien für Eigenkapital aus Texas Choice können nur durch eine als Hauptwohnsitz bezeichnete Immobilie gesichert werden und dürfen 80 % der kombinierten Kredite zum Wert dieser Vermögenswerte nicht überschreiten. Gebühren, die nicht für mit Immobilien aus Texas gesicherte Konten gelten, umfassen: die Jahresgebühr und die Rückzahlung aller Abschlussgebühren, die im Namen des Kreditnehmers von der PNC Bank bezahlt wurden, wenn der Kunde die Kreditlinie innerhalb von 36 Monaten nach Eröffnung des Kontos schließt. Die Mindestabhebung in Texas beträgt 4.000 Euro. Kreditlinien, die über Texas erhalten wurden, sind nicht für eine VISA Choice Zugangskarte berechtigt und erhalten Zugangsschecks auf Anfrage. Die PNC darf die Eigenheimkapitalfonds eines Kunden nicht verwenden, um (ganz oder teilweise) die nicht Immobilienverbindlichkeiten der PNC bei Kontoeröffnung zu bezahlen.",
+      "paragraph20": "- 2017-2024 und TM, NerdWallet, Inc. Alle Rechte vorbehalten.",
+      "paragraph21": "NerdWallet und das NerdWallet-Logo sind Marken von NerdWallet, Inc. und werden mit Genehmigung verwendet.",
+      "paragraph22": "PNC ist eine eingetragene Dienstleistungsmarke von The PNC Financial Services Group, Inc. ('PCN'). Alle Kredite werden von der PNC Bank, National Association, einer Tochtergesellschaft der PNC, vergeben und unterliegen der Kreditgenehmigung und der Bewertung von Immobilien."
+    },
+    "autoLoans": {
+      "paragraph1": "Kredite unterliegen der Genehmigung. Es gelten bestimmte Einschränkungen und Bedingungen.",
+      "paragraph2": "Schecks können nur bei autorisierten Händlern verwendet werden, die neue Fahrzeuge von Herstellern wie Ford, Kia oder BMW verkaufen, oder bei berechtigten Händlern. Schecks können verwendet werden, um neue oder gebrauchte Fahrzeuge bei diesen Händlern zu kaufen. Bitte bestätigen Sie vor dem Besuch eines Händlers, dass es sich um einen berechtigten Händler handelt.",
+      "paragraph3": "Refinanzierung: Eine längere Refinanzierung kann Ihre Autofinanzierung senken, könnte jedoch auch den Gesamtbetrag der während der Laufzeit des Darlehens gezahlten Zinsen erhöhen. Eine kürzere Refinanzierung kann Ihre Autofinanzierung erhöhen, kann jedoch die insgesamt gezahlten Zinsen während der Laufzeit des Darlehens verringern. Wenn Sie beispielsweise ein 60-monatiges Darlehen haben, das in 55 Monaten fällig wird, und Sie es erneut über 60 Monate zu einem niedrigeren Zinssatz refinanzieren, werden Ihre Zahlungen geringer, aber Sie zahlen Zinsen für weitere 5 Monate. Kontaktieren Sie uns, um die Option zu besprechen, die am besten zu Ihren Bedürfnissen passt.",
+      "paragraph4": "Die Bedingungen der Website, die Datenschutz- und Sicherheitsrichtlinien der PNC Bank gelten nicht für die Website, die Sie gerade besuchen. Bitte überprüfen Sie die Bedingungen, Datenschutz- und Sicherheitsrichtlinien von TrueCar, um zu sehen, wie sie auf Sie zutreffen. PNC Total Auto wird von TrueCar bereitgestellt.",
+      "paragraph5": "Bankeinlagenprodukte und -dienstleistungen werden von der PNC Bank, National Association, bereitgestellt. Mitglied der FDIC.",
+      "paragraph6": "PNC und PNC Total Auto sind eingetragene Marken der The PNC Financial Services Group, Inc."
+    }
+  },
+    "sectionFinancial": {
+      "title": "Finanzielles Wohlbefinden",
+      "text": "Wir können Ihnen helfen, ein klares Verständnis Ihrer aktuellen Situation zu erlangen und für die Zukunft zu planen, die Sie sich wünschen."
+    },
+  "banking": {
+    "home": {
+      "heroBanner": {
+        "title": "Ändern Sie, wie Sie Bankgeschäfte tätigen",
+        "text": "Machen Sie den nächsten Schritt mit der PNC Virtual Wallet – Überprüfungs-, Spar- und Finanztools, die Sie überall unterstützen.",
+        "learnMore": "Erfahren Sie mehr"
+      }
+    },
+    "virtualWallet": {
+      "heroBanner": {
+        "title": "Virtuelle Geldbörse",
+        "text": "Die virtuelle Geldbörse von PNC kombiniert Überprüfungs- und Spartools, um Ihnen bei der Verwaltung Ihres finanziellen Lebens zu helfen."
+      },
+      "offers": {
+        "title": "Wählen Sie Ihre virtuelle Brieftasche",
+        "text": "Die virtuelle Brieftasche umfasst ein Girokonto Spend, ein Girokonto Reserve und ein Sparkonto Growth ohne Gebühren, um Ihnen bei der Verwaltung Ihres Geldes zu helfen. Wählen Sie die aus, die am besten zu Ihnen passt:",
+        "feature1": {
+          "title": "Virtuelle Brieftasche",
+          "text": "Wenn Sie berechtigte direkte Einzahlungen in Höhe von insgesamt 500 $ oder mehr auf das Girokonto einrichten, umfasst:",
+          "earn": "Verdienen Sie 100 $",
+          "items": {
+            "text1": "Spend - primäres Girokonto",
+            "text2": "Reserve - sekundäres Girokonto",
+            "text3": "für kurzfristige Planung",
+            "text4": "Growth - langfristiges Sparkonto",
+            "text5": "Monatliche Servicegebühr von 7 $, oder 0 $ mit 500 $ an direkten Einzahlungen auf Ihr Spend-Konto oder einem kombinierten Saldo zwischen Girokonten",
+            "text6": "Zinssätze auf Ihr Growth-Konto",
+            "text7": "Beziehungszinssätze auf Ihrem Wachstums-Konto"
+          }
+        },
+        "feature2": {
+          "title": "Virtuelle Brieftasche mit Performance-Ausgaben",
+          "text": "Wenn Sie berechtigte direkte Einzahlungen in Höhe von insgesamt 2.000 $ oder mehr auf das Spend-Konto einrichten, umfasst:",
+          "earn": "Verdienen Sie 200 $",
+          "items": {
+            "text1": "Spend - primäres Girokonto",
+            "text2": "Reserve - sekundäres Girokonto für kurzfristige Planung",
+            "text3": "Growth - langfristiges Sparkonto",
+            "text4": "Monatliche Servicegebühr von 15 $, oder 0 $ mit 2.000 $ an direkten Einzahlungen auf Ihr Spend oder einem kombinierten Saldo zwischen Girokonten",
+            "text5": "Erstattungen für bestimmte Nicht-PNC-Gebühren von Geldautomaten verfügbar",
+            "text6": "Höhere Zinssätze für Ihr Growth-Konto"
+          }
+        },
+        "feature3": {
+          "title": "Virtuelle Brieftasche mit Performance Select",
+          "text": "Wenn Sie berechtigte direkte Einzahlungen in Höhe von insgesamt 5.000 $ oder mehr auf das Spend-Konto einrichten, umfasst:",
+          "earn": "Verdienen Sie 400 $",
+          "items": {
+            "text1": "Spend - primäres Girokonto",
+            "text2": "Reserve - sekundäres Girokonto für kurzfristige Planung",
+            "text3": "Growth - langfristiges Sparkonto",
+            "text4": "Monatliche Servicegebühr von 25 $, oder 0 $ mit 5.000 $ an direkten Einzahlungen auf Ihr Spend oder einem kombinierten Saldo zwischen Girokonten",
+            "text5": "Keine PNC-Gebühren für die Nutzung von Geldautomaten anderer Banken und erhöhte Rückerstattungen für Gebühren anderer Banken verfügbar",
+            "text6": "Höchste Zinssätze für Ihr Growth-Konto",
+            "text7": "Keine Gebühren für Inlandsüberweisungen"
+          }
+        }
+      },
+      "infos": {
+        "title": "Mit der Virtuellen Geldbörse erhalten Sie",
+        "text": "Drei Konten, die mit digitalen Tools verknüpft sind, um Ihnen zu helfen, Ihr Geld zu verwalten",
+        "alt": "Bild",
+        "feature1": {
+          "title": "Drei Konten helfen Ihnen, zu sparen, zu planen und auszugeben.",
+          "text": "Es ist einfach, Geld von einem Konto auf ein anderes zu überweisen, damit Sie organisiert bleiben und auf dem richtigen Weg sind, um Ihre Ziele zu erreichen.",
+          "items": {
+            "text1": "Spend ist Ihr Hauptkonto – Sie erhalten auch eine Debitkarte mit kontaktloser Technologie für einfaches Bezahlen.",
+            "text2": "Reserve ist Ihr sekundäres Girokonto – für alle Ihre kurzfristigen Budgetierungsbedürfnisse.",
+            "text3": "Growth ist Ihr langfristiges Sparkonto, um Ihnen zu helfen, Ihre Ziele zu erreichen."
+          }
+        },
+        "feature2": {
+          "title": "Die digitalen Tools der Virtuellen Geldbörse bringen alles zusammen.",
+          "text": "",
+          "alt": "Bild",
+          "items": {
+            "text1": "Zelle® hilft Ihnen, Geld einfach mit Personen zu senden und zu empfangen, die Sie kennen und denen Sie vertrauen.",
+            "text2": "Niedrig-Bargeld-Modus gibt Ihnen mehr Kontrolle, wenn Ihr Saldo niedrig ist, und mehr Zeit, um Ihr Konto aus dem Minus zu bringen.",
+            "text3": "Ausgabenkategorien ermöglichen es Ihnen, zu überprüfen und zu verfolgen, wie Sie ausgeben und besser für die Zukunft zu budgetieren.",
+            "text4": "Der Kalender ermöglicht es Ihnen, bevorstehende Rechnungen und Gehaltstage zu planen und zu verfolgen, damit Sie im Voraus planen können.",
+            "text5": "Ziele und Sparregeln helfen Ihnen, Ihren langfristigen Planungsprozess zu verfolgen und voranzutreiben."
+          }
+        }
+      }
+    },
+    "sectionCollapse": {
+      "virtualWallet": {
+        "collapse1": {
+          "title1": "PNC Virtuelle Brieftasche.",
+          "text1": "Einschließlich Modus mit niedrigem Bargeldstand",
+          "title2": "Verdienen Sie bis zu 400 $",
+          "text2": "wenn Sie ein neues Produkt der Virtuellen Brieftasche eröffnen und nutzen",
+          "tab1": {
+            "text1": "In der heutigen Welt brauchen Sie mehr als nur ein Girokonto. Die Virtuelle Brieftasche beginnt mit Ausgaben, das ist ein Girokonto, und digitalen Tools, die Ihnen helfen, Ihr Geld zu verwalten und auf Kurs zu bleiben. Um Ihre Bedürfnisse bestmöglich zu erfüllen, bieten wir drei Ausgabestufen an.",
+            "text2": "Egal, ob Sie sich für eine Virtuelle Brieftasche nur mit Ausgaben entscheiden oder Reserve und Wachstum für Planung, Sparen und Schutz hinzufügen, die Virtuelle Brieftasche funktioniert als leistungsstarke Lösung für die heutigen Bankbedürfnisse."
+          }
+        },
+        "collapse2": {
+          "title1": "Virtuelle Brieftasche® für Studenten",
+          "text1": "Ein Giro- und Sparkonto, das für Studenten entwickelt wurde, um Ihnen zu helfen, Ihr finanzielles Leben zu verwalten.",
+          "tab1": {
+            "text1": "  - Keine monatlichen Servicegebühren für 6 Jahre",
+            "text2": "  - Kombination aus Giro- und Sparkonto",
+            "text3": "  - Warnungen und Überziehungsschutz, einschließlich niedrigem Bargeldmodus in der PNC Mobile App"
+          }
+        },
+        "collapse3": {
+          "title1": "Entdecken Sie die Verbesserung Ihrer Budget- und Finanzbedürfnisse.",
+          "tab1": {
+            "text1": "  - Keine Überziehungsgebühren",
+            "text2": "  - Kostenlose Bankschecks",
+            "text3": "  - Digitale Tools zur Verfolgung Ihrer Kontobewegungen"
+          }
+        }
+      },
+      "savings": {
+        "collapse1": {
+          "title1": "Virtuelle Brieftasche®",
+          "text1": "Überprüfung und Ersparnisse. Gemeinsam.",
+          "tab1": {
+            "text1": "Einschließlich Modus mit niedrigem Bargeldstand",
+            "text2": "In der heutigen Welt brauchen Sie mehr als nur ein Girokonto. Die Virtuelle Brieftasche beginnt mit Überprüfungen (wir nennen es Ausgaben) und digitalen Tools, die Ihnen helfen, Ihr Geld zu verwalten und auf Kurs zu bleiben. Um Ihre Bedürfnisse bestmöglich zu erfüllen, bieten wir drei Ausgabestufen an.",
+            "text3": "Egal, ob Sie sich für eine Virtuelle Brieftasche nur mit Ausgaben entscheiden oder Reserve und Wachstum für Planung, Sparen und Schutz hinzufügen, die Virtuelle Brieftasche funktioniert als leistungsstarke Lösung für die heutigen Bankbedürfnisse."
+          }
+        },
+        "collapse2": {
+          "title1": "Premium Geldmarkt",
+          "text1": "Ein Konto, das Ihre Bankbeziehung mit höheren Zinssätzen belohnt.",
+          "tab1": {
+            "text1": "  - Höhere Beziehungssätze, wenn bestimmte Voraussetzungen erfüllt sind",
+            "text2": "  - Unbegrenzte Einzahlungen und Überweisungen auf das Konto",
+            "text3": "  - FDIC versichert bis zur maximalen gesetzlich erlaubten Höhe"
+          }
+        },
+        "collapse3": {
+          "title1": "Standard-Sparen",
+          "text1": "Eine einfache Möglichkeit, mit dem Sparen zu beginnen und Ihnen zu helfen, Ihre kurz- und langfristigen Ziele zu erreichen.",
+          "tab1": {
+            "text1": "  - Mindesteinzahlung zur Eröffnung: 0 €",
+            "text2": "  - Verdienen Sie einen höheren Beziehungssatz, wenn bestimmte Voraussetzungen erfüllt sind",
+            "text3": "  - Unbegrenzte Einzahlungen und Überweisungen auf das Konto",
+            "text4": "  - Automatisches Spar-Tool, das es Ihnen ermöglicht, eine wiederkehrende Sparroutine einzurichten",
+            "text5": "  - Überziehungsschutz - verknüpfen Sie Ihr Standard-Sparkonto mit Ihrem PNC-Girokonto",
+            "text6": "  - FDIC versichert bis zur maximalen gesetzlich erlaubten Höhe"
+          }
+        },
+        "collapse4": {
+          "title1": "Festgeldzertifikat",
+          "text1": "Verdienen Sie einen festen Zinssatz.",
+          "tab1": {
+            "text1": "Fester Ertragszins",
+            "text2": "Verschiedene Laufzeiten verfügbar von 7 Tagen bis 10 Jahre mit automatischer Erneuerung",
+            "text3": "FDIC versichert bis zur maximalen gesetzlich erlaubten Höhe",
+            "text4": "Ergänzen Sie die Altersvorsorge mit einem steuerlich aufgeschobenen CD IRA"
+          }
+        },
+        "collapse5": {
+          "title1": "S steht für Sparen",
+          "text1": "Eine lustige und freundliche Art, Ihrem Kind zu helfen, zu sparen, zu teilen und auszugeben.",
+          "tab1": {
+            "text1": "Interaktive Online-Banking-Erfahrung, die grundlegende Geldkonzepte mit Tipps von Sesame Workshop zum Erlernen der finanziellen Grundlagen vorstellt",
+            "text2": "Keine Servicegebühren für Kontoinhaber unter 18 Jahren",
+            "text3": "Zinsen auf Guthaben ab 1 $",
+            "text4": "Mit Zielsetzung, setzen Sie spezifische Sparziele mit Ihrem Kind, die es im Laufe der Zeit erreichen kann"
+          }
+        }
+      },
+      "creditCards": {
+        "collapse1": {
+          "title1": "PNC Cash Unlimited und Visa Signature Kreditkarte",
+          "text1": "Verdienen Sie unbegrenzte 2 % Cashback auf jeden Kauf",
+          "title2": "Verdienen Sie 250 $",
+          "text2": "$0 Jahresgebühr",
+          "tab1": {
+            "text1": "Muss für eine minimale Kreditlinie von 5.000 $ berechtigt sein.",
+            "text2": "Bonusangebot: Verdienen Sie einen Bonus von 250 $, nachdem Sie innerhalb der ersten 3 Monate nach Kontoeröffnung Einkäufe in Höhe von 1.000 $ oder mehr getätigt haben.",
+            "text3": "Kartenleistungen:",
+            "text4": "   - Keine Limits, wie viel Sie verdienen können",
+            "text5": "   - Keine Ablaufdaten für Cashback, um sich Gedanken zu machen",
+            "text6": "   - Keine Auslandstransaktionsgebühren",
+            "text7": "Einführungsangebote: Sparen Sie mehr mit einem einführenden APR von 0 % für Überweisungen.",
+            "text8": "  - 0 % APR für berechtigte Überweisungen während der ersten 15 Monate nach Kontoeröffnung, wenn der Saldo innerhalb der ersten 90 Tage übertragen wird.",
+            "text9": "  - Danach ein variabler APR für Überweisungen, derzeit 19,74 % bis 29,74 %, basierend auf der Kreditwürdigkeit. Dieser APR variiert je nach Marktlage basierend auf dem Basiszinssatz."
+          }
+        },
+        "collapse2": {
+          "title1": "PNC Cash Rewards und Visa Kreditkarte",
+          "text1": "Maximieren Sie Ihr Cashback",
+          "title2": "$0 Jahresgebühr",
+          "text2": "Verdienen Sie 250 $",
+          "tab1": {
+            "text1": "Muss für eine minimale Kreditlinie von 500 $ berechtigt sein.",
+            "text2": "Bonusangebot: Verdienen Sie einen Bonus von 250 $, nachdem Sie innerhalb der ersten 3 Monate nach Kontoeröffnung Einkäufe in Höhe von 1.000 $ oder mehr getätigt haben.",
+            "text3": "Kartenleistungen:",
+            "text4": "  - 4 % Cashback auf Tankstellenkäufe",
+            "text5": "  - 3 % Cashback auf Restaurantkäufe",
+            "text6": "  - 2 % Cashback auf Lebensmittelkäufe",
+            "text7": "Für die ersten 8.000 $ an kombinierten Einkäufen in den obigen Kategorien pro Jahr.",
+            "text8": "Verdienen Sie 1 % Cashback auf alle anderen Einkäufe"
+          }
+        },
+        "collapse3": {
+          "title1": "PNC Core, Visa Kreditkarte",
+          "text1": "Sparen Sie mit niedrigen Raten",
+          "title2": "$0 jährliche Gebühr",
+          "tab1": {
+            "text1": "Muss für eine minimale Kreditlinie von 500 $ berechtigt sein.",
+            "text2": "Einführungsangebote: Sparen Sie mehr mit unserem einführenden Satz von 0 % für Einkäufe und Überweisungen.",
+            "text3": "  - 0 % einführender APR auf Einkäufe für die ersten 18 Monate nach Kontoeröffnung.",
+            "text4": "  - 0 % einführender APR auf Überweisungen für die ersten 18 Monate nach Kontoeröffnung, wenn der Saldo innerhalb der ersten 90 Tage übertragen wird.",
+            "text5": "  - Danach ein variabler APR auf Einkäufe und Überweisungen, derzeit 18,74 % bis 29,74 %, basierend auf der Kreditwürdigkeit. Dieser APR variiert je nach Marktlage basierend auf dem Basiszinssatz."
+          }
+        },
+        "collapse4": {
+          "title1": "PNC Points - Visa Kreditkarte",
+          "text1": "Verdienen Sie Punkte für aufregende Belohnungen",
+          "title2": "$0 jährliche Gebühr",
+          "text2": "Verdienen Sie 100.000 Punkte",
+          "tab1": {
+            "text1": "Muss für eine minimale Kreditlinie von 500 $ berechtigt sein.",
+            "text2": "Bonusangebot: Verdienen Sie 100.000 Bonuspunkte, nachdem Sie innerhalb der ersten 3 Monate nach Kontoeröffnung Einkäufe in Höhe von 1.000 $ getätigt haben.",
+            "text3": "Kartenleistungen: Verdienen Sie 4 bis 7 Punkte für jeden ausgegebenen Dollar und lösen Sie sie gegen Belohnungen ein, einschließlich Apple-Produkten, Waren, Reisen, Geschenkkarten oder Cashback.",
+            "text4": "  - Verdienen Sie zusätzliche Punkte neben den Basispunkten, die Sie in einem Abrechnungszeitraum verdienen, wenn Sie zusätzliche Anforderungen mit einem berechtigten PNC-Sparkonto erfüllen.",
+            "text5": "  - Es gibt kein Limit für die Anzahl der Punkte, die Sie verdienen können."
+          }
+        },
+        "collapse5": {
+          "title1": "PNC Visa Secured Kreditkarte",
+          "text1": "Bauen Sie Ihren Kredit auf und stärken Sie ihn",
+          "tab1": {
+            "text1": "Kartenleistungen:",
+            "text2": "  - Öffnen Sie Ihr Konto mit einer rückzahlbaren Kaution (300 bis 2.500 $). Wenn genehmigt, wird die Kaution verwendet, um Ihr neues Kreditlimit festzulegen.",
+            "text3": "  - Bauen Sie Ihren Kredit auf, stärken Sie ihn oder entwickeln Sie ihn weiter – verwenden Sie diese Karte verantwortungsbewusst und im Laufe der Zeit kann sie Ihre Gesamtkreditwürdigkeit verbessern.",
+            "text4": "  - Die PNC Visa Secured Kreditkarte kann nur persönlich in einer PNC Bankfiliale eröffnet werden. Bewerben Sie sich, indem Sie die nächstgelegene Filiale besuchen."
+          }
+        }
+      },
+      "studentBanking": {
+        "collapse1": {
+          "title1": "Keine monatlichen Servicegebühren für bis zu 6 Jahre, plus:",
+          "tab1": {
+            "text1": "  - Verfolgen Sie Ihre Ausgaben, legen Sie Geld für geplante Ausgaben beiseite und steigern Sie Ihre Ersparnisse in einer digitalen Bank-Erfahrung",
+            "text2": "  - Überziehungsschutz und Benachrichtigungen",
+            "text3": "  - Der Niedrig-Bargeld-Modus in der PNC Mobile-App gibt Ihnen mehr Kontrolle, wenn Ihr Kontostand niedrig ist"
+          }
+        },
+        "collapse2": {
+          "title1": "Ich habe einen Vorteil mit PNCs My Finance Academy",
+          "text1": "Von anderen und ihren realen Erfahrungen zu lernen, kann Ihnen helfen, sich auf eine gesündere finanzielle Zukunft vorzubereiten. Entdecken Sie unsere Sammlung von:",
+          "tab1": {
+            "text1": "  - Finanzwebinare",
+            "text2": "  - Bildungsartikel",
+            "text3": "  - Rechner zur Unterstützung beim Budgetieren, Planen und Sparen von Geld -"
+          }
+        }
+      }
+    },
+    "checkingAccount": {
+      "heroBanner": {
+        "title": "Online ein Girokonto eröffnen",
+        "text": "Das Virtual Wallet kombiniert innovative digitale Werkzeuge mit Ihrem Girokonto."
+      },
+      "advantage": {
+        "title": "Vorteile und Funktionen",
+        "feature1": {
+          "title": "Zugang zu Filialen und Geldautomaten",
+          "text": "Genießen Sie über 2.200 Standorte und etwa 60.000 PNC- und Partner-Geldautomaten."
+        },
+        "feature2": {
+          "title": "Niedriger Bargeldmodus mit Virtual Wallet",
+          "text": "Verwalten Sie Ihr Ausgabenkonto, wenn Ihr Kontostand niedrig ist. Mit dem niedrigen Bargeldmodus können Sie intelligente Warnungen, zusätzliche Zeit und Zahlungskontrolle nutzen, um Überziehungsgebühren zu vermeiden."
+        },
+        "feature3": {
+          "title": "PNC Debitkarten",
+          "text": "Verwenden Sie Ihre PNC Bank Visa-Debitkarte für Komfort, indem Sie sie in Ihre bevorzugte mobile Brieftasche laden, bleiben Sie informiert, indem Sie Warnungen zum Verfolgen von Käufen einrichten, und profitieren Sie von PNC Purchase Payback."
+        }
+      },
+      "FAQ": {
+        "title": "FAQ",
+        "text": "",
+        "FAQ1": {
+          "q": "Wie kann ich eine Direktüberweisung einrichten?",
+          "r": "Die Direktüberweisung ermöglicht es Ihnen, automatisch Ihr Gehalt, Dividendenzahlungen, Renten oder Sozialversicherungsleistungen auf Ihr Girokonto einzuzahlen."
+        },
+        "FAQ2": {
+          "q": "Was ist ein Girokonto?",
+          "r": "Ein Girokonto ist ein Bankkonto, das es Ihnen ermöglicht, täglich Geld einzuzahlen, abzuheben oder zu überweisen. Sie können es verwenden, um Waren und Dienstleistungen persönlich und online zu bezahlen – in der Regel haben Sie eine Debitkarte und die Möglichkeit, Schecks zu bestellen."
+        },
+        "FAQ3": {
+          "q": "Warum ist es wichtig, ein Girokonto zu haben?",
+          "r": "Es bietet Ihnen einfachen Zugang zu Ihren Mitteln, ermöglicht es Ihnen, Direktüberweisungen zu empfangen, und lässt Sie digitale Werkzeuge zur Geldverwaltung nutzen. Ihr eingezahltes Geld ist außerdem bis zur maximalen von den USA erlaubten Summe durch die FDIC versichert, was Ihnen Sicherheit und Ruhe gibt."
+        },
+        "FAQ4": {
+          "q": "Kann ich ein Girokonto online eröffnen?",
+          "r": "Ja, in vielen Fällen. Wir verlangen von Kunden unter 16 Jahren, dass sie mit einem Elternteil oder gesetzlichen Vertreter eine Filiale aufsuchen, um ein neues Konto zu beantragen. Möglicherweise müssen Sie auch eine Filiale besuchen, wenn Sie keine Sozialversicherungsnummer haben."
+        },
+        "FAQ5": {
+          "q": "Wie alt muss ich sein, um ein Girokonto zu eröffnen?",
+          "r": "Typischerweise müssen Sie mindestens 18 Jahre alt sein, um ein Girokonto zu eröffnen. Wir erlauben es jedoch auch jungen Leuten, ein Konto mit Hilfe eines Elternteils oder gesetzlichen Vertreters zu eröffnen."
+        },
+        "FAQ6": {
+          "q": "Was bedeutet 'Mindestguthaben' für ein Girokonto?",
+          "r": "Das Mindestguthaben ist der niedrigste Betrag, den der Kontoinhaber auf dem Konto halten muss, um bestimmte Vorteile zu erhalten. Diese Vorteile können die Befreiung von monatlichen Kontoführungsgebühren oder sogar die Möglichkeit umfassen, Zinsen auf die eingezahlten Gelder zu verdienen."
+        },
+        "FAQ7": {
+          "q": "Was benötige ich, um ein Girokonto zu eröffnen?",
+          "r": "Sie können ein PNC-Girokonto online oder persönlich eröffnen. Sie benötigen: Einen von der Regierung ausgestellten Lichtbildausweis, wie z.B. einen Führerschein, einen staatlichen Ausweis, einen Militärausweis oder einen Reisepass. Persönliche Informationen, einschließlich Sozialversicherungsnummer, Geburtsdatum und aktuelle Wohnadresse. Möglicherweise benötigen Sie je nach Kontotyp zusätzliche Informationen oder Unterlagen."
+        },
+        "FAQ8": {
+          "q": "Was benötige ich, um ein gemeinsames Bankkonto zu eröffnen?",
+          "r": "Wenn Sie ein Konto für mehr als eine Person eröffnen möchten, stellen Sie sicher, dass alle Antragsteller anwesend sind. Sie benötigen Informationen für jeden Eigentümer, einschließlich Namen, Sozialversicherungsnummern, Geburtsdaten, Telefonnummern und Adressen; möglicherweise benötigen Sie auch einen Lichtbildausweis für jeden Antragsteller."
+        }
+      }
+    },
+    "savings": {
+      "heroBanner": {
+        "title": "Poupança da PNC",
+        "text": "Temos soluções de poupança para ajudar você a alcançar seus objetivos."
+      },
+      "FAQ": {
+        "title": "FAQ",
+        "text": "",
+        "FAQ1": {
+          "q": "Como posso escolher a melhor conta de poupança para mim?",
+          "r": "Comece identificando o propósito da conta. Pergunte a si mesmo, você está economizando para um fundo de emergência, uma compra grande ou objetivos de longo prazo, como aposentadoria ou educação? Conhecer seus objetivos ajudará a determinar o tipo certo de conta. Por exemplo, se você precisa de acesso regular aos fundos, uma conta de poupança tradicional ou de alto rendimento oferece retiradas flexíveis. No entanto, se você não planeja acessar os fundos por um tempo, um certificado de depósito pode oferecer taxas de juros mais altas em troca de deixar os fundos intocados por um período específico. Em seguida, compare as taxas de juros entre contas. Taxas mais altas ajudam a aumentar os saldos das contas mais rapidamente, tornando as contas com taxas mais altas uma opção atraente para muitos poupadores. Também esteja ciente das taxas, requisitos de saldo mínimo ou limites de transação que podem diminuir os benefícios ou limitar o acesso aos fundos. Por fim, considere recursos de conveniência, como planos de poupança automáticos e capacidades de banco online e móvel."
+        },
+        "FAQ2": {
+          "q": "O que eu preciso para abrir uma conta de poupança?",
+          "r": "Você pode abrir uma conta de poupança PNC online ou pessoalmente. Você precisará de: Uma identificação com foto emitida pelo governo, como uma carteira de motorista, identificação estadual não motorista, identificação militar ou passaporte. Informações pessoais, incluindo número de seguridade social, data de nascimento e endereço atual de residência. Você pode precisar de informações ou documentação adicional dependendo do tipo de conta."
+        },
+        "FAQ3": {
+          "q": "Posso abrir uma conta de poupança online?",
+          "r": "Sim, você pode abrir qualquer uma de nossas contas de poupança tradicionais online. Exigimos que clientes menores de 18 anos visitem uma agência com um responsável para solicitar uma nova conta. Uma vez que a conta esteja aberta, você poderá gerenciá-la completamente online para que possa começar a economizar imediatamente no conforto de sua casa. No entanto, você pode querer considerar onde nossas agências estão localizadas, caso prefira realizar uma transação ou fazer uma pergunta pessoalmente."
+        },
+        "FAQ4": {
+          "q": "As contas de poupança ganham juros?",
+          "r": "Sim, as contas de poupança ganham juros, permitindo que o saldo da sua conta cresça ao longo do tempo. As taxas podem variar com base em vários fatores, incluindo tipo de conta, saldo atual e condições de mercado. Vale ressaltar que algumas contas de poupança podem exigir um saldo mínimo para ganhar a taxa de juros anunciada. As contas também podem estruturar as taxas em níveis com base no saldo da conta."
+        },
+        "FAQ5": {
+          "q": "O que é APY?",
+          "r": "O rendimento percentual anual (APY) indica a taxa de juros real que uma conta ganha ao longo de um ano, considerando os efeitos da capitalização. Ao contrário de uma taxa de juros simples, que apenas calcula os juros sobre o montante principal, o APY fornece uma imagem mais completa ao incluir tanto a taxa de juros quanto a frequência de capitalização, seja diária, mensal ou anual. Se duas contas têm a mesma taxa de juros, mas frequências de capitalização diferentes, a conta que capitaliza mais frequentemente tem um APY mais alto e oferece maior crescimento da conta ao longo de um determinado período."
+        },
+        "FAQ6": {
+          "q": "Posso ter mais de uma conta de poupança?",
+          "r": "Sim. Muitas pessoas usam várias contas de poupança para organizar seu dinheiro para diferentes objetivos ou despesas. Oferecemos várias opções de contas, cada uma com características únicas para atender a diferentes necessidades. Por exemplo, você pode ter uma conta para um fundo de emergência, outra para economias de férias e uma conta separada para objetivos de longo prazo, como um pagamento inicial para uma casa."
+        },
+        "FAQ7": {
+          "q": "O que significa o requisito de 'saldo mínimo' para uma conta de poupança?",
+          "r": "O saldo mínimo em uma conta de poupança é o menor valor que o titular da conta deve manter na conta para receber certos benefícios. Esses benefícios podem incluir isenção de taxas mensais de manutenção ou até mesmo a possibilidade de ganhar juros sobre os fundos depositados."
+        }
+      }
+    },
+    "creditCards": {
+      "heroBanner": {
+        "title": "Persönliche PNC Kreditkarten",
+        "text": "Entdecken Sie mehr Möglichkeiten mit einer PNC Kreditkarte."
+      },
+      "secure": {
+        "title": "Sie erhalten unser höchstes Schutzniveau. Immer.",
+        "feature1": {
+          "title": "Betrugsschutz mit null Haftung",
+          "text": "Wenn Ihre Kartennummer verloren geht oder gestohlen wird, sind Sie nicht verantwortlich für unbefugte Nutzung Ihrer Karte."
+        },
+        "feature2": {
+          "title": "Handyversicherung verfügbar",
+          "text": "Wenn Sie Ihre PNC Visa Kreditkarte verwenden, um Ihre monatliche Telefonrechnung zu bezahlen, können Sie bis zu 800 $ erstattet bekommen, wenn Ihr Handy gestohlen oder beschädigt wird. Einschränkungen gelten."
+        },
+        "feature3": {
+          "title": "Kontaktlos und mit Vertrauen bezahlen",
+          "text": "Bezahle schnell und bequem für deine täglichen Einkäufe mit kontaktlosen PNC Visa Kreditkarten. Sie erhalten das gleiche Sicherheitsniveau beim Tippen wie beim Einstecken des Chips."
+        }
+      },
+      "EnvTitle": "Kreditkartenvereinbarungen"
+    },
+    "studentBanking": {
+      "heroBanner": {
+        "title": "Zentrum für Studentenbankwesen",
+        "text": "Die Unterstützung, auf die Sie heute zählen können, um sich auf die Träume von morgen zu konzentrieren."
+      },
+      "advantage": {
+        "title": "Produkte, die auf Studierende zugeschnitten sind",
+        "text": "Die Finanzierung Ihrer Ausbildung kann vor und nach dem Abschluss kompliziert sein. Ob private Studienkredite oder Refinanzierung, PNC bietet verschiedene Optionen, um Ihren Bedürfnissen gerecht zu werden.",
+        "feature1": {
+          "title": "Kredite für Bachelor-Studierende",
+          "text": "Ein privater Studienkredit von PNC kann Ihnen helfen, Ihre Studienkosten zu decken und umfasst anpassbare Zahlungsoptionen."
+        },
+        "feature2": {
+          "title": "Kredite für Master-Studierende",
+          "text": "Für Master-Studierende in den Bereichen Gesundheit, Medizin und Recht bietet PNC Kredite an, um Ihnen zu helfen, Ihre Ausbildung fortzusetzen und voranzubringen."
+        },
+        "feature3": {
+          "title": "Refinanzierung von Studienkrediten",
+          "text": "Egal, ob Sie Ihren Zinssatz, Ihre Zahlung oder Ihre Laufzeit anpassen möchten, die Refinanzierung Ihrer Studienkredite bei PNC kann Ihnen helfen, Ihre Ziele zu erreichen."
+        }
+      }
+    }
+  },
+  "borrowing": {
+    "sectionCollapse": {
+      "homeEquity": {
+        "collapse1": {
+          "title1": "Vorteile",
+          "text1": "Warum Sie sich für PNC HELOC entscheiden sollten.",
+          "title2": "Niedrige Zinsen, keine versteckten Gebühren",
+          "text2": "Sie zahlen Gebühren, wenn Sie Ihren Zinssatz sperren oder entsperren. Keine Überraschungen.",
+          "tab1": {
+            "text1": "Reparieren Sie Ihr Dach oder konsolidieren Sie Ihre Rechnungen. Zu Zinsen, die niedriger sein können als bei anderen Kredit-/Finanzierungsoptionen, mit der Möglichkeit, von einem variablen Zinssatz auf einen festen Zinssatz umzuschalten."
+          }
+        },
+        "collapse2": {
+          "title1": "Wechsel zwischen festen und variablen Zinsen",
+          "text1": "Sie können den Markt verfolgen und auf den niedrigsten Zinssatz warten. Nachdem Sie Ihre Mittel abgerufen haben, können Sie zu einem festen Zinssatz wechseln, um den festen Zinssatz zu sichern. Sie können auch von einem festen Zinssatz auf einen variablen Zinssatz wechseln."
+        },
+        "collapse3": {
+          "title1": "Potenzielle Steuervergünstigungen für Renovierungen",
+          "text1": "Renovierungen, die in einem Haushalt aus medizinischen Gründen (z.B. eine Rampe für Rollstuhlfahrer) oder zur Installation energieeffizienter Geräte (z.B. Solarpanels) vorgenommen werden, können als abzugsfähige Ausgaben gelten. Konsultieren Sie Ihren Steuerberater."
+        },
+        "collapse4": {
+          "title1": "Erhalten Sie eine Zinsreduktion",
+          "text1": "Erhalten Sie einen Rabatt von 0,25 %, wenn Sie automatisierte Zahlungen von einem berechtigten PNC-Girokonto einrichten und aufrechterhalten."
+        }
+      },
+      "constructionLoans": {
+        "collapse1": {
+          "title1": "Bau- und Renovierungsfinanzierung - Grundstücksdarlehen",
+          "tab1": {
+            "text1": "Ein Haus zu bauen oder zu renovieren, ist eine aufregende Zeit für Eigenheimbesitzer. Egal, ob Sie ein erstmaliger Bauherr oder ein erfahrener Profi sind, jeder benötigt unterwegs etwas Unterstützung.",
+            "text2": "Die Hauptverantwortung von PNC ist es, Finanzierungen bereitzustellen und dabei alle geltenden regulatorischen Richtlinien einzuhalten. Wir tun dies, indem wir außergewöhnlichen Service bieten, als Informationsquelle fungieren, den Fortschritt des Projekts überwachen und die Mittel rechtzeitig auszahlen."
+          }
+        },
+        "collapse2": {
+          "title1": "Wie kann ich anfangen?",
+          "text1": "Wenn Sie bereit sind, mit dem Bauen, Renovieren oder dem Kauf von Grundstücken zu beginnen, füllen Sie bitte das untenstehende Formular aus, um von einem zertifizierten Hypothekenkreditnehmer (MLO) kontaktiert zu werden."
+        }
+      },
+      "autoLoans": {
+        "title": "Refinanzieren Sie Ihr Auto",
+        "collapse1": {
+          "title1": "Beginnen Sie zu sparen, indem Sie Ihr Autokredit refinanzieren.",
+          "text1": "Die Auto-Refinanzierung von PNC kann Ihnen helfen, Ihren bestehenden Autokredit mit einem wettbewerbsfähigen APR und flexiblen Konditionen zu verbessern. Außerdem erhalten Sie eine schnelle Kreditentscheidung."
+        },
+        "collapse2": {
+          "title1": "Finden und finanzieren Sie Ihr Fahrzeug an einem Ort.",
+          "text1": "Mit PNC Total Auto, unterstützt von TrueCar, können Sie ein Fahrzeug mit einer erweiterten Suche finden, sehen, was die Leute in Ihrer Region für dasselbe Auto bezahlt haben, und die Finanzierungsoptionen an einem Ort überprüfen."
+        }
+      },
+      "personalLoans": {
+        "title": "Kreditkarten-Konsolidierungsdarlehen",
+        "collapse1": {
+          "text1": "Sie könnten hochverzinsliche Schulden abzahlen – zahlen Sie weniger, mit verwaltbaren monatlichen Raten. Kombinieren Sie Ihre gesamte Schulden in eine monatliche Zahlung mit einem Darlehen, das einen niedrigeren Zinssatz hat. Keine Sicherheiten erforderlich."
+        }
+      }
+    },
+    "homeEquity": {
+      "heroBanner": {
+        "title": "Hypothekenlinien auf Eigenkapital", 
+        "text": "Nutzen Sie eine Kreditlinie, um Ihr Zuhause zu renovieren, Ihre Hypothek zu refinanzieren oder Schulden zu konsolidieren."
+      },
+      "infos": {
+        "title": "Ich möchte mehr lernen", 
+        "feature1": {
+          "title": "Eigenkapital erklärt", 
+          "text": "Erfahren Sie mehr über Ihre Möglichkeiten, Geld aus Ihrem Haus zu erhalten, wägen Sie die Vor- und Nachteile ab und erkunden Sie, was Sie mit Ihrem Eigenkapital tun können." 
+        },
+        "feature2": {
+          "title": "Festzinsbindung", 
+          "text": "Eine Festzinsbindung ermöglicht es Ihnen, einen bestimmten Zinssatz zu sichern und bietet eine konsistente monatliche Zahlung für den gesamten oder einen Teil Ihres Kreditbetrags." 
+        },
+        "feature3": {
+          "title": "Andere Kreditprodukte", 
+          "text": "Erfahren Sie mehr über Ihre Möglichkeiten, Geld aus Ihrem Haus zu erhalten, bewerten Sie die Vorteile, und PNC vergibt seit über 100 Jahren Kredite. Wir können Ihnen helfen, das richtige Produkt zu finden." 
+        }
+      },
+      "tips": {
+        "title": "Werkzeuge und Rechner für Eigenkapitaldarlehen", 
+        "text": "Nutzen Sie unsere schnellen und einfachen Rechner, um herauszufinden, wie viel Sie leihen können, Ihre Kreditoptionen zu vergleichen oder eine Renovierungsschätzung zu erhalten.",
+        "feature1": {
+          "title": "Was wird meine Renovierung kosten?", 
+          "text": "Unser 'Renovierungsrechner' kann eine personalisierte Kostenschätzung für Ihren Projektplan erstellen. Sobald Sie wissen, wie viel Sie benötigen, erkunden Sie Kreditoptionen, um Ihre beste Finanzierungswahl zu finden." 
+        },
+        "feature2": {
+          "title": "Nicht sicher, was zu wählen?", 
+          "text": "Besuchen Sie unsere Kreditplattform für Ressourcen, Artikel und Links, die Ihnen helfen, die beste Entscheidung für Ihre Kreditbedürfnisse zu treffen." 
+        }
+      }
+    },
+    "constructionLoans": {
+      "heroBanner": {
+        "title": "Bauen Sie Ihr Traumhaus",
+        "text": "Egal, ob Sie bauen oder renovieren, erfahren Sie, wie die Baukredite von PNC für Sie funktionieren könnten."
+      },
+      "FAQ": {
+        "title": "Erforderliche Dokumentation in jeder Ausschüttungsphase", 
+        "FAQ1": {
+          "q": "Welche Art von Kredit sollte ich während der Bauphase aufnehmen?", 
+          "r": "Nur Zinszahlungen, die auf den ausgezahlten Darlehensmitteln berechnet werden. Wenn Sie sich in einem Überschwemmungsgebiet befinden, wird während der Bauphase eine Überschwemmungsversicherung erhoben." 
+        }, 
+        "FAQ2": {
+          "q": "Was sollte ich bei meinem Umwandlungsdatum erwarten zu zahlen?", 
+          "r": "Einige der häufigsten Ausgaben, die Sie erwarten sollten zu zahlen, sind: Zinsen der letzten Bauphase, Escrows für Steuern und Versicherungen, Vorausgezahlte Zinsen für die dauerhafte Phase, Zusätzliche Inspektionsgebühren, falls zutreffend." 
+        },
+        "FAQ3": {
+          "q": "Kann mein Bauunternehmer behaupten, dass eine Ausschüttungsanfrage finanziert oder ohne meine Genehmigung freigegeben werden sollte?", 
+          "r": "Nein. Der/die Eigentümer und der Bauunternehmer müssen jede Ausschüttungsanfrage genehmigen." 
+        }, 
+        "FAQ4": {
+          "q": "Wann werden die Escrows eingezogen?", 
+          "r": "Escrows für Steuern und Versicherungen werden an Ihrem Umwandlungsdatum eingezogen. Die Kreditnehmer sind für alle Escrow-Zahlungen verantwortlich, die während der Bauphase fällig werden." 
+        },
+        "FAQ5": {
+          "q": "Was passiert, wenn ich mehr Zeit benötige, um mein Projekt abzuschließen?", 
+          "r": "Wenn die Verbesserungen unvollständig sind und/oder Sie die Anforderungen vor Ablauf der Frist nicht erfüllen können, können zusätzliche Gebühren und/oder Zinserhöhungen anfallen. Der Kreditgeber entscheidet, ob eine Verlängerung angemessen ist. Diese Bestimmung unterliegt der Qualifikation und den anfallenden Gebühren. Es gelten bestimmte Einschränkungen." 
+        }, 
+        "FAQ6": {
+          "q": "Was sind die Verantwortlichkeiten von Eigentümern und Bauunternehmern?", 
+          "r": "Erfüllen Sie die Anforderungen von PNC, befolgen Sie die festgelegten Verfahren und halten Sie die Bedingungen des Darlehens ein. Es obliegt sowohl dem Eigentümer als auch dem Auftragnehmer/Bauunternehmer, das Projekt im Rahmen des Bauvertrags durchzuführen. Treffen Sie sich regelmäßig, um das Projekt, Probleme, Änderungen usw. zu besprechen. Machen Sie häufige Besuche auf der Baustelle gemeinsam. Lösen Sie Streitigkeiten schnell und fair. Halten Sie eine schnelle und effektive Kommunikation aufrecht. Informieren Sie PNC über alle Änderungen oder Probleme, sobald sie auftreten." 
+        }
+      },
+      "infos": {
+        "title": "Auszahlung von Geldern für abgeschlossene Arbeiten",  
+        "text": "Es ist einfach und praktisch, eine Auszahlung von PNC zu beantragen. Der typische Auszahlungsprozess ist wie folgt:", 
+        "feature1": {
+          "text": "PNC wird das Projekt inspizieren, um den Fortschritt zu bestimmen. Wenn die Inspektionen die Anzahl der vorab bezahlten Inspektionen (in der Regel drei für Renovierungen und sechs für den Bau) überschreiten, können zusätzliche Inspektionsgebühren erhoben werden, die vom Eigentümer getragen werden."
+        }, 
+        "feature2": {
+          "text": "Der Inspektionszeitplan bestimmt den Abschluss basierend auf einem prozentualen Abschluss. Die tatsächlichen Baukosten können in jeder Phase des Abschlusses variieren."
+        }, 
+        "feature3": {
+          "text": "Inspektionen werden in der Regel innerhalb von 48 Stunden nach der Benachrichtigung durchgeführt, und der entsprechende Auszahlungsantrag wird innerhalb von 24 Stunden nach Erhalt des Inspektionsberichts und der erforderlichen Dokumente bearbeitet. Wenn der Eigentümer und/oder der Bauunternehmer ein erforderliches Dokument nicht ordnungsgemäß ausfüllt, werden die Mittel nicht freigegeben, bis der Fehler korrigiert wurde."
+        }, 
+        "feature4": {
+          "text": "Die Gelder werden an den Eigentümer, den Bauunternehmer oder gemeinsam ausgezahlt, wie von den Parteien nach einer Inspektion der Immobilie vereinbart. Nur Artikel, die zum Zeitpunkt der Inspektion abgeschlossen wurden, werden gutgeschrieben."
+        }, 
+        "feature5": {
+          "text": "Sobald die Auszahlungsmethode festgelegt ist, muss jede Änderung der Auszahlungsmethode, unabhängig davon, wer die Änderung beantragt, schriftlich vom Eigentümer eingereicht werden."
+        }, 
+        "feature6": {
+          "text": "Gegebenenfalls werden das Anzahlungsgeld und der Startabzug berechnet und in den ersten Abzug aufgenommen, der beim Abschluss erfolgen kann. Der Eigentümer und/oder der Bauunternehmer stellen eine detaillierte Aufschlüsselung zur Verfügung, die zeigt, wie die Gelder verwendet wurden."
+        }
+      }
+    },
+    "autoLoans": {
+      "heroBanner": {
+        "title": "Autokredite",
+        "text": "Entdecken Sie Kreditoptionen für neue oder gebrauchte Autos."
+      },
+      "infos": {
+        "title": "Auto kaufen",
+        "text": "Kaufen Sie neue oder gebrauchte Autos mit der richtigen Kreditlösung für Sie. Beantragen Sie noch heute online, telefonisch oder in einer Filiale einen Autokredit.",
+        "feature1": {
+          "title": "Beim Händler kaufen",
+          "text": "Mit der Registrierung können Sie ein neues oder gebrauchtes Fahrzeug bei einem berechtigten Händler kaufen."
+        },
+        "feature2": {
+          "title": "Leasing kaufen",
+          "text": "Mit einem Autoleasingkredit können Sie Ihr eigenes Auto finanzieren."
+        },
+        "feature3": {
+          "title": "Bei einer Privatperson kaufen",
+          "text": "Mit einem Gebrauchtwagenkredit können Sie von einem privaten Verkäufer kaufen."
+        }
+      }
+    },
+    "personalLoans": {
+      "heroBanner": {
+        "title": "Persönliche Kredite von PNC Bank",
+        "text": "Ein persönlicher Kredit oder eine Kreditlinie gibt Ihnen Zugang zu dem Geld, das Sie benötigen, um Ihre Ziele zu erreichen."
+      },
+      "infos": {
+        "title": "Entdecken Sie persönliche Kredite und Kreditlinien",
+        "feature1": {
+          "title": "Persönlicher Ratenkredit",
+          "text": "Leihen Sie sich Geld und zahlen Sie es in regelmäßigen monatlichen Raten zurück."
+        },
+        "feature2": {
+          "title": "Persönliche Kreditlinie",
+          "text": "Zugriff auf Mittel, wann immer Sie müssen – bis zu einem genehmigten Kreditlimit."
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Haben Sie Bedenken?",
+    "text": "Lassen Sie uns Ihre Bedenken wissen und erhalten Sie innerhalb von 24 Stunden eine Antwort.",
+    "messageFieldLabel": "Nachricht",
+    "nameFieldLabel": "Name",
+    "surnameFieldLabel": "Vorname (Optional)",
+    "emailFieldLabel": "E-Mail-Adresse",
+    "telephoneFieldLabel": "Telefon (Optional)",
+    "sendButton": "Senden",
+    "requiredField": "Dieses Feld ist erforderlich",
+    "emailFieldInvalid": "Ungültige E-Mail-Adresse",
+    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet",
+    "sending": "Senden"
+  },
+  "login": {
+    "title": "Anmelden",
+    "text": "Melden Sie sich bei Ihrem Konto an, um Kontovorgänge durchzuführen",
+    "emailFieldInvalid": "Ungültige E-Mail-Adresse",
+    "emailFieldLabel": "E-Mail-Adresse",
+    "passwordFieldLabel": "Passwort",
+    "requiredField": "Dieses Feld ist erforderlich",
+    "forgotPassword": "Passwort vergessen?",
+    "loginButton": "Anmelden",
+    "sendCode": "Code senden",
+    "backToLogin": "Zurück zur Anmeldung",
+    "successMessage": "Anmeldung erfolgreich! Weiterleitung...",
+    "generalError": "Ein Fehler ist beim Anmelden aufgetreten",
+    "recoveryCodeSent": "Ein Wiederherstellungscode wurde an Ihre E-Mail-Adresse gesendet",
+    "loggingIn": "Anmeldung läuft...",
+    "createAccount": "Konto erstellen",
+    "noUserFound": "Kein Benutzer mit dieser E-Mail-Adresse gefunden.",
+    "incorrectPassword": "Falsches Passwort.",
+    "connected": "Anmeldung erfolgreich."
+  },
+  "signup": {
+  "title": "Anmeldung",
+  "text": "Erstellen Sie Ihr Konto, um von den zahlreichen Vorteilen zu profitieren, die PNC Ihnen bietet",
+  "lastNameLabel": "Nachname",
+  "firstNameLabel": "Vorname",
+  "emailLabel": "E-Mail",
+  "phoneLabel": "Telefon",
+  "addressLabel": "Adresse",
+  "zipLabel": "Postleitzahl",
+  "cityLabel": "Stadt",
+  "countryLabel": "Land",
+  "selectCountry": "Land auswählen",
+  "genderLabel": "Geschlecht",
+  "selectGender": "Geschlecht auswählen",
+  "genderMale": "Männlich",
+  "genderFemale": "Weiblich",
+  "professionLabel": "Beruf",
+  "monthlyIncomeLabel": "Monatliches Einkommen",
+  "maritalStatusLabel": "Familienstand",
+  "childrenCountLabel": "Anzahl der Kinder",
+  "submitButton": "Einreichen",
+  "enterVerificationCode": "Geben Sie den an Ihre E-Mail-Adresse gesendeten Verifizierungscode ein",
+  "verifyCode": "Überprüfen",
+  "enterVerificationCodePlaceholder": "Verifizierungscode",
+  "verificationError": "Falscher Code",
+  "passwordLabel": "Passwort"
+  },
+  "dashboard": {
+    "title": "Dashboard", 
+    "noVirement": "Keine Transaktionen gefunden!",
+    "statut": {
+      "good": "Gut",
+      "care": "Besorgniserregend"
+    },
+    "soldeLabel": "Kontostand",
+    "accountTypeLabel": "Kontotyp",
+    "accountTypeValue": "Girokonto",
+    "accountStatutLabel": "Kontostatus",
+    "transactionsLabel": "Transaktionen",
+    "send": "Überweisen",
+    "loading": "Daten werden geladen",
+    "virementTo": "Überweisung an ",
+    "detailsLinkText": "Details"
+  },
+  "settings": {
+  "title": "Einstellungen",
+  "emailSection": "E-Mail-Adresse",
+  "emailFieldLabel": "Ihre E-Mail-Adresse",
+  "oldPasswordRequired": "Altes Passwort ist erforderlich.",
+  "newPasswordRequired": "Neues Passwort ist erforderlich.",
+  "confirmPasswordRequired": "Passwortbestätigung ist erforderlich.",
+  "passwordsDoNotMatch": "Die Passwörter stimmen nicht überein.",
+  "passwordsMustBeDifferent": "Das neue Passwort muss sich vom alten unterscheiden.",
+  "emailUpdated": "Ihre E-Mail-Adresse wurde aktualisiert.",
+  "updateError": "Fehler beim Aktualisieren.",
+  "passwordChanged": "Ihr Passwort wurde geändert.",
+  "passwordNotDisplayed": "Ihr Passwort wird nicht angezeigt.",
+  "saving": "Speichern...",
+  "save": "Speichern",
+  "edit": "Bearbeiten",
+  "cancel": "Abbrechen",
+  "passwordSection": "Passwort",
+  "oldPasswordFieldLabel": "Altes Passwort",
+  "newPasswordFieldLabel": "Neues Passwort",
+  "confirmPasswordFieldLabel": "Neues Passwort bestätigen",
+  "loading": "Daten werden geladen"
+  },
+  "profile": {
+    "title": "Mein Profil",
+    "loading": "Daten werden geladen"
+  },
+  "logout": {
+    "title": "Abmelden",
+    "loading": "Daten werden geladen"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "nonotif": "Keine Benachrichtigungen gefunden!",
+    "loading": "Benachrichtigungen werden geladen",
+    "virementEffectue": "Neue Überweisung in Bearbeitung",
+    "virementMessage": "Ihre Überweisung wurde gestartet und ist in Bearbeitung.",
+    "received": "Überweisung auf Ihr Konto",
+    "receivedMessage": "Sie haben einen Betrag auf Ihrem Konto erhalten. Ihr neuer Kontostand ist: "
+  },
+  "virement": {
+    "title": "Überweisung",
+    "amountLabel": "Betrag",
+    "dateLabel": "Datum:",
+    "recipientLabel": "IBAN des Begünstigten",
+    "motifLabel": "Überweisungsgrund",
+    "availableBalance": "Verfügbarer Kontostand",
+    "beneficiare": "Begünstigter",
+    "emailLabel": "E-Mail-Adresse des Begünstigten",
+    "addressLabel": "Adresse des Begünstigten",
+    "zipLabel": "Postleitzahl des Begünstigten",
+    "cityLabel": "Stadt des Begünstigten",
+    "countryLabel": "Land des Begünstigten",
+    "submitButton": "Ausführen",
+    "verifying": "Überprüfung läuft",
+    "insufficientBalance": "Unzureichender Kontostand",
+    "invalidEmail": "Ungültige E-Mail-Adresse",
+    "required": "Dieses Feld ist erforderlich",
+    "invalidZip": "Ungültige Postleitzahl",
+    "invalidAmount": "Ungültiger Betrag",
+    "loading": "Daten werden geladen",
+    "codeVerification": "Verifizierungscode",
+    "verificationError": "Falscher Code"
+  }
+}

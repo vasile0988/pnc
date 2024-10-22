@@ -1,0 +1,973 @@
+{
+    "metadataTitle": {
+      "home": "Accueil",
+      "virtualWallet": "Portefeuille virtuel",
+      "checkingAccount": "Compte courant",
+      "saving": "Épargne",
+      "creditCards": "Cartes de crédit",
+      "studentBanking": "Banque étudiante",
+      "homeEquity": "Lignes de crédit sur valeur domiciliaire",
+      "construction": "Prêts de construction et de terrain",
+      "autoLoans": "Prêts auto",
+      "personalLoans": "Prêts personnels et lignes de crédit",
+      "login": "Se connecter",
+      "contact": "Nous contacter",
+      "signup": "Créer un compte",
+      "dashboard": "Tableau de board",
+      "profile": "Mon Profil",
+      "settings": "Paramètres",
+      "virement": "Virement",
+      "notifications": "Notifications"
+    },
+    "navigation": {
+      "loadingText": "Chargement ",
+      "more": "Autres",
+      "menu": "Menu",
+      "borrowingLink": "Postuler pour un prêt",
+      "banking": {
+        "title": "Banque",
+        "virtualWallet": "Portefeuille virtuel",
+        "checking": "Compte courant",
+        "saving": "Épargne",
+        "creditCards": "Cartes de crédit",
+        "studentBanking": "Banque étudiante",
+        "militaryBanking": "Banque militaire"
+      },
+      "borrowing": {
+        "title": "Emprunt",
+        "homeEquity": "Lignes de crédit sur valeur domiciliaire",
+        "constructionLoans": "Prêts de construction et de terrain",
+        "autoLoans": "Prêts auto",
+        "personalLoans": "Prêts personnels et lignes de crédit",
+        "studentLoans": "Prêts étudiants",
+        "studentLoanRefinancing": "Refinancement de prêts étudiants"
+      },
+      "investing": {
+        "title": "Investissement et gestion de patrimoine",
+        "pncInvestments": "Investissements PNC",
+        "pncPrivateBank": "Banque privée PNC"
+      },
+      "contactUs": "Contactez-nous",
+      "login": "Se connecter",
+      "signup": "Créer un compte"
+    },
+    "sectionImgItems": {
+      "banking": {
+        "checking": "Check",
+        "creditCards": "Cartes de crédit",
+        "saving": "Épargne",
+        "homeLoans": "Prêts immobiliers",
+        "retirement": "Retraite",
+        "autoLoans": "Prêts automobiles",
+        "title": "Produits & Services",
+        "text": "Explorez et postulez en ligne."
+      },
+      "virtualWallet": {
+        "title": "Le chèque chez PNC est un portefeuille virtuel",
+        "text": "Votre portefeuille virtuel est fourni avec des outils numériques utiles, des comptes chèques et d'épargne liés, ainsi que :",
+        "tab": {
+          "text1": "plus de 2 200 emplacements et environ 60 000 guichets automatiques de la PNC et des partenaires",
+          "text2": "Les outils de gestion de l'argent numérique en un seul endroit",
+          "text3": "Faible mode de trésorerie ®- vous donne plus de contrôle lorsque votre solde est faible"
+        }
+      }
+    },
+    "sectionHero": {
+      "banking": {
+        "title": "Le plan le plus sûr est souvent le plus intelligent",
+        "linkText": "See what boring banking can do for you"
+      },
+      "virtualWallet": {
+        "title": "Gagnez jusqu'à 400 $",
+        "text": "lorsque vous ouvrez et utilisez un nouveau portefeuille virtuel sélectionné."
+      },
+      "autoLoans": {
+        "title": "Calculateur mensuel de l'estimation de paiement", 
+        "text": "Utilisez la calculatrice ci-dessous pour déterminer vos paiements mensuels de véhicules."
+      }
+    },
+    "sectionTitleParagraph": {
+      "banking": {
+        "title": "Informations et divulgations juridiques importantes",
+        "paragraph1": "PNC ne facture pas de frais pour les services bancaires mobiles. Cependant, des frais de messagerie et de données de tiers peuvent s'appliquer. Ceux-ci incluent les frais que votre opérateur de téléphonie mobile peut vous facturer pour l'utilisation de données et les services de messagerie texte. Vérifiez auprès de votre opérateur de téléphonie mobile pour obtenir des détails sur votre forfait sans fil spécifique et les frais d'utilisation de données ou de messagerie texte qui peuvent s'appliquer. De plus, un appareil mobile pris en charge est nécessaire pour utiliser l'application de services bancaires mobiles. Le dépôt mobile est une fonctionnalité de PNC Mobile Banking. L'utilisation de la fonction de dépôt mobile nécessite un appareil compatible équipé d'une caméra et vous devez télécharger une application de services bancaires mobiles PNC. Un compte bancaire PNC éligible et des services bancaires en ligne PNC sont requis. Certaines autres restrictions s'appliquent. Consultez les conditions générales des services bancaires mobiles dans le contrat de service de services bancaires en ligne PNC.",
+        "paragraph2": "Les vidéos de clients sur ce site sont des témoignages non rémunérés de vrais clients PNC.",
+        "paragraph3": "Prêteur de logement équitable",
+        "paragraph4": "PNC, PNC HomeHQ, PNC Home Insight et Home Insight sont des marques de service déposées de The PNC Financial Services Group, Inc. (« PNC »). PNC a des demandes de brevet en instance visant diverses fonctionnalités et fonctions de Home Insight Planner et Home Insight Tracker. Tous les prêts sont accordés par PNC, National Association, une filiale de PNC, et sont soumis à l'approbation du crédit et à l'évaluation de la propriété.",
+        "paragraph5": "Le PNC Financial Services Group, Inc. (« PNC ») utilise les noms commerciaux PNC Private Bank℠ et PNC Private Bank Hawthorn® pour fournir des conseils en investissement et en gestion de patrimoine, des services fiduciaires, des produits et services bancaires assurés par la FDIC et des prêts de fonds à des clients individuels par l'intermédiaire de PNC, National Association (« PNC »), qui est membre de la FDIC, et pour fournir des services fiduciaires et d'agence spécifiques par l'intermédiaire de sa filiale, PNC Delaware Trust Company ou PNC Ohio Trust Company. PNC utilise le nom commercial PNC Institutional Asset Management® pour les divers services d'investissement institutionnel discrétionnaires et non discrétionnaires, de fiducie, de garde et autres services connexes fournis par PNC, ainsi que les activités de gestion d'investissement menées par PNC Capital Advisors, LLC, un conseiller en investissement enregistré auprès de la SEC et une filiale à 100 % de PNC (« PNC Capital Advisors »). PNC utilise le nom commercial PNC Institutional Advisory Solutions® pour la gestion discrétionnaire des placements, les services fiduciaires et les services connexes fournis par PNC. PNC utilise le nom commercial PNC Retirement Solutions® pour les services d'investissement, de conseil, de fiduciaire et de garde pour les régimes de retraite parrainés par l'employeur fournis par PNC. PNC ne fournit pas de conseils juridiques, fiscaux ou comptables, sauf si, en ce qui concerne les conseils fiscaux, PNC a conclu un accord écrit de services fiscaux. PNC n'est pas enregistrée en tant que conseiller municipal en vertu de la loi Dodd-Frank sur la réforme de Wall Street et la protection des consommateurs (« Loi »). La gestion des placements et les produits et services connexes fournis à une « entité municipale » ou à une « personne obligée » concernant les « produits des titres municipaux » (tels que ces termes sont définis dans la Loi) seront fournis par PNC Capital Advisors.",
+        "paragraph6": "Investissements : Non assurés par la FDIC. Aucune garantie bancaire. Peut perdre de la valeur.",
+        "paragraph7": "©2024 The PNC Financial Services Group, Inc. Tous droits réservés. PNC, National Association. Membre de la FDIC.",
+        "paragraph8": "Lisez un résumé des droits à la confidentialité des résidents de Californie qui décrit les types d'informations que nous collectons, ainsi que comment et pourquoi nous utilisons ces informations."
+      },
+      "virtualWallet": {
+        "paragraph1": "Le portefeuille virtuel avec Performance Spend comprend le remboursement des 2 premiers frais PNC aux distributeurs automatiques nationaux ou internationaux non PNC et jusqu'à 5 $ pour les frais supplémentaires de GAB d'autres banques par cycle de relevé. Le portefeuille virtuel avec Performance Select comprend aucun frais pour l'utilisation des distributeurs automatiques nationaux ou internationaux d'autres banques et jusqu'à 10 $ de remboursement de frais par cycle de relevé pour les frais supplémentaires de GAB d'autres banques.",
+        "paragraph2": "Le mode Low Cash n'est disponible que sur le compte Spend de votre produit Virtual Wallet.",
+        "paragraph3": "Un dépôt direct admissible est défini comme un dépôt direct récurrent d'un chèque de paie, d'une pension, de la sécurité sociale ou d'un autre revenu mensuel régulier déposé électroniquement par un employeur ou une agence extérieure sur le compte Spend d'un portefeuille virtuel avec Performance Select, d'un portefeuille virtuel avec Performance Spend ou d'un portefeuille virtuel. Des exclusions s'appliquent. Voir les caractéristiques et les frais du produit pour plus de détails.",
+        "paragraph4": "Pour être admissible à un tarif relationnel, vous devez avoir un compte de dépenses lié à un portefeuille virtuel avec Performance Select, un portefeuille virtuel avec Performance Spend ou un portefeuille virtuel et répondre à l'une des exigences suivantes : Effectuer une combinaison de 5 transactions ou plus au point de vente avec code PIN et/ou signature (à l'exclusion des avances de fonds) enregistrées au cours du mois civil précédent sur votre compte à l'aide de votre carte de débit Visa® ou de votre carte de crédit Visa® liée. Avoir 500 $ de dépôts directs admissibles dans un compte de dépenses lié à un portefeuille virtuel au cours du mois civil précédent. Avoir 2 000 $ de dépôts directs admissibles (1 000 $ pour les clients WorkPlace ou Military Banking) dans un compte de dépenses lié à un portefeuille virtuel avec Performance Spend au cours du mois civil précédent. Avoir 5 000 $ de dépôts directs admissibles dans un compte de dépenses lié à un portefeuille virtuel avec Performance Select au cours du mois civil précédent. (Un dépôt direct admissible est un dépôt électronique récurrent effectué par un employeur ou une agence extérieure. Les transferts effectués d'un compte à un autre ou les dépôts effectués via une succursale, un guichet automatique, un transfert en ligne, un appareil mobile ou le courrier ne sont pas admissibles à cette exigence.)",
+        "paragraph5": "À compter du mois civil suivant l'ouverture de votre compte Virtual Wallet Growth et chaque mois par la suite, le fait que le compte bénéficie du taux variable standard ou relationnel pour l'ensemble du mois civil sera déterminé le premier du mois en fonction du nombre de transactions admissibles ou de l'exigence de dépôt direct du mois civil précédent.",
+        "paragraph6": "Si des modifications sont apportées à votre compte courant lié (il est fermé, changé en un nouveau type de compte ou n'est plus lié à votre compte Virtual Wallet Growth), vous ne pourrez peut-être plus bénéficier d'un taux relationnel, ou les taux pourront autrement changer pour ceux en vigueur au moment du changement.",
+        "paragraph7": "Pour Virtual Wallet avec Performance Spend, le solde mensuel moyen combiné de 10 000 $ comprend tous les comptes consommateurs PNC liés. Pour Virtual Wallet avec Performance Select, le solde mensuel moyen combiné de 25 000 $ comprend tous les comptes consommateurs et d'investissement PNC liés. Consultez les caractéristiques et les frais du produit pour plus de détails.",
+        "paragraph8": "Un maximum de huit (8) comptes PNC liés, y compris les comptes de dépenses et de réserve, peuvent être pris en compte dans la relation de solde mensuel moyen combiné.",
+        "paragraph9": "Certains comptes peuvent ne pas être éligibles pour être inclus dans l'exigence de solde mensuel moyen combiné en fonction de la structure de titre, du type de produit ou d'autres contraintes. Le client doit demander que le compte soit lié pour bénéficier des avantages de la relation.",
+        "paragraph10": "Zelle® ne doit être utilisé que pour envoyer ou recevoir de l'argent à des personnes que vous connaissez et en qui vous avez confiance. Avant d'utiliser Zelle® pour envoyer de l'argent, vous devez confirmer l'adresse e-mail ou le numéro de téléphone mobile américain du destinataire. Ni PNC ni Zelle® n'offrent de protection d'achat pour les paiements effectués avec Zelle®, par exemple si vous ne recevez pas l'article pour lequel vous avez payé, ou si l'article n'est pas conforme à la description ou à vos attentes. Zelle® est disponible pour presque toute personne possédant un compte bancaire aux États-Unis. Les transactions se produisent généralement en quelques minutes entre les utilisateurs inscrits. Si le destinataire ne s'est pas inscrit, le paiement expirera après 14 jours calendaires. Consultez les conditions d'utilisation de PNC Zelle pour connaître les conditions générales supplémentaires. L'utilisation de Zelle® est soumise et conditionnée au respect des conditions générales des conditions d'utilisation de PNC Zelle®.",
+        "paragraph11": "✝Cette offre est soumise à la disponibilité du produit et peut varier en fonction de l'endroit où vous ouvrez votre compte et du code postal de votre adresse principale. Pour les transactions en ligne ou par téléphone, le code postal de votre adresse principale sera utilisé pour déterminer la disponibilité du produit. Vous pouvez gagner une récompense de 400 $ si vous ouvrez et utilisez un nouveau portefeuille virtuel avec Performance Select, une récompense de 200 $ si vous ouvrez et utilisez un nouveau portefeuille virtuel avec Performance Spend, ou une récompense de 100 $ si vous ouvrez et utilisez un nouveau portefeuille virtuel. Si vous changez de type de produit de portefeuille virtuel après l'ouverture du compte, le type de produit dans lequel vous vous trouvez le dernier jour ouvrable du mois au cours duquel vous avez ouvert votre compte déterminera votre admissibilité à l'offre, les conditions et le montant de la récompense correspondante, le cas échéant.",
+        "paragraph12": "Pour être admissible à la récompense, le nouveau produit de portefeuille virtuel doit être ouvert en ligne via les liens de candidature sur cette page du 09/04/2024 au 31/10/2024, et un ou plusieurs dépôts directs admissibles doivent être reçus dans les 60 premiers jours. Votre produit de portefeuille virtuel doit rester ouvert pour que vous puissiez recevoir la récompense, qui sera créditée sur le compte éligible 60 à 90 jours après que toutes les conditions ont été remplies et sera identifiée comme une récompense de vérification de crédit sur votre relevé mensuel.",
+        "paragraph13": "Un dépôt direct admissible pour cette offre est défini comme un dépôt direct récurrent d'un chèque de paie, d'une pension, de la sécurité sociale ou d'un autre revenu mensuel régulier déposé électroniquement par un employeur ou une agence extérieure sur le compte Spend d'un portefeuille virtuel avec Performance Select, d'un portefeuille virtuel avec Performance Spend ou d'un portefeuille virtuel. Le montant total de tous les dépôts directs admissibles crédités sur votre compte Spend doit être d'au moins 5 000 $ pour un portefeuille virtuel avec Performance Select, 2 000 $ pour un portefeuille virtuel avec Performance Spend ou 500 $ pour un portefeuille virtuel. Les virements d'avance de fonds par carte de crédit, les virements électroniques, les virements de personne à personne, les virements d'un compte à un autre ou les dépôts effectués dans un emplacement physique PNC ou un guichet automatique ne sont pas considérés comme des dépôts directs admissibles.",
+        "paragraph14": "Le nouveau compte ne sera pas éligible à l'offre si vous ou l'un des signataires du nouveau compte possédez déjà un compte courant consommateur PNC Bank ou avez fermé un compte au cours des 12 derniers mois, ou avez reçu une prime promotionnelle PNC au cours des 24 derniers mois. Si plusieurs comptes sont ouverts avec les mêmes signataires, un seul compte sera éligible à la prime. Les comptes de fiducie, de succession et autres comptes spécialisés sont exclus de cette offre. L'offre peut être prolongée, modifiée ou interrompue à tout moment et peut varier selon le marché. La valeur de la récompense peut être déclarée sur les formulaires appropriés de l'Internal Revenue Service (IRS) et peut être considérée comme un revenu imposable pour vous. Veuillez consulter votre conseiller fiscal concernant votre situation spécifique.",
+        "paragraph15": "Virtual Wallet est une marque déposée de The PNC Financial Services Group, Inc.",
+        "paragraph16": "Low Cash Mode est une marque déposée de The PNC Financial Services Group, Inc.",
+        "paragraph17": "Zelle et les marques associées à Zelle sont la propriété exclusive d'Early Warning Services, LLC et sont utilisées ici sous licence.",
+        "paragraph18": "PNC possède de nombreux brevets/demandes de brevet en instance visant diverses caractéristiques et fonctions de Virtual Wallet.",
+        "paragraph19": "Produits et services de dépôt bancaire fournis par PNC Bank, National Association. Membre de la FDIC.",
+        "paragraph20": "Lisez un résumé des droits à la confidentialité des résidents de Californie qui décrit les types d'informations que nous collectons, ainsi que la manière et la raison pour lesquelles nous utilisons ces informations.",
+        "paragraph21": "Le Portefeuille virtuel avec des dépenses de performance comprend le remboursement des deux premiers frais de PNC dans les distributeurs automatiques nationaux ou internationaux de DAB et, jusqu'à 5 euros pour les frais de surtaxe des autres banques, chaque cycle d'état. Portefeuille virtuel avec performance Select ne comprend aucune charge pour l'utilisation des distributeurs automatiques de billets nationaux ou internationaux d'autres banques et jusqu'à 10 euros par cycle de déclaration pour les frais de surtaxe des autres banques.",
+        "paragraph22": "Le mode hyposchet n'est disponible que sur le compte de dépenses de votre produit Virtual Wallet.",
+        "paragraph23": "Un dépôt direct admissible est défini comme un dépôt direct récurrent d'un chèque de paie, d'une pension, d'une sécurité sociale ou d'un autre revenu mensuel régulier déposé électroniquement par un employeur ou une agence externe sur le compte de dépenses d'un Portefeuille virtuel avec performance Select, Virtual Wallet with Performance Spend of ou Virtual Wallet. Les exclusions s'appliquent. Voir Caractéristiques et redevances du produit pour plus de détails.",
+        "paragraph24": "Pour être éligible à un taux de relations, vous devez avoir un compte de dépenses lié d'un portefeuille virtuel avec un portefeuille virtuel avec un portefeuille virtuel avec un portefeuille virtuel avec des dépenses de performance ou un portefeuille virtuel et répondre à l'une des exigences suivantes:",
+        "paragraph25": "  - Recevez une combinaison de 5 NIP ou plus et/ou de transactions de point de vente de signature (à l'exclusion des avances de caisse) affichées au cours du mois civil précédent sur votre compte en utilisant votre carte de débit Visa ou sur votre carte de crédit Visa.",
+        "paragraph26": "  - Avoir 500 euros de dépôts directs admissibles sur un compte de dépenses lié d'un portefeuille virtuel au cours du mois civil précédent.",
+        "paragraph27": "  - Avoir 2 000 euros de dépôts directs admissibles (1 000 euros pour les clients WorkPlace ou Military Banking) sur un compte de dépense lié d'un portefeuille virtuel avec des dépenses de performance au cours du mois civil précédent.",
+        "paragraph28": "  - Avoir des dépôts directs admissibles de 5 000 euros sur un compte de dépenses lié d'un Portefeuille virtuel avec Performance Select au cours du mois civil précédent. (Un dépôt direct éligible est un dépôt électronique récurrent effectué par un employeur ou un organisme extérieur. Les transferts effectués à partir d'un compte à un autre ou les dépôts effectués par l'intermédiaire d'une succursale, d'un distributeur automatique de billets, d'un virement en ligne, d'un appareil mobile ou du courrier ne sont pas éligibles pour satisfaire à cette exigence.)",
+        "paragraph29": "À partir du mois civil suivant l'ouverture de votre compte Virtual Wallet Growth et mensuel par la suite, la question de savoir si le compte gagne la variable Standard ou le taux de relation pour l'ensemble du mois civil sera déterminée sur la base du nombre d'opérations éligibles ou de l'exigence de dépôt direct du mois civil précédent.",
+        "paragraph30": "S'il y a des modifications à votre compte de chèque lié (il est fermé, modifié en un nouveau type de compte ou n'est plus lié à votre compte Virtual Wallet Growth), vous ne pouvez plus être éligible à un taux de relation, ou les taux peuvent autrement changer à ceux en vigueur au moment du changement.",
+        "paragraph31": "Pour le Portefeuille virtuel avec des dépenses de performance, le solde mensuel moyen combiné de 10 000 euros comprend tous les comptes de consommateurs de PNC. Pour Virtual Wallet with Performance Select, le solde mensuel moyen combiné de 25 000 euros comprend tous les comptes de consommation et d'investissement de PNC liés. Voir Caractéristiques et redevances du produit pour plus de détails.",
+        "paragraph32": "Un maximum de huit (8) comptes de la PNC liés, y compris la dépense et la réserve, peuvent être pris en considération dans la relation de solde mensuel moyen combinée.",
+        "paragraph33": "Certains comptes peuvent ne pas être éligibles pour être inclus dans l'exigence moyenne combinée du solde mensuel sur la base de la structure des titres de propriété, du type de produit ou d'autres contraintes. Le client doit demander un compte lié pour recevoir des avantages liés à la relation.",
+        "paragraph34": "Il ne devrait être utilisé que pour envoyer ou recevoir de l'argent avec des gens que vous connaissez et en qui vous avez confiance. Avant d'utiliser l'envoi d'argent, vous devez confirmer l'adresse électronique du destinataire ou le numéro de téléphone mobile des États-Unis. Ni la PNC, ni la PNC n'offrent de protection d'achat pour les paiements effectués avec la zelle, par exemple, si vous ne recevez pas l'article que vous avez payé, ou si l'article n'est pas tel que décrit ou comme vous vous y attendiez. Il est à la disposition de la quasi-totalité de toute personne disposant d'un compte bancaire aux États-Unis. Les transactions se produisent généralement en quelques minutes entre les utilisateurs inscrits. Si le bénéficiaire ne s'est pas inscrit, le paiement expirera après 14 jours civils. ",
+        "paragraph35": "«Cette offre est subordonnée à la disponibilité du produit et peut varier en fonction de l'endroit où vous ouvrez votre compte et du code postal de votre adresse principale. Pour l'établissement en ligne ou par téléphone, le code postal de votre adresse principale sera utilisé pour déterminer la disponibilité du produit. Vous pouvez gagner une récompense de 400 euros si vous ouvrez et utilisez un nouveau Portefeuille virtuel avec Performance Select, une récompense de 200 euros si vous ouvrez et utilisez un nouveau Portefeuille virtuel avec des dépenses de performance, ou une récompense de 100 euros si vous ouvrez et utilisez un nouveau Portefeuille virtuel. Si vous changez votre type de produit Virtual Wallet après ouverture du compte, le type de produit dans lequel vous êtes le dernier jour ouvrable du mois au cours duquel vous avez ouvert votre compte déterminera votre offre d'éligibilité, les conditions et le montant de la récompense correspondant, le cas échéant.",
+        "paragraph36": "Pour être éligible à la récompense, le nouveau produit Virtual Wallet doit être ouvert en ligne via les liens de candidature sur cette page du 09/04/2024 au 31/10/2024, et un ou plusieurs dépôts directs éligibles doivent être reçus dans les 60 premiers jours. Votre produit Virtual Wallet doit rester ouvert afin que vous puissiez recevoir la récompense, qui sera créditée sur le compte éligible 60 à 90 jours après que toutes les conditions auront été remplies et seront identifiées comme une indemnité de crédit sur votre relevé mensuel.",
+        "paragraph37": "Un dépôt direct éligible pour cette offre est défini comme un dépôt direct récurrent d'un salaire, d'une pension, d'une sécurité sociale ou d'un autre revenu mensuel régulier déposé électroniquement par un employeur ou une agence externe sur le compte de dépense d'un portefeuille virtuel avec performance sélective, Portefeuille virtuel avec une dépense de performance ou Portefeuille virtuel. Le montant total de tous les Dépôts Directs admissibles crédités sur votre compte de dépenses doit être d'au moins 5 000 euros pour Portefeuille virtuel avec Performance Select, 2 000 euros pour Portefeuille virtuel avec des dépenses de performance ou 500 euros pour Portefeuille virtuel. Les transferts anticipés par carte de crédit, les virements télégraphiques, les transferts de personne à des personnes, les transferts d'un compte à un autre ou les dépôts effectués dans un emplacement physique de la PNC ou d'un DAB ne sont pas considérés comme des dépôts directs admissibles.",
+        "paragraph38": "Le nouveau compte ne pourra pas être offert si vous ou un signataire sur le nouveau compte dispose d'un compte de contrôle à la consommation PNC Bank ou si vous avez fermé un compte au cours des 12 derniers mois, ou si vous avez payé une prime promotionnelle de la PNC au cours des 24 derniers mois. Si plusieurs comptes sont ouverts auprès des mêmes signataires, un seul compte sera éligible à la prime. Les comptes fiduciaires, les successions et autres titres spécialisés sont exclus de cette offre. L'offre peut être prolongée, modifiée ou interrompue à tout moment et peut varier d'un marché à l'autre. La valeur de la récompense peut être déclarée sur les formulaires appropriés de service interne des recettes (IRS) et peut être considérée comme un revenu imposable pour vous. Veuillez consulter votre conseiller fiscal en ce qui concerne votre situation spécifique.",
+        "paragraph39": "Virtual Wallet est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph40": "Le mode en numérité est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph41": "Les marques de l'Avertissement, LLC, sont utilisées ici sous licence.",
+        "paragraph42": "PNC a de nombreux brevets/demandes de brevet en attente visant diverses caractéristiques et fonctions de Virtual Wallet.",
+        "paragraph43": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. CIDEC membre."
+      },
+      "checkingAccount": {
+        "paragraph1": "Le mode hyposchet n'est disponible que sur le compte de dépenses de votre produit Virtual Wallet.",
+        "paragraph2": "Un appareil mobile pris en charge est nécessaire pour utiliser la banque mobile. Les débits de messages et de données standard peuvent s'appliquer.",
+        "paragraph3": "L'étudiant du portefeuille virtuel n'a pas d'exigence de solde minimum ou de frais de service mensuel pour les étudiants actifs pendant six ans à compter de la date d'ouverture du compte. Il peut vous être demandé de fournir la preuve de l'inscription active dans un établissement d'enseignement remplissant les conditions requises. À la fin des six années, votre compte sera converti en Portefeuille virtuel et soumis aux Caractéristiques et Charges Portfeuilles virtuelles en vigueur à ce moment-là. Si vous transférez ce compte sur un autre type de produit ou de compte au cours des six premières années, vous perdrez les avantages du compte Virtual Wallet Student et ne sera pas en mesure de retourner sur le compte Virtual Wallet Student. ",
+        "paragraph4": "Virtual Wallet est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph5": "PNC Purchase Payback est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph6": "Le mode en numérité est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph7": "Visa est une marque déposée de Visa International Service Association et utilisée sous licence.",
+        "paragraph8": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. CIDEC membre."
+      },
+      "savings": {
+        "paragraph1": "Pour être éligible à un taux de relation, vous devez avoir un compte de vérification lié (pour le taux de la relation de vérification des performances, vous devez avoir un contrôle de performance ou un portefeuille virtuel lié avec des dépenses de performance; pour le taux de relation de contrôle des performances, vous devez avoir un contrôle de performance lié ou un portefeuille virtuel avec performance Select) et répondre à l'une des exigences suivantes: ",
+        "paragraph2": " - Recevez une combinaison de 5 NIP ou plus et/ou de transactions de point de vente de signature (à l'exclusion des avances de trésorerie) enregistrées au cours du mois civil précédent sur votre compte en utilisant votre carte de débit Visa ou sur votre carte de crédit Visa liée.",
+        "paragraph3": " - Avoir 2 000 euros de dépôts directs admissibles (1 000 euros pour les clients WorkPlace ou Military Banking) dans un portefeuille virtuel lié avec des dépenses de performance ou un contrôle de performance au cours du mois civil précédent. ",
+        "paragraph4": " - Avoir des dépôts directs admissibles de 5 000 euros dans un portefeuille virtuel lié avec Performance Select ou Performance Select Checking au cours du mois civil précédent. (Un dépôt direct éligible est un dépôt électronique récurrent effectué par un employeur ou un organisme extérieur. Les transferts effectués à partir d'un compte à un autre ou les dépôts effectués par l'intermédiaire d'une succursale, d'un distributeur automatique de billets, d'un virement en ligne, d'un appareil mobile ou du courrier ne sont pas éligibles pour satisfaire à cette exigence.) À partir du mois civil suivant l'ouverture de votre compte Premiere Money Market, et mensuellement par la suite, si le compte gagne la variable standard ou le taux de relation pour l'ensemble du mois civil sera déterminé sur la base du nombre d'opérations admissibles ou d'exigences de dépôt direct du mois civil précédent. S'il y a des modifications à votre compte courant de correspondance (il est fermé, changé en un nouveau type de compte ou n'est plus lié à votre compte Premiere Money Market), vous ne pouvez plus avoir droit à un taux de relations, ou les taux peuvent d'autres être modifiés à ceux en vigueur au moment du changement. Nous ne lierons les comptes que sur votre direction. Si vous n'avez pas ordonné à PNC de lier un autre compte à votre Virtual Wallet, les comptes ne seront pas liés et vous ne recevrez pas de taux de relation, de renonciations applicables à des frais de service mensuels ou d'autres avantages relationnels sur vos comptes PNC non liés. L'obligation que vous nous ordonnez de lier des comptes afin que vous receviez les prestations appliquées à tous vos comptes PNC.",
+        "paragraph5": "Pour pouvoir bénéficier du taux de relation pour l'épargne standard, vous devez avoir un lien de contrôle standard, de contrôle des performances, de portefeuille virtuel avec des dépenses de performance, un contrôle de sélection de performance ou un portefeuille virtuel avec des performances sélectionnés et satisfaire à l'une des exigences suivantes:",
+        "paragraph6": " - Recevez une combinaison de 5 NIP et/ou de signature ou plus d'opérations de point de vente (à l'exclusion des avances de trésorerie) affichées au cours du mois civil précédent sur votre compte de vérification en utilisant votre carte de débit Visa ou sur votre carte de crédit Visa de la PNC, vous avez choisi de lier à un compte de contrôle PNC éligible.",
+        "paragraph7": " - Avoir 500 euros de dépôts directs admissibles dans un contrôle standard lié au cours du mois civil précédent. ",
+        "paragraph8": " - Avoir 2 000 euros de dépôts directs admissibles (1 000 euros pour les clients WorkPlace ou Services militaires) au cours du mois civil précédent dans un Portefeuille virtuel avec Dépense de performance ou contrôle des performances, vous avez choisi de créer un lien.",
+        "paragraph9": " - Avoir 5 000 euros en dépôts directs éligibles au cours du mois civil précédent dans un Portefeuille virtuel avec Select de performance ou Select Checking que vous avez choisi de créer un lien.",
+        "paragraph10": "(Un dépôt direct éligible est un dépôt électronique récurrent effectué par un employeur ou un organisme extérieur. Les transferts effectués à partir d'un compte à un autre ou les dépôts effectués par l'intermédiaire d'une succursale, d'un distributeur automatique de billets, d'un virement en ligne, d'un appareil mobile ou du courrier ne sont pas éligibles pour satisfaire à cette exigence.)",
+        "paragraph11": "Lorsque vous ouvrez ou transférez sur un compte d'épargne standard ou Premiere Money Market, et mensuellement par la suite, la question de savoir si le compte gagne la valeur standard ou la valeur des relations est déterminée le premier de chaque mois et sera basée sur le nombre d'opérations admissibles ou d'exigences de dépôt direct par rapport au mois civil précédent.",
+        "paragraph12": "S'il y a des modifications à votre compte courant lié (il est fermé, changé pour un nouveau type de compte ou n'est plus lié à votre compte standard d'épargne ou de Premiere Money Market), vous ne pouvez plus avoir droit à un taux de relations, ou les taux peuvent autrement changer à ceux en vigueur au moment du changement.",
+        "paragraph13": "Nous ne lierons les comptes que sur votre direction. Si vous n'avez pas demandé à la PNC de lier un autre compte à votre compte d'épargne standard ou à Premiere Money Market, les comptes ne seront pas liés et vous ne recevrez pas de taux de relations, d'exemptions applicables des frais de service mensuels ou d'autres avantages relationnels sur vos comptes PNC non liés. L'obligation que vous nous ordonnez de lier des comptes afin que vous receviez les prestations appliquées à tous vos comptes PNC.",
+        "paragraph14": "Des frais de transaction s'appliqueront à votre compte si vous dépassez six (6) transferts restreints au cours d'une période de service mensuelle. Les virements restreints sont des transferts d'un compte d'épargne ou de marché monétaire vers d'autres comptes (y compris les virements vers un autre compte pour une protection contre les découverts) ou à des tiers par chèque, par chèque, par le biais d'opérations d'achat sur place ou de transactions par carte de débit similaire, par des accords préautorisés ou automatiques, par téléphone, en ligne ou similaire à l'ordre à payer à une tierce personne. Si vous effectuez plus d'un total de six (6) transferts restreints au cours d'une période de service mensuelle, vous serez facturé des frais pour chaque transfert restreint. Voir l'accord de votre compte et le barème des frais pour plus d'informations. D'autres limites peuvent s'appliquer à votre compte. Nous nous réservons le droit de suspendre l'exécution de ces limitations de transaction, ou de les modifier, à notre discrétion.",
+        "paragraph15": "Les investissements ne sont pas assurés par la FDIC, et non la banque garantie, peuvent perdre de leur valeur.",
+        "paragraph16": "Sesame Street, « Atelier de la Sesame » et les personnages, marques de fabrique et de design associés sont détenus et autorisés par Sesame Workshop. - Atelier sur le sésame. Tous droits réservés.",
+        "paragraph17": "S est for Savings est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph18": "Virtual Wallet est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph19": "Le mode en numérité est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph20": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. Membre de la FDIC"
+      },
+      "creditCards": {
+        "paragraph1": "Pour être éligible à des offres de bonus, vous ne devez pas avoir ouvert le même produit de carte de crédit et recevoir un bonus en relation avec l'ouverture d'un compte au cours des 24 derniers mois. Par exemple, si vous avez ouvert une carte de crédit PNC Cash Rewards le 15 janvier 2023, et avez ensuite reçu un bonus dans le cadre de l'ouverture du compte, vous n'avez pas droit à un bonus d'ouverture de compte sur toute autre carte de crédit PNC Cash Rewards ouverte avant le 15 janvier 2025, sous réserve d'autres termes et conditions.",
+        "paragraph2": "Le terme « achats » ne signifie pas toutes les transactions que vous effectuez avec votre carte de crédit. Certaines opérations limitées, telles que les avances de fonds (y compris l'achat de produits équivalents en espèces) et les transferts de solde, sont exclues.",
+        "paragraph3": "Nous examinons divers facteurs, y compris, entre autres, vos antécédents de crédit, vos revenus et toute relation existante entre PNC, pour déterminer si vous remplissez les conditions requises pour obtenir au moins la ligne de crédit minimale associée au produit de carte de crédit pour lequel vous faites votre demande. Si nous dimitons votre demande, nous vous fournirons les raisons du déclin.",
+        "paragraph4": "Demandez une nouvelle carte de crédit PNC Cash Unlimited Visa Signature par l'intermédiaire de PNC.com. Offre disponible lors de la demande par l'intermédiaire de l'un des liens fournis sur cette page. Si vous êtes approuvé, vous obtiendrez un crédit monétaire de 250 euros sur votre relevé après avoir effectué 1 000 euros d'achats au cours des 3 premiers mois suivant l'ouverture du compte. Le crédit monétaire de 250 euros sera attribué à votre compte dans les 90 jours suivant l'achat qui vous a permis de satisfaire à l'exigence minimale de 1 000 euros.",
+        "paragraph5": "Demandez une nouvelle carte de crédit Visa PNC Cash Rewards par l'intermédiaire de PNC.com. Offre disponible lors de la demande par l'intermédiaire de l'un des liens fournis sur cette page. Si vous êtes approuvé, vous obtiendrez un crédit monétaire de 250 euros sur votre relevé après avoir effectué 1 000 euros d'achats au cours des 3 premiers mois suivant l'ouverture du compte. Le crédit monétaire de 250 euros sera attribué à votre compte dans les 90 jours suivant l'achat qui vous a permis de satisfaire à l'exigence minimale de 1 000 euros.",
+        "paragraph6": "Demandez une nouvelle carte de crédit Visa de points PNC par l'intermédiaire de PNC.com. Offre disponible lors de la demande par l'intermédiaire de l'un des liens fournis sur cette page. Si elle est approuvée, 100 000 points bonus seront attribués après que vous ayez effectué au moins 1 000 euros d'achats au cours des 3 premiers mois suivant l'ouverture du compte. Les 100 000 points bonus seront attribués dans les 90 jours suivant la réalisation de l'achat qui vous a permis de satisfaire à l'exigence minimale de 1 000 euros. PNC Bank, National Association (« nous », « notre », « notre ») se réserve le droit de modifier ou de révoquer cette offre à tout moment, sans compensation pour vous.",
+        "paragraph7": "Vous pouvez perdre tout bonus (ou récompense) que vous avez gagné en vertu de cette offre si nous déterminons, à notre seule discrétion, que vous avez engagé ou que vous avez l'intention de vous livrer à des abus, à des abus ou à des jeux dans le cadre de cette offre de quelque manière que ce soit. Il peut s'agir, sans limitation et sans préavis, de tout (1) qui vous disqualifie de l'offre; 2) de l'annulation de toute prime (ou de récompense) accordée en vertu de cette offre; 3) de clôture ou de suspension de votre compte; ou 4) d'intenter une action en justice contre vous pour recouvrer toute perte financière, y compris les honoraires d'avocat et les dommages-intérêts.",
+        "paragraph8": "PNC Bank, National Association (« nous », « notre », « notre ») se réserve le droit de modifier ou de révoquer cette offre à tout moment, sans compensation pour vous.",
+        "paragraph9": "Lors de la clôture de votre compte par vous-même ou par nous, tout point et/ou remboursement que vous avez gagnés mais non remboursés est immédiatement et automatiquement confisqué.",
+        "paragraph10": "Le plafond annuel de 8 000 euros est réinitialisé chaque année à la date de votre anniversaire, et non au début de chaque année civile. Votre date anniversaire est la date à laquelle votre compte est inscrit au programme de récompenses en espèces de la PNC, et le même mois/jour chaque année par la suite. Par exemple, si votre compte était inscrit au programme le 17 juin 2023, date anniversaire en 2024 est juin 2024.",
+        "paragraph11": "Certains achats d'épicerie, de gaz ou de nourriture ne peuvent prétendre qu'à 1 % de remises en espèces. En effet, la remise sur camionnage sur un achat est déterminée par le code de catégorie du commerçant attribué à un commerçant. Le code de la catégorie des commerçants est basé sur le type d'activité du commerçant et est attribué par le processeur de carte de crédit du commerçant. PNC Bank n'attribue pas de codes de catégorie marchand. Pour plus de détails, veuillez vous reporter aux conditions du programme de récompenses en espèces du PNC.",
+        "paragraph12": "Tous les points expirent à la fin du mois, 48 mois après qu'ils ont été ajoutés à votre compte de points PNC. Lors de la clôture de votre compte, que ce soit par vous ou par nous, les points gagnés mais non échangés sont immédiatement et automatiquement confisqués.",
+        "paragraph13": "Les limitations s'appliquent. Informer immédiatement PNC Bank de toute utilisation non autorisée. Pour des restrictions temporelles spécifiques, des limitations et d'autres détails concernant l'utilisation non autorisée, consultez votre accord de compte.",
+        "paragraph14": "Lorsque vous payez votre facture mensuelle sans fil avec votre carte de crédit PNC Visa éligible, votre téléphone portable est protégé pour le mois civil suivant si elle est volée ou endommagée. Un maximum de deux demandes seront réglées par période de 12 mois, chaque réclamation étant soumise à une déduction de 50 euros. Des conditions et des exclusions supplémentaires s'appliquent. Si votre demande de carte de crédit est approuvée, vous aurez un lien vers un guide des visas vers les prestations qui contient des détails complets concernant le programme.",
+        "paragraph15": "Les points PNC Cash Unlimited, PNC Cash Rewards, PNC Core et PNC sont des marques enregistrées de The PNC Financial Services Group, Inc. ",
+        "paragraph16": "Virtual Wallet est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph17": "Visa et Visa Signature sont des marques déposées de l'Association des services de Visa International et utilisées sous licence. ",
+        "paragraph18": "PNC Bank, National Association est l'émetteur des cartes de crédit de la PNC Bank décrites ici.",
+        "paragraph19": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. CIDEC membre.",
+        "paragraph20": "Conformément à la loi de 2009 sur la responsabilité, la responsabilité et la publicité des cartes de crédit, les accords de carte de crédit ci-après ont été soumis au Conseil de la Réserve fédérale. Ces accords étaient en vigueur au 31 juillet st2024. Si vous faites une demande de carte de crédit maintenant, les conditions du compte que vous demandez peuvent être différentes de celles des accords déposés ci-dessous."
+      },
+      "studentBanking": {
+        "paragraph1": "L'étudiant du portefeuille virtuel n'a pas d'exigence de solde minimum ou de frais de service mensuel pour les étudiants actifs pendant six ans à compter de la date d'ouverture du compte. Il peut vous être demandé de fournir la preuve de l'inscription active dans un établissement d'enseignement remplissant les conditions requises. À la fin des six années, votre compte sera converti en Portefeuille virtuel et soumis aux Caractéristiques et Charges Portfeuilles virtuelles en vigueur à ce moment-là. Si vous transférez ce compte sur un autre type de produit ou de compte au cours des six premières années, vous perdrez les avantages du compte Virtual Wallet Student et ne sera pas en mesure de retourner sur le compte Virtual Wallet Student. ",
+        "paragraph2": "La PNC ne prélève pas de frais pour les services bancaires mobiles, y compris les alertes PNC. Toutefois, des taux de message et de données de tiers peuvent s'appliquer. Vérifiez auprès de votre opérateur sans fil pour plus de détails.",
+        "paragraph3": "Le mode hyposchet n'est disponible que sur le compte de dépenses de votre produit Virtual Wallet.",
+        "paragraph4": "Il ne devrait être utilisé que pour envoyer ou recevoir de l'argent avec des gens que vous connaissez et en qui vous avez confiance. Avant d'utiliser l'envoi d'argent, vous devez confirmer l'adresse électronique du destinataire ou le numéro de téléphone mobile des États-Unis. Ni la PNC, ni la PNC n'offrent de protection d'achat pour les paiements effectués avec la zelle, par exemple, si vous ne recevez pas l'article que vous avez payé, ou si l'article n'est pas tel que décrit ou comme vous vous y attendiez. Il est à la disposition de la quasi-totalité de toute personne disposant d'un compte bancaire aux États-Unis. Les transactions se produisent généralement en quelques minutes entre les utilisateurs inscrits. Si le bénéficiaire ne s'est pas inscrit, le paiement expirera après 14 jours civils. Pour plus de termes d'utilisation, voir les conditions d'utilisation de la PNC zelle pour des conditions supplémentaires. L'utilisation de la zelle est subordonnée au respect des termes et conditions de la PNC «elle» 'elle'.",
+        "paragraph5": "Les prêts de la PNC Solution et les prêts de financement de l'éducation de la PNC sont soumis à l'approbation du crédit. Certaines restrictions et conditions s'appliquent. Vous êtes encouragé à explorer toutes les options de bourses, de subventions et d'emprunts fédéraux avant de demander un prêt privé. Les prêts fédéraux ont des avantages qui peuvent ne pas être disponibles dans le cadre d'un prêt privé.",
+        "paragraph6": "Le mode en numérité est une marque enregistrée de The PNC Financial Services Group, Inc.",
+        "paragraph7": "Les marques de l'Avertissement, LLC, sont utilisées ici sous licence.",
+        "paragraph8": "Virtual Wallet Student est une marque déposée de The PNC Financial Services Group, Inc.",
+        "paragraph9": "Visa est une marque déposée de Visa International Service Association et utilisée sous licence.",
+        "paragraph10": "La PNC offre des chances égales aux personnes qualifiées indépendamment de leur race, de leur couleur, de leur sexe, de leur religion, de leur origine nationale, de leur âge, de leur orientation sexuelle, de leur identité sexuelle, de leur handicap, de leur statut d'ancien combattant ou de toute autre catégorie protégée par la loi.",
+        "paragraph11": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. CIDEC membre."
+      },
+      "homeEquity": {
+        "paragraph1": "Le crédit est soumis à approbation. Certaines restrictions et conditions s'appliquent.",
+        "paragraph2": "Ce compte prévoit la possibilité d'établir un ou plusieurs verrous à taux fixe au cours de la période de tirage pour une période de 5 à 30 ans (sauf dans l'État du Tennessee où les durées vont de 5 à 20 ans). Il y a une redevance chaque fois que vous choisissez d'utiliser cette option. Le TAEG introductif ne s'applique pas aux soldes que vous transférez à une partie à taux fixe.",
+        "paragraph3": "Les intérêts sur les prêts/lignes de capitaux propres qui ne sont pas considérés comme des dettes d'acquisition de logements ne sont pas déductibles de l'impôt. Veuillez consulter votre conseiller fiscal.7",
+        "paragraph4": "Pour obtenir une ristourne de taux d'intérêt de 0,25 % au TA variable applicable après la fin de la période d'introduction, vous devez mettre en place des paiements automatiques à partir d'un compte de contrôle PNC éligible à la clôture. La remise automatique de paiement sera interrompue si vous annulez les paiements automatiques. La PNC peut occasionnellement proposer un APf promotionnel. La remise automatique des paiements ne s'applique pas au TAEG introductif.",
+        "paragraph5": "Des redevances pour les transporteurs peuvent s'appliquer.",
+        "paragraph6": "La redevance annuelle est de 50 euros.",
+        "paragraph7": "Une assurance-titre peut être exigée pour des lignes de 500 000 euros ou plus et pour des lignes de montants inférieurs en fonction d'un certain nombre de facteurs, y compris la manière dont le bien a été acquis. Si l'assurance-titre est requise, les frais peuvent aller jusqu'à 605 euros et 16 270 euros.",
+        "paragraph8": "Il y a une commission chaque fois que vous fixez une partie à taux fixe; toutefois, ces frais seront supprimés si vous créez une partie à taux fixe à l'origine de la ligne de crédit.",
+        "paragraph9": "En plus de toute assurance de propriété requise, vous êtes tenu de souscrire une assurance immobilière sur les biens qui sécurise votre compte. Une assurance contre les inondations peut être exigée. Vos paiements sur ce compte ne comprennent pas les impôts ou les assurances. PNC Bank paiera certains frais de clôture, y compris, le cas échéant, certains droits de transfert d'État et des frais en votre nom. Si vous payez et fermez votre ligne de crédit dans les 36 premiers mois, vous serez tenu de nous rembourser pour ces frais de clôture. Il n'y a pas de frais remboursables pour les comptes du Texas.",
+        "paragraph10": "Ce compte comprend une option pour établir une partie à taux fixe pour des durées allant de 5 à 30 ans (sauf dans l'État du Tennessee où les termes vont de 5 à 20 ans). Les paiements comprennent les montants du principal et des intérêts fondés sur un barème d'amortissement des niveaux conçu pour rembourser intégralement le montant de la partie à taux fixe à la fin de la période choisie.",
+        "paragraph11": "Les TAEG pour les parties à taux fixe applicables varieront et sont basés sur la valeur de l'indice des options à taux fixe en vigueur au moment où une partie à taux fixe est établie; et une valeur de marge basée sur vos qualifications de crédit, la durée de remboursement de la partie à taux fixe, le montant du transfert, le type de bien, le prêt à la valeur, la position de privilège et si vous choisissez la fonction de paiement automatique sur un compte de vérification PNC établi au moment de la demande. Une fois qu'une partie à taux fixe est établie, le TAEG pour cette partie ne changera pas. Le montant minimum pour établir une partie à taux fixe est de 5 000 euros. Les remboursements principaux au cours de la période d'arrachat se réapprovisionnent la ligne de crédit disponible et sont disponibles pour les tirages futurs.",
+        "paragraph12": "Votre taux peut également être plus élevé ou plus bas, car les taux sont susceptibles d'être modifiés à tout moment en fonction des conditions du marché ou d'autres facteurs commerciaux, y compris les variations des taux d'intérêt de référence. Appelez le 1-833-353-0111 pour obtenir les tarifs les plus à jour disponibles sur votre marché.",
+        "paragraph13": "Les taux de la partie fixe et les paiements affichés ne concernent que les nouveaux clients.",
+        "paragraph14": "Suspension des privilèges de crédit et réduction de la limite maximale de crédit. Certaines conditions, telles qu'un changement négatif important de votre situation financière ou une baisse significative de la valeur de marché de votre maison, peuvent entraîner la suspension temporaire de votre capacité à avancer sur votre HELOC ou la réduction de votre limite de crédit maximale. Se référer à la divulgation d'informations intitulée « Conditions importantes de notre choix Lignes de crédit pour les actions de logement » pour une description complète des conditions dans lesquelles la PNC peut interdire des avances supplémentaires ou réduire la limite de crédit.",
+        "paragraph15": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. CIDEC membre.",
+        "paragraph16": "Les avantages d'un HELOC Choisir pour la consolidation de la dette dépendent de votre situation particulière. Parce qu'un HELOC Choix peut avoir un terme plus long que la dette que vous pouvez consolider, vous ne réaliserez peut-être pas une économie sur toute la durée de votre nouveau choix HELOC.",
+        "paragraph17": "Si vous avez actuellement droit aux prestations fournies par les membres du Service civil Agregement Act (SCRA), le refinancement de la dette courante peut ne pas être bénéfique.",
+        "paragraph18": "Frais d'origine: Les clients ayant une garantie située en Californie, en Caroline du Nord et à New York encourront une redevance d'origine payable avec le premier relevé mensuel de facturation après l'ouverture du compte. La redevance d'origine sera calculée sur la base du plafond de crédit approuvé comme suit: pour les lignes de crédit approuvées jusqu'à 149 999,99 euros, la redevance d'origine sera de 199 euros; pour les lignes de crédit approuvées de 150 000 euros à 499 999,99 euros, les frais d'origine seront de 299 euros; pour les lignes de crédit approuvées de 500 000 euros à 749 999,99 euros.Les frais de paiement s'équesigne de 499 euros.",
+        "paragraph19": "Les lignes de crédit de capital-investissement domestiques de Texas Choice ne peuvent être garanties que par une résidence principale désignée comme propriété de la propriété et ne peuvent pas dépasser 80 % de prêts combinés à la valeur de ces biens. Les frais non applicables aux comptes garantis par les biens du Texas comprennent : la redevance annuelle et le remboursement de tout frais de clôture payé au nom de l'emprunteur par PNC Bank si le client ferme la ligne de crédit dans les 36 mois suivant l'ouverture du compte. Le tirage au sort minimum au Texas est de 4 000 euros. Les lignes de crédit de crédit qu'elle a obtenues par le Texas ne sont pas éligibles à une carte d'accès VISA Choice et recevront des contrôles d'accès sur demande. PNC ne peut pas utiliser les fonds d'actions du logement d'un client pour payer (en tout ou en totalité) la dette non domestique de la PNC à l'ouverture d'un compte.",
+        "paragraph20": "- 2017-2024 et TM, NerdWallet, Inc. Tous droits réservés.",
+        "paragraph21": "NerdWallet et le logo NerdWallet sont des marques appartenant à NerdWallet, Inc. et utilisées avec permission.",
+        "paragraph22": "PNC est une marque de service enregistrée de The PNC Financial Services Group, Inc. (« PCN »). Tous les prêts sont accordés par PNC Bank, National Association, une filiale de la PNC, et sont soumis à l'approbation du crédit et à l'évaluation des biens immobiliers."
+      },
+      "autoLoans": {
+        "paragraph1": "Le crédit est soumis à approbation. Certaines restrictions et conditions s'appliquent.",
+        "paragraph2": "Les chèques ne peuvent être utilisés que chez les concessionnaires autorisés à vendre des nouveaux véhicules d'un constructeur tel que Ford, Kia ou BMW ou auprès d'un concessionnaire éligible. Des contrôles peuvent être utilisés pour acheter des véhicules neufs ou d'occasion à ces concessionnaires. Avant de se rendre chez un revendeur, confirmer qu'il s'agit d'un distributeur éligible.",
+        "paragraph3": "Refinancement: Le refinancement à plus long terme de remboursement peut réduire votre paiement de voiture, mais peut également augmenter le montant total des intérêts payés sur la durée du prêt. Le refinancement à durée de remboursement plus court peut augmenter votre paiement de voiture, mais peut diminuer le total des intérêts payés sur la durée du prêt. Par exemple, si vous avez un prêt de 60 mois qui arrive à échéance en 55 mois et que vous refinancez encore 60 mois à un taux inférieur, vos paiements seront moins élevés, mais vous paierez des intérêts pour 5 mois supplémentaires. Contactez-nous pour discuter de l'option qui répond le mieux à vos besoins.",
+        "paragraph4": "Les conditions du site web, la confidentialité et les politiques de sécurité de PNC Bank ne s'appliquent pas au site que vous êtes sur le point de visiter. Veuillez consulter les termes, les politiques de confidentialité et de sécurité de TrueCar pour voir comment elles s'appliquent à vous. La PNC Total Auto est fournie par TrueCar.",
+        "paragraph5": "Produits et services de dépôt bancaire fournis par la PNC Bank, National Association. Membre de la FDIC",
+        "paragraph6": "PNC et PNC Total Auto sont des marques enregistrées de The PNC Financial Services Group, Inc."
+      }
+    },
+    "sectionFinancial": {
+      "title": "Bien-être financier",
+      "text": "Nous pouvons vous aider à avoir une idée claire de votre situation actuelle et à planifier l’avenir que vous souhaitez."
+    },
+    "banking": {
+      "home": {
+        "heroBanner": {
+          "title": "Changez votre façon d'effectuer vos opérations bancaires",
+          "text": "Passez à l'étape suivante avec le portefeuille virtuel PNC - des outils de vérification, d'épargne et financiers conçus pour vous accompagner partout où vous allez.",
+          "learnMore": "En savoir plus"
+        }
+      },
+      "virtualWallet": {
+        "heroBanner": {
+          "title": "Portefeuille virtuel",
+          "text": "Le portefeuille virtuel de PNC combine un outil de vérification et d'épargne pour vous aider à gérer votre vie financière."
+        },
+        "offers": {
+          "title": "Choisissez votre portefeuille virtuel",
+          "text": "Le portefeuille virtuel comprend un compte courant Spend, un compte courant Reserve et un compte épargne Growth sans frais pour vous aider à gérer votre argent. Choisissez celui qui vous convient le mieux :",
+          "feature1": {
+            "title": "Portefeuille virtuel",
+            "text": "Lorsque vous établissez des dépôts directs admissibles totaux de 500 $ ou plus sur le compte courant, comprend :",
+            "earn": "Gagnez 100$",
+            "items": {
+              "text1": "Dépenses - compte courant principal",
+              "text2": "Réserve - compte courant secondaire",
+              "text3": "pour la planification à court terme",
+              "text4": "Croissance - compte d'épargne à long terme",
+              "text5": "Frais de service mensuels de 7 $, ou 0 $ avec 500 $ de dépôts directs sur votre compte Dépenses ou un solde combiné entre",
+              "text6": "comptes courants",
+              "text7": "Taux d'intérêt relationnels sur votre compte Croissance"
+            }
+          },
+          "feature2": {
+            "title": "Portefeuille virtuel avec dépenses de performance",
+            "text": "Lorsque vous établissez des dépôts directs admissibles totaux de 2 000 $ ou plus sur le compte Spend, comprend :",
+            "earn": "Gagnez 200$",
+            "items": {
+              "text1": "Dépense - compte courant-chèque principal",
+              "text2": "Réserve - compte courant de contrôle secondaire. Planification à court terme",
+              "text3": "Croissance - compte d'épargne à long terme",
+              "text4": "15 euros de frais de service mensuels, ou 0 dollar avec 2 000 euros dans les dépôts directs à vos dépenses ou à un solde combiné entre les comptes chèques.",
+              "text5": "Remboursements disponibles pour certains frais de gestion du trafic aérien non PCN",
+              "text6": "Taux d'intérêt des relations plus élevés sur votre compte de croissance"
+            }
+          },
+          "feature3": {
+            "title": "Portefeuille virtuel avec Sélection de performance",
+            "text": "Lorsque vous établissez le total des dépôts directs qu'il est admis à 5 000 euros ou plus sur le compte de dépense, comprend: ",
+            "earn": "Gagnez 400$",
+            "items": {
+              "text1": "Dépense - compte courant-chèque principal",
+              "text2": "Réserve - compte courant de contrôle secondaire Planification à court terme",
+              "text3": "Croissance - compte d'épargne à long terme",
+              "text4": "25 euros de frais de service mensuels, ou 0 dollar avec 5 000 euros de dépôts directs à votre dépense ou un solde combiné entre les comptes-chèques",
+              "text5": "Pas de frais de PNC pour l'utilisation des DAB d'autres banques et des remboursements accrus disponibles sur les frais d'autres banques",
+              "text6": "Taux d'intérêt les plus élevés sur votre compte de croissance",
+              "text7": "Pas de frais pour les fils domestiques"
+            }
+          }
+        },
+        "infos": {
+          "title": "Avec le Porte-monnaie virtuel, vous obtenez",
+          "text": "Trois comptes associés à des outils numériques pour vous aider à gérer votre argent",
+          "alt": "Image",
+          "feature1": {
+            "title": "Trois comptes vous aident à dépenser, à planifier et à épargner.",
+            "text": "Il est facile de transférer de l'argent d'un compte à l'autre afin que vous puissiez rester organisé et sur la bonne voie pour atteindre vos objectifs.",
+            "items": {
+              "text1": "Spendre est votre principal compte de chèque - vous obtiendrez également une carte de débit avec la technologie sans contact, pour payer avec un simple clic.",
+              "text2": "La réserve est votre compte courant secondaire – pour tous vos besoins de planification budgétaire à court terme.",
+              "text3": "La croissance est votre compte d'épargne à long terme pour vous aider à atteindre vos objectifs."
+            }
+          },
+          "feature2": {
+            "title": "Les outils numériques de Virtual Wallet rassemblent tout cela.",
+            "text": "",
+            "alt": "Image",
+            "items": {
+              "text1": "zelle®vous aide à envoyer et à recevoir facilement de l'argent avec des gens en vous savez et en qui vous avez confiance.",
+              "text2": "Mode faible en espèces-vous donne plus de contrôle lorsque votre solde est faible et plus de temps pour sortir votre équilibre du négatif.",
+              "text3": "Les catégories de dépenses vous permettent d'examiner et de rester en plus de la manière dont vous dépensez et budget mieux pour l'avenir.",
+              "text4": "Le calendrier vous permet de programmer et de suivre les factures et les jours de paie à venir, de sorte que vous pouvez planifier à l'avance.",
+              "text5": "Les objectifs et les règles d'épargne vous permettent de suivre et de progresser pour une planification à plus long terme."
+            }
+          }
+        }
+      },
+      "sectionCollapse": {
+        "virtualWallet": {
+          "collapse1": {
+            "title1": "Vérification à la PNC est Virtual Wallet. ",
+            "text1": "Y compris le mode en espèces à faible taux de trésorerie",
+            "title2": "Gagnez jusqu'à 400 euros",
+            "text2": "lorsque vous ouvrez et utilisez un nouveau Portefeuille virtuel-produit",
+            "tab1": {
+              "text1": "Dans le monde d'aujourd'hui, vous avez besoin de plus qu'un simple compte courant. Virtual Wallet commence par Spend, qui est un compte courant, et des outils numériques pour vous aider à gérer votre argent et à rester sur la bonne voie. Pour répondre au mieux à vos besoins, nous avons le choix entre trois niveaux de dépenses.",
+              "text2": "Que vous choisissiez un Portefeuille virtuel avec des dépenses uniquement ou que vous ajoutiez la Réserve et la Croissance pour la planification, l'épargne et la protection, Virtual Wallet fonctionne comme une solution puissante pour les besoins bancaires d'aujourd'hui."
+            }
+          },
+          "collapse2": {
+            "title1": "Étudiant du portefeuille virtuel®",
+            "text1": "Un compte de chèques et d'épargne adapté aux étudiants pour vous aider à gérer votre vie financière.",
+            "tab1": {
+              "text1": "  - Pas de frais de service mensuels pour 6 ans",
+              "text2": "  - Combinaison de la vérification et des économies réalisées",
+              "text3": "  - Alertes et protection contre les découverts, y compris ® le mode de trésorerie bas - dans l'application mobile PNC"
+            }
+          },
+          "collapse3": {
+            "title1": "Rechercher le renforcement de vos besoins budgétaires et financiers.",
+            "tab1": {
+              "text1": "  - Pas de frais de découvert",
+              "text2": "  - Contrôles gratuits des caissiers",
+              "text3": "  - Outils numériques pour suivre l'activité de votre compte"
+            }
+          }
+        },
+        "savings": {
+          "collapse1": {
+            "title1": "Portefeuille virtuel®",
+            "text1": "Vérification et économies. Ensemble.",
+            "tab1": {
+              "text1": "Y compris le faible taux de trésorerie",
+              "text2": "Dans le monde d'aujourd'hui, vous avez besoin de plus qu'un simple compte courant. Virtual Wallet commence par vérifier (nous l'appelons Spend) et des outils numériques pour vous aider à gérer votre argent et à rester sur la bonne voie. Pour répondre au mieux à vos besoins, nous avons le choix entre trois niveaux de dépenses.",
+              "text3": "Que vous choisissiez un Portefeuille virtuel avec des dépenses uniquement ou que vous ajoutiez la Réserve et la Croissance pour la planification, l'épargne et la protection, Virtual Wallet fonctionne comme une solution puissante pour les besoins bancaires d'aujourd'hui. "
+            }
+          },
+          "collapse2": {
+            "title1": "Premiere marché monétaire",
+            "text1": "Un compte qui récompense votre relation bancaire avec des taux d'intérêt plus élevés. ",
+            "tab1": {
+              "text1": "  - Taux de relations plus élevé lorsque certaines qualifications sont remplies",
+              "text2": "  - Dépôts et virements illimités sur le compte",
+              "text3": "  - FDIC assurée au maximum autorisé par la loi"
+            }
+          },
+          "collapse3": {
+            "title1": "Économies standard",
+            "text1": "Un moyen facile de démarrer vos économies et de vous aider à atteindre vos objectifs à court et à long terme.",
+            "tab1": {
+              "text1": "  - Dépôt minimum à ouvrir: 0 euro",
+              "text2": "  - Gagnez un taux de relations plus élevé lorsque certaines qualifications sont remplies",
+              "text3": "  - Dépôts et virements illimités sur le compte",
+              "text4": "  - Auto Savings tool qui vous permet d'établir une routine d'épargne récurrente",
+              "text5": "  - Protection contre les découverts - liez votre compte de sauvegarde standard à votre compte de contrôle PNC",
+              "text6": "  - FDIC assurée au maximum autorisé par la loi"
+            }
+          },
+          "collapse4": {
+            "title1": "Certificat de dépôt",
+            "text1": "Gagnez un taux d'intérêt fixe. ",
+            "tab1": {
+              "text1": "Taux de rendement fixe",
+              "text2": "Variété des conditions disponibles allant de 7 jours à 10 ans avec renouvellement automatique",
+              "text3": "FDIC assurée au maximum autorisé par la loi",
+              "text4": "Compléter l'épargne-retraite par une CD IRA reportée d'impôt"
+            }
+          },
+          "collapse5": {
+            "title1": "S est pour l'épargne",
+            "text1": "Une façon amusante et amicale de vous aider à apprendre à votre enfant à épargner, à partager et à dépenser.",
+            "tab1": {
+              "text1": "Expérience bancaire interactive en ligne qui présente des concepts de monnaie de base avec des conseils d'atelier de sésame sur l'apprentissage des bases financières",
+              "text2": "Pas de frais de service pour les titulaires de compte de moins de 18 ans",
+              "text3": "Intérêts sur les soldes à partir de 1 dollar",
+              "text4": "Avec la fixation des objectifs, fixer des objectifs d'épargne spécifiques avec votre enfant qu'il peut atteindre au fil du temps"
+            }
+          }
+        },
+        "creditCards": {
+          "collapse1": {
+            "title1": "PNC Cash Unlimited et Visa Signature et carte de crédit",
+            "text1": "Gagnez une remise illimitée de 2 % sur chaque achat",
+            "title2": "Gagnez 250 euros",
+            "text2": "0 euro de frais annuel",
+            "tab1": {
+              "text1": "Doit avoir droit à une ligne de crédit minimale de 5 000 euros.",
+              "text2": "Offre de bonus : Gagnez un bonus de 250 euros après avoir effectué des achats ou plus de 1 000 euros au cours des 3 premiers mois suivant l'ouverture du compte.",
+              "text3": "Prestations de cartes:",
+              "text4": "   - Pas de plafonds sur ce que vous pouvez gagner",
+              "text5": "   - Pas de dates d'expiration en espèces à ne pas s'inquiéter",
+              "text6": "   - Pas de frais de transaction à l'étranger",
+              "text7": "Offres d'introduction:Enregistrer davantage avec un AP initial de 0 % sur les transferts de bilan.",
+              "text8": "  - 0% du TAEG pour les transferts de solde éligiblespendant les 15 premiers mois suivant l'ouverture du compte lorsque le solde est transféré dans les 90 premiers jours suivant l'ouverture du compte.",
+              "text9": "  - Ensuite, un TAEG variable sur les transferts de balance, actuellement19,74 % à 29,74 %, fondée sur la solvabilité. Ce TAEG variera selon le marché en fonction du taux préférentiel"
+            }
+          },
+          "collapse2": {
+            "title1": "PNC Cash Rewards et Visas Carte de crédit",
+            "text1": "Maximiser votre ramenissement",
+            "title2": "0 euro de frais annuel",
+            "text2": "Gagnez 250 euros",
+            "tab1": {
+              "text1": "Doit être éligible à une ligne de crédit minimale de 500 euros.",
+              "text2": "Offre de bonus : Gagnez un bonus de 250 euros après avoir effectué des achats ou plus de 1 000 euros au cours des 3 premiers mois suivant l'ouverture du compte.",
+              "text3": "Prestations de cartes:",
+              "text4": "  - 4 % de remises sur les achats de la station-service",
+              "text5": "  - 3 % de remises en espèces sur les achats de restaurants",
+              "text6": "  - Remboursage de 2 % sur les achats d'épicerie",
+              "text7": "Pour les 8 000 premiers euros d'achats combinés dans les trois catégories ci-dessus par an.",
+              "text8": "Gagnez 1 % de remise en espèces sur tous les autres achats"
+            }
+          },
+          "collapse3": {
+            "title1": "PNC Core, Visa et carte de crédit",
+            "text1": "Épargner avec des taux bas",
+            "title2": "0 dollar par an",
+            "tab1": {
+              "text1": "Doit être éligible à une ligne de crédit minimale de 500 euros.",
+              "text2": "Offres d'introduction: économisez plus avec notre taux d'introduction de 0 % sur les achats et les transferts de solde.",
+              "text3": "  - 0 % d'intro APR sur les achatspendant les 18 premiers mois suivant l'ouverture du compte.",
+              "text4": "  - 0 % d'intro APR sur les transferts de balancependant les 18 premiers mois suivant l'ouverture du compte lorsque le solde est transféré dans les 90 premiers jours suivant l'ouverture du compte.",
+              "text5": "  - Puis un TAEG variable sur les achats et les transferts de solde, actuellement 18,74 % à 29,74 %,sur la base de la solvabilité. Ce TAEG variera selon le marché en fonction du taux préférentiel."
+            }
+          },
+          "collapse4": {
+            "title1": "Points de la PNC - Visa et carte de crédit",
+            "text1": "Gagnez des points pour des récompenses passionnantes",
+            "title2": "0 euro de frais annuel",
+            "text2": "Gagnez de 100 000 points",
+            "tab1": {
+              "text1": "Doit être éligible à une ligne de crédit minimale de 500 euros.",
+              "text2": "Offre de bonus : Gagnez 100 000 points bonus après avoir effectué 1 000 euros d'achats au cours des 3 premiers mois suivant l'ouverture du compte.",
+              "text3": "Avantages pour les cartes : Gagner de 4 à 7 points pour chaque achat d'un dollar et échanger avec des récompenses, y compris des produits Apple, des marchandises, des voyages, des cartes-cadeaux ou des remises en espèces.",
+              "text4": "  - Gagnez plus de points en plus des points de base que vous gagnez dans un cycle de facturation lorsque vous remplissez les exigences supplémentaires avec un compte de chèque PNC éligible.",
+              "text5": "  - Il n'y a pas de limite au nombre de points que vous pouvez gagner. "
+            }
+          },
+          "collapse5": {
+            "title1": "PNC Visa sécurisée et carte de crédit",
+            "text1": "Établissez et renforcez votre crédit",
+            "tab1": {
+              "text1": "Prestations de cartes:",
+              "text2": "  - Ouvrez votre compte avec un dépôt de garantie remboursable (300 à 2 500 euros). S'il est approuvé, le dépôt de garantie sera utilisé pour établir votre nouvelle limite de crédit.",
+              "text3": "  - Etablissez, renforcez ou construisez votre crédit – utilisez cette carte de manière responsable et au fil du temps, elle peut améliorer votre cote de crédit globale.",
+              "text4": "  - La  carte de crédit Visa sécurisée PNC ne peut être ouverte qu'en personne auprès d'une succursale de la PNC Bank. Appliquer en visitant une branche la plus proche de vous."
+            }
+          }
+        },
+        "studentBanking": {
+          "collapse1": {
+              "title1": "Pas de frais de service mensuels pour une durée pouvant aller jusqu'à 6 ans, plus :",
+              "tab1": {
+                "text1": "  - Suivez vos dépenses, réservez de l'argent pour les dépenses prévues et augmentez vos économies dans une expérience bancaire numérique",
+                "text2": "  - Protection contre les découverts et alertes",
+                "text3": "  - Le mode de trésorerie bas dans ®l'application mobile PNC vous donne plus de contrôle lorsque votre solde est faible"
+              }
+          },
+          "collapse2": {
+              "title1": "J'ai une longueur d'avance avec la PNC's My Finance Academy",
+              "text1": "Apprendre des autres et de leurs expériences du monde réel peut vous aider à vous préparer à un avenir financier plus sain. Découvrez notre collection de:",
+              "tab1": {
+                "text1": "  - Webinaires financiers",
+                "text2": "  - Articles éducatifs",
+                "text3": "  - Calculateurs pour aider à financer le budget, planifier et économiser de l'argent - "
+              }
+          }
+        }
+      },
+      "checkingAccount": {
+        "heroBanner": {
+          "title": "Ouvrir un compte de contrôle en ligne",
+          "text": "Virtual Wallet combine des outils numériques innovants avec votre compte de contrôle."
+        },
+        "advantage": {
+          "title": "Avantages et caractéristiques",
+          "feature1": {
+            "title": "Branche et accès ATM",
+            "text": "Profitez de plus de 2 200 sites et d'environ 60 000 PNC et de la DAB des partenaires côtiers."
+          },
+          "feature2": {
+            "title": "Mode en espèces bas avec Portefeuille virtuel",
+            "text": "Gérez votre compte de dépenses lorsque votre solde est faible. Avec le mode bon marché, vous pouvez utiliser des alertes intelligentes, du temps supplémentaire et du contrôle de paiement pour vous aider à éviter les frais de découvert."
+          },
+          "feature3": {
+            "title": "Cartes de débit PNC",
+            "text": "Utilisez votre ®carte de débit PNC Bank Visa et Débit pour accéder à la commodité en téléchargeant sur un portefeuille mobile de votre choix, en restant informé par la mise en place d'alertes pour suivre et surveiller les achats, et récompensez-vous avec PNC Purchase Payback ."
+          }
+        },
+        "FAQ": {
+          "title": "FAQ",
+          "text": "",
+          "FAQ1": {
+              "q": "Commenter puis-je mettre en place un dépôt direct?",
+              "r": "Direct Deposit vous permet de déposer automatiquement votre salaire, paiement de dividendes, une pension ou la sécurité sociale sur votre compte courant."
+          },
+          "FAQ2": {
+              "q": "Qu'est-ce qu'un rez-de-la-monte -e-ce qu'un",
+              "r": "Un compte courant est un compte bancaire conçu pour vous permettre de déposer, de retirer ou de transférer des fonds au jour le jour. Vous pouvez l'utiliser pour payer les biens et les services en personne et en ligne - vous aurez généralement une carte de débit et la possibilité de commander des chèques."
+          },
+          "FAQ3": {
+              "q": "Pourquoi est-il important d'avoir un compte courant?",
+              "r": "Vous aurez facilement accès à vos fonds, vous pourrez recevoir des dépôts directs et utiliser des outils numériques pour la gestion de l'argent. Votre argent déposé est également couvert par la FDIC jusqu'à concurrence du montant maximum autorisé par les États-Unis. Federal Insurance Deposit Corp. (FDIC) pour vous donner la sécurité et la paix de l'esprit."
+          },
+          "FAQ4": {
+              "q": "Puis-je ouvrir un compte courant en ligne ?",
+              "r": "Oui, dans de nombreux cas. Nous exigeons des clients âgés de moins de 16 ans qu'ils se rendent dans une succursale ayant un parent ou un tuteur légal pour demander un nouveau compte. Vous pouvez également avoir besoin de visiter une succursale pour demander un compte si vous n'avez pas de numéro de sécurité sociale."
+          },
+          "FAQ5": {
+              "q": "Quel poste autonome d'un projet d'eur-je pour ouvrir un courant",
+              "r": "Typiquement, vous devez avoir au moins 18 ans pour ouvrir un compte courant. Cependant, nous permettons aux jeunes d'ouvrir un compte avec l'aide d'un parent ou d'un tuteur légal."
+          },
+          "FAQ6": {
+              "q": "Qu'est-ce que le \"équilibre minimal\" signifie pour un compte courant?",
+              "r": "Le solde minimum d'un compte courant est le montant en euros le plus faible que le propriétaire doit conserver sur le compte pour recevoir certains avantages. Ces avantages peuvent comprendre l'exonération des frais mensuels d'entretien ou même la possibilité de gagner des intérêts sur les fonds déposés."
+          },
+          "FAQ7": {
+              "q": "De quoi ai-je besoin pour ouvrir un compte courant ?",
+              "r": "Vous pouvez ouvrir un compte de contrôle PNC en ligne ou en personne. Vous aurez besoin de : Une pièce d'identité avec photo délivrée par le gouvernement des États-Unis telle qu'un permis de conduire, une carte d'identité d'État non motrice, une carte d'identité militaire ou un passeport. Informations personnelles, y compris le numéro de la sécurité sociale, la date de naissance et l'adresse actuelle du domicile. Vous pourriez avoir besoin de plus d'informations ou de documentation supplémentaire en fonction du type de compte."
+          },
+          "FAQ8": {
+              "q": "De quoi ai-je besoin pour ouvrir un compte bancaire commun?",
+              "r": "Si vous souhaitez ouvrir un compte pour plus d’une personne à utiliser, assurez-vous que tous les candidats sont présents. Vous aurez besoin d’informations pour chaque propriétaire, y compris les noms, les numéros de sécurité sociale, les dates de naissance, les numéros de téléphone et les adresses postales – vous pourriez également avoir besoin de la pièce d’identité avec photo de chaque candidat."
+          }
+        }
+      },
+      "savings": {
+        "heroBanner": {
+          "title": "Épargne de la PNC",
+          "text": "Nous avons des solutions d'épargne pour vous aider à atteindre vos objectifs. "
+        },
+        "FAQ": {
+          "title": "FAQ",
+          "text": "",
+          "FAQ1": {
+            "q": "Comment puis-je choisir le meilleur compte d'épargne pour moi ?",
+            "r": "Commencez par identifier l'objet du compte. Demandez-vous, épargnez-vous un fonds d'urgence, un achat important, ou des objectifs à long terme comme la retraite ou l'éducation ? Connaître vos objectifs vous aidera à déterminer le bon type de compte. Par exemple, si vous avez besoin d'un accès régulier aux fonds, un compte d'épargne traditionnel ou à haut rendement offre des retraits flexibles. Toutefois, si vous ne prévoyez pas d'accéder aux fonds pendant un certain temps, un certificat de dépôt peut fournir des taux d'intérêt plus élevés en échange pour laisser les fonds intacts sur une période spécifiée. Ensuite, comparer les taux d'intérêt d'un pays à l'autre. Des taux plus élevés aident à augmenter les soldes des comptes plus rapidement, ce qui fait des comptes qui rapportent des taux plus élevés une offre attrayante pour de nombreux épargnants. Connaissez également les frais, les exigences minimales en matière d'équilibre ou les limites de transaction qui pourraient diminuer les bénéfices ou limiter l'accès aux fonds. Enfin, considérez les fonctionnalités de commodité, telles que les plans d'épargne automatiques et les capacités bancaires en ligne et mobiles."
+          },
+          "FAQ2": {
+            "q": "De quoi a faudra-t-on besoin pour ouvrir un compte d'épargne?",
+            "r": "Vous pouvez ouvrir un compte d'épargne PNC en ligne ou en personne. Vous aurez besoin de : Une pièce d'identité avec photo délivrée par le gouvernement des États-Unis telle qu'un permis de conduire, une carte d'identité d'État non motrice, une carte d'identité militaire ou un passeport. Informations personnelles, y compris le numéro de la sécurité sociale, la date de naissance et l'adresse actuelle du domicile. Vous pourriez avoir besoin de plus d'informations ou de documentation supplémentaire en fonction du type de compte."
+          },
+          "FAQ3": {
+            "q": "Puis-je ouvrir un compte d'épargne en ligne ?",
+            "r": "Oui, vous pouvez ouvrir n’importe lequel de nos comptes d’épargne traditionnels en ligne. Nous exigeons des clients âgés de moins de 18 ans qu'ils se rendent dans une succursale avec un parent qu'ils demandent un nouveau compte. Une fois le compte ouvert, vous pourrez peut-être le gérer entièrement en ligne afin de pouvoir commencer à épargner tout de suite dans le confort de votre maison. Toutefois, vous voudrez peut-être envisager où se trouvent nos succursales, au cas où se présenterait, lorsque vous préférez traiter une transaction ou poser une question en personne."
+          },
+          "FAQ4": {
+            "q": "Les comptes d'épargne gagnent-ils des intérêts?",
+            "r": "Oui, les comptes d'épargne rapportent des intérêts, ce qui donne la possibilité d'augmenter le solde de votre compte au fil du temps. Les taux peuvent varier en fonction de plusieurs facteurs, dont le type de compte, la balance actuelle et les conditions du marché. Il convient de noter que certains comptes d'épargne peuvent exiger un solde minimum pour recevoir le taux d'intérêt annoncé. Les comptes peuvent également structurer les taux en niveaux sur la base du solde du compte. "
+          },
+          "FAQ5": {
+            "q": "Qu'est-ce qu'APY?",
+            "r": "Le rendement annuel en pourcentage (APY) indique le taux d'intérêt réel qu'un compte gagne au cours d'une année, compte tenu des effets de la composition. Contrairement à un simple taux d'intérêt, qui ne calcule que les intérêts sur le montant principal, l'APY donne une vision plus complète en incluant à la fois le taux d'intérêt et si les intérêts sont composés quotidiennement, mensuels ou annuels. Si deux comptes ont le même taux d'intérêt mais des taux de composition différents, le compte qui compose plus fréquemment a un APY plus élevé et offre une plus grande croissance des comptes sur une période donnée."
+          },
+          "FAQ6": {
+            "q": "Puis-je avoir plus d'un compte d'épargne ?",
+            "r": "Oui. Beaucoup de gens utilisent plusieurs comptes d'épargne pour organiser leur argent pour des objectifs ou des dépenses. Nous offrons plusieurs options de compte, chacune avec des caractéristiques uniques pour répondre à des besoins différents. Par exemple, vous pourriez avoir un compte pour un fonds d'urgence, un autre pour l'épargne de vacances, et un compte séparé pour des objectifs à long terme comme un acompte sur une maison."
+          },
+          "FAQ7": {
+            "q": "Qu'est-ce que l'exigence d'un «équilibre minimal» signifie pour un compte d'épargne?",
+            "r": "Le solde minimum sur un compte d'épargne est la plus faible montant que le propriétaire doit conserver sur le compte pour recevoir certains avantages. Ces avantages peuvent comprendre l'exonération des frais mensuels d'entretien ou même la possibilité de gagner des intérêts sur les fonds déposés."
+          }
+        }
+      },
+      "creditCards": {
+        "heroBanner": {
+          "title": "Cartes de crédit personnelles PNC",
+          "text": "Découvrez plus de possibilités avec une carte de crédit PNC"
+        },
+        "secure": {
+          "title": "Vous obtenez notre plus haut niveau de protection. Toujours.",
+          "feature1": {
+            "title": "Protection contre la fraude à responsabilité zéro", 
+            "text": "Si votre numéro de carte ou de carte est jamais perdu ou volé, vous ne serez pas tenu responsable de l'utilisation non autorisée de votre carte."
+          }, 
+          "feature2": {
+            "title": "Protection des téléphones portables disponibles", 
+            "text": "Lorsque vous utilisez votre carte de crédit PNC Visa éligible pour payer votre facture mensuelle sans fil, vous pouvez être remboursé jusqu'à 800 euros si votre téléphone portable est volé ou endommagé. Les limitations s'appliquent."
+          }, 
+          "feature3": {
+            "title": "Allez sans contact et consultez en toute confiance", 
+            "text": "Payez rapidement et commodément pour les achats quotidiens avec des cartes de crédit PNC Visa sans contact. Obtenez le même niveau de sécurité quand vous tapez que lorsque vous insérez votre puce."
+          }
+        },
+        "EnvTitle": "Accords sur les cartes de crédit"
+      },
+      "studentBanking": {
+        "heroBanner": {
+          "title": "Centre de banque des étudiants", 
+          "text": "Le soutien sur lequel vous pouvez faire faillite aujourd'hui afin que vous puissiez vous concentrer sur les rêves de demain." 
+        },
+        "advantage": {
+          "title": "Produits prêts aux étudiants",
+          "text": "Le financement de votre éducation peut être compliqué à la fois avant - après l'obtention de son diplôme. Qu'il s'agisse de prêts d'étudiants privés ou de refinancement, la PNC dispose de plusieurs options pour répondre à vos besoins.",
+          "feature1": {
+            "title": "Prêts d'étudiants de premier cycle", 
+            "text": "Un prêt étudiant privé de la PNC peut aider à couvrir les dépenses des collèges et comprend des options de remboursement personnalisables."
+          },
+          "feature2": {
+            "title": "Prêts étudiants diplômés", 
+            "text": "Pour les étudiants diplômés de ceux qui travaillent dans les domaines de la santé, de la médecine et du droit, la PNC a des prêts pour vous aider à poursuivre et à faire progresser votre éducation."
+          },
+          "feature3": {
+            "title": "Refinancer les prêts étudiants", 
+            "text": "Que vous cherchiez à ajuster votre taux, votre paiement ou votre mandat, le refinancement de vos prêts étudiants avec PNC peut vous aider à atteindre vos objectifs."
+          }
+        }
+      }
+    },
+    "borrowing": {
+      "sectionCollapse": {
+        "homeEquity": {
+          "collapse1": {
+            "title1": "Prestations",
+            "text1": "Pourquoi choisir le choix de PNC HELOC.",
+            "title2": "Taux bas, pas de charges cachées", 
+            "text2": "Vous payez des frais chaque fois que vous verrouillez ou déverrouillez votre taux d'intérêt. Pas de surprises.", 
+            "tab1": {
+              "text1": "Réparez votre toit ou consolidez vos factures. À des taux qui peuvent être inférieurs à ceux des autres options de prêt/de crédit, avec la possibilité de passer d'un taux variable à un taux fixe."
+            }
+          },
+          "collapse2": {
+            "title1": "Passage entre les taux fixes et variables",
+            "text1": "Vous pouvez suivre le marché et attendre le taux d'intérêt le plus bas. Après avoir tiré vos fonds, vous pouvez transférer à une partie à taux fixe pour verrouiller le taux fixe. Vous pouvez également passer d'un taux fixe à un taux variable."            
+          },
+          "collapse3": {
+            "title1": "Prestations fiscales potentielles pour la rénovation domiciliaires",
+            "text1": "Les rénovations domiciliaires effectuées dans un foyer à des fins médicales (par exemple une rampe pour fauteuil roulant) pour installer un équipement économe en énergie (par exemple, un panneau solaire) peuvent être considérées comme une dépense déductible d'impôt. Consultez votre conseiller fiscal."
+          },
+          "collapse4": {
+            "title1": "Obtenir une réduction des taux",
+            "text1": "Recevez une ristourne de 0,25 % lorsque vous ouvrez et maintenez les paiements automatisés à partir d'un compte de chèque PNC éligible."
+          }
+        },
+        "constructionLoans": {
+          "collapse1": {
+            "title1": "Construction et rénovation à des financements permanents - Prêts lot", 
+            "tab1": {
+              "text1": "Construire ou rénover une maison est une période passionnante pour les propriétaires. Que vous soyez un premier constructeur ou un professionnel chevronné, tout le monde a besoin d'un peu de conseils en cours de route. ", 
+              "text2": "La responsabilité principale de la PNC est de fournir un financement, tout en respectant toutes les lignes directrices réglementaires applicables. Nous le faisons en fournissant des services exceptionnels, en tant que source d'informations, en surveillant les progrès du projet et en décavant les fonds en temps voulu."
+            }
+          },
+          "collapse2": {
+            "title1": "Comment puis-je commencer ?", 
+            "text1": "Si vous êtes prêt à commencer à construire, rénover ou acheter un terrain à construire, remplissez le formulaire ci-dessous pour être contacté par un agent de prêt hypothécaire certifié (MLO)."
+          }
+        },
+        "autoLoans": {
+          "title": "Refinancer votre voiture", 
+          "collapse1": {
+            "title1": "Commencez à épargner en refinançant votre prêt auto.", 
+            "text1": "Le refinancement automatique de la PNC peut vous aider à améliorer votre prêt automobile existant grâce à un TAEG compétitif et à des conditions flexibles. De plus, obtenez une décision de prêt rapide."
+          },
+          "collapse2": {
+            "title1": "Trouvez et financez votre véhicule en un seul endroit.", 
+            "text1": "Avec PNC Total Auto, propulsé par TrueCar, vous pouvez trouver un véhicule avec une recherche avancée, savoir ce que les gens de votre région ont payé pour la même voiture et revoir les options de financement en un seul endroit."
+          }
+        },
+        "personalLoans": {
+          "title": "Prêts de consolidation de cartes de crédit", 
+          "collapse1": {
+            "text1": "Vous pourriez rembourser des dettes à taux d'intérêt élevé - payer moins, avec des paiements mensuels gérables. Combinez toute votre dette en un seul paiement mensuel avec un prêt qui a un taux d'intérêt plus faible. Pas de garantie requise."
+          }
+        }
+      },
+      "homeEquity": {
+        "heroBanner": {
+          "title": "Lignes de crédit sur valeur domiciliaire", 
+          "text": "Utilisez une ligne de crédit pour rénover votre maison, refinancer votre hypothèque ou consolider la dette."
+        },
+        "infos": {
+          "title": "Je veux en apprendre plus", 
+          "feature1": {
+            "title": "Équité au logement expliquée", 
+            "text": "Apprenez vos options pour obtenir des fonds de votre maison, évaluez les avantages et les inconvénients, et explorez ce que vous pouvez faire avec votre équité à domicile." 
+          },
+          "feature2": {
+            "title": "Serrure à tarif fixe", 
+            "text": "Un verrouillage à taux fixe vous donne la possibilité de verrouiller un taux spécifique et fournit un paiement mensuel cohérent pour tout ou partie de votre solde créditeur." 
+          },
+          "feature3": {
+            "title": "Autres produits de prêt", 
+            "text": "Apprenez vos options pour faire sortir des fonds de votre maison, évaluez les pros et PNC prête depuis plus de 100 ans. Nous pouvons vous aider à trouver le bon produit." 
+          }
+        },
+        "tips": {
+          "title": "Outils et calculateurs de prêts d'actions à domicile", 
+          "text": "Utilisez nos calculatrices simples et rapides pour savoir combien vous pouvez emprunter, pour comparer vos options de prêt, ou obtenir une estimation de rénovation.",
+          "feature1": {
+            "title": "Quel sera le coût de ma rénovation ?", 
+            "text": "Notre \"calculateur d'amélioration de la maison\" peut créer une estimation personnalisée des coûts pour votre plan de projet. Une fois que vous savez combien vous avez besoin, explorez les options d'emprunt pour trouver votre meilleur choix de financement." 
+          },
+          "feature2": {
+            "title": "Pas sûr de choisir ?", 
+            "text": "Visitez notre plateforme de prêt pour les ressources, les articles et les liens afin de vous aider à prendre la meilleure décision pour vos besoins d'emprunt." 
+          }
+        }
+      },
+      "constructionLoans": {
+        "heroBanner": {
+          "title": "Construisez votre maison de rêve",
+          "text": "Qu'il s'agisse de construire ou de rénover, apprenez comment les options de prêt de construction de PNC pourraient fonctionner pour vous"
+        },
+        "FAQ": {
+          "title": "Documentation requise au cours de chaque phase de tirage au sort", 
+          "FAQ1": {
+            "q": "Pendant la phase de construction, quel type de prêt dois-je faire?", 
+            "r": "Les paiements mensuels uniquement aux intérêts, qui sont calculés sur les fonds de prêt décaissés. Si vous êtes dans une zone inondable, l'assurance contre les inondations sera perçue pendant la phase de construction." 
+          }, 
+          "FAQ2": {
+            "q": "Qu'est-ce que je devrais espérer payer à ma date de conversion ?", 
+            "r": "Certaines des dépenses les plus courantes que vous devriez vous attendre à payer sont: Intérêt de la phase finale de construction, Éclepsifs pour impôts et assurances, Intérêts payés d'avance sur la phase permanente, Droits d'inspection supplémentaires, le cas échéant." 
+          },
+          "FAQ3": {
+            "q": "Mon constructeur peut-il faire valoir qu'une demande de tirage au sort doit être financée ou libérée sans mon approbation?", 
+            "r": "Non. Le(s) propriétaire(s) et le constructeur doivent tous deux approuver chaque demande de tirage." 
+          }, 
+          "FAQ4": {
+            "q": "Quand les séquestres sont-ils collectés?", 
+            "r": "Les éclabils pour impôts et assurances sont perçus à votre date de conversion. Les emprunteurs sont responsables de tous les paiements de séquestres qui arrivent à échéance pendant la phase de construction." 
+          },
+          "FAQ5": {
+            "q": "Que se passe-t-il si j'ai besoin de plus de temps pour terminer mon projet ?", 
+            "r": "Si les améliorations ne sont pas complètes et/ou si vous n'êtes pas en mesure de satisfaire aux exigences avant l'échéance, des commissions supplémentaires et/ou des augmentations de taux d'intérêt peuvent s'appliquer. Le prêteur déterminera si une prolongation est appropriée. Cette disposition est soumise à la qualification et aux redevances applicables. Certaines restrictions s'appliquent." 
+          }, 
+          "FAQ6": {
+            "q": "Quelles sont les responsabilités des propriétaires et des constructeurs?", 
+            "r": "Satisfaire les exigences de la PNC, suivre les procédures établies et respecter les conditions du prêt., Il incombe à la fois au propriétaire et au contractant/constructeur de mener à bien le projet dans le cadre du contrat de construction., Se réunir fréquemment pour discuter du projet, des problèmes, des changements, etc., Rendez des visites fréquentes de lieux d'emploi ensemble., Résoudre les différends rapidement et équitablement., Avoir une communication rapide et efficace., Informer la PNC de tout changement ou problème au fur et à mesure qu'il se pose." 
+          }
+        },
+        "infos": {
+          "title": "Décaissement des fonds pour travaux achevés",  
+          "text": "Il est facile et pratique de demander un décaissement de fonds de la PNC. Le processus de décaissement typique est le suivant :", 
+          "feature1": {
+            "text": "La PNC inspectera le projet pour déterminer l'état d'avancement. Si les inspections dépassent le nombre d'inspections prépayées (généralement trois pour la rénovation et six pour la construction), des frais d'inspection supplémentaires peuvent être facturés et relèvent de la responsabilité du propriétaire."
+          }, 
+          "feature2": {
+            "text": "Le calendrier d'inspection déterminera l'achèvement sur la base d'un pourcentage complet. Le coût réel de la construction peut différer à tout stade de l'achèvement."
+          }, 
+          "feature3": {
+            "text": "Les inspections sont généralement obtenues dans les 48 heures suivant la notification et le tirage correspondant effectué dans les 24 heures suivant la réception du rapport d'inspection et des documents requis. Si le propriétaire et/ou le constructeur ne parviennent pas à remplir correctement un document requis, les fonds ne seront pas débloqués tant que l'erreur n'aura pas été corrigée."
+          }, 
+          "feature4": {
+            "text": "Les fonds sont versés au propriétaire, au constructeur ou conjointement comme convenu par les parties après une inspection du bien. Seuls les articles achevés au moment de l'inspection seront crédités."
+          }, 
+          "feature5": {
+            "text": "Une fois la méthode de décaissement établie, toute modification de la méthode de décaissement, quel que soit le demandeur de la modification, doit être soumise par écrit par le propriétaire."
+          }, 
+          "feature6": {
+            "text": "Le cas échéant, Earnest Money et le Startup Draw sont calculés et pris en compte dans le premier tirage, qui peut être à la clôture. Le propriétaire et/ou le constructeur fourniront une ventilation qui détaille la manière dont les fonds ont été utilisés."
+          }
+        }
+      },
+      "autoLoans": {
+        "heroBanner": {
+          "title": "Prêts automobiles", 
+          "text": "Explorez les options d'emprunt pour les voitures neuves ou d'occasion."
+        },
+        "infos": {
+          "title": "Acheter une voiture",
+          "text": "Achetez des voitures neuves ou d'occasion avec la bonne solution de prêt pour vous. Demandez dès aujourd'hui un prêt automobile en ligne, par téléphone ou dans une succursale.", 
+          "feature1": {
+            "title": "Acheter auprès d'un concessionnaire", 
+          "text": "Avec l'enregistrement, vous pouvez acheter un véhicule neuf ou d'occasion auprès d'un revendeur éligible."          
+          }, 
+          "feature2": {
+            "title": "Acheter un baux", 
+          "text": "Avec un prêt automoteur de crédit-bail, vous pouvez faire votre propre voiture."          
+          }, 
+          "feature3": {
+            "title": "Acheter auprès d'une partie privée", 
+          "text": "Avec un prêt automobile usauvagiste, vous pouvez acheter auprès d'un vendeur privé."          
+          }
+        }
+      },
+      "personalLoans": {
+        "heroBanner": {
+          "title": "Prêts personnels de la PNC Bank", 
+          "text": "Un prêt personnel ou une ligne de crédit vous donnera accès à l'argent dont vous avez besoin pour atteindre vos objectifs."
+        },
+        "infos": {
+          "title": "Explorer les prêts personnels et les lignes de crédit",
+          "feature1": {
+            "title": "Prêt à l'installation personnelle",
+            "text": "Emprunter de l'argent et le rembourser par des versements mensuels réguliers."
+          },  
+          "feature2": {
+            "title": "Ligne de crédit personnelle",
+            "text": "Accéder aux fonds chaque fois que vous devez - jusqu'à concurrence d'un plafond de crédit approuvé."
+          }
+        }
+      }
+    },
+    "contact": {
+      "title": "Avez-vous des inquiétudes?",
+      "text": "Laissez-nous parvenir vos inquiétudes et optenez une réponse en mois de 24H.",
+      "messageFieldLabel": "Message",
+      "nameFieldLabel": "Nom", 
+      "surnameFieldLabel": "Prénom (Optionnel)",
+      "emailFieldLabel": "Adresse mail",
+      "telephoneFieldLabel": "Téléphone (Optionnel)",
+      "sendButton": "Envoyer",
+      "requiredField": "Ce champ est requis",
+      "emailFieldInvalid": "Adresse e-mail invalide",
+      "successMessage": "Votre message a bien été envoyé",
+      "sending": "Encours"
+    },
+    "login": {
+      "title": "Connexion", 
+      "text": "Connectez-vous à votre compte pour effectuer des opérations sur votre compte", 
+      "emailFieldInvalid": "Adresse e-mail invalide", 
+      "emailFieldLabel": "Adresse mail", 
+      "passwordFieldLabel": "Mot de passe", 
+      "requiredField": "Ce champ est requis",
+      "forgotPassword": "Mot de passe oublié?",
+      "loginButton": "Se connecter",
+      "sendCode": "Enovoyer le code",
+      "backToLogin": "Retour à la connexion",
+      "successMessage": "Connexion réussie ! Redirection...",
+      "generalError": "Une erreur est survenue lors de la connexion",
+      "recoveryCodeSent": "Un code de récupération a été envoyé à votre adresse email",
+      "loggingIn": "Connexion en cours...",
+      "createAccount": "Créer un compte",
+      "noUserFound": "Aucun utilisateur trouvé avec cet email.",
+      "incorrectPassword": "Mot de passe incorrect.",
+      "connected": "Connexion réussie."
+    },
+    "signup": {
+      "title": "Inscription",
+      "text": "Créez votre compte pour profiter des nombreuses avantages que vous offre PNC",
+      "lastNameLabel": "Nom",
+      "firstNameLabel": "Prénom",
+      "emailLabel": "Email",
+      "phoneLabel": "Téléphone",
+      "addressLabel": "Adresse",
+      "zipLabel": "Code postal",
+      "cityLabel": "Ville",
+      "countryLabel": "Pays",
+      "selectCountry": "Sélectionnez le pays",
+      "genderLabel": "Sexe",
+      "selectGender": "Sélectionnez le sexe",
+      "genderMale": "Masculin",
+      "genderFemale": "Féminin",
+      "professionLabel": "Profession",
+      "monthlyIncomeLabel": "Revenu mensuel",
+      "maritalStatusLabel": "Situation matrimoniale",
+      "childrenCountLabel": "Nombre d'enfants",
+      "submitButton": "Soumettre",
+      "enterVerificationCode": "Entrez le code de vérification Envoyer à votre adresse mail",
+      "verifyCode": "Vérifier",
+      "enterVerificationCodePlaceholder": "Code de vérification",
+      "verificationError": "Code erronné",
+      "passwordLabel": "Mot de passe"
+    },
+    "dashboard": {
+      "title": "Tableau de bord", 
+      "noVirement": "Aucune transaction trouvée!",
+      "statut": {
+        "good": "Bon",
+        "care": "Inquiétant"
+      },
+      "soldeLabel": "Solde du compte",
+      "accountTypeLabel": "Type de compte",
+      "accountTypeValue": "Courant",
+      "accountStatutLabel": "Etat du compte",
+      "transactionsLabel": "Transactions",
+      "send": "Transférer",
+      "loading": "Chargement des données",
+      "virementTo": "Virement à ",
+      "detailsLinkText": "Details"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "emailSection": "Adresse e-mail",
+      "emailFieldLabel": "Votre adresse e-mail",
+      "oldPasswordRequired": "Le mot de passe ancien est requis.",
+      "newPasswordRequired": "Le nouveau mot de passe est requis.",
+      "confirmPasswordRequired": "La confirmation du mot de passe est requise.",
+      "passwordsDoNotMatch": "Les mots de passe ne correspondent pas.",
+      "passwordsMustBeDifferent": "Le nouveau mot de passe doit être différent de l'ancien.",
+      "emailUpdated": "Votre adresse e-mail a été mise à jour.",
+      "updateError": "Erreur lors de la mise à jour.",
+      "passwordChanged": "Votre mot de passe a été changé.",
+      "passwordNotDisplayed": "Votre mot de passe n'est pas affiché.",
+      "saving": "Enregistrement...",
+      "save": "Sauvegarder",
+      "edit": "Modifier",
+      "cancel": "Annuler",
+      "passwordSection": "Mot de passe",
+      "oldPasswordFieldLabel": "Ancien mot de passe",
+      "newPasswordFieldLabel": "Nouveau mot de passe",
+      "confirmPasswordFieldLabel": "Confirmer le nouveau mot de passe",
+      "loading": "Chargement des données"
+    },
+    "profile": {
+      "title": "Mon Profil",
+      "loading": "Chargement des données"
+    },
+    "logout": {
+      "title": "Déconnexion",
+      "loading": "Chargement des données"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "nonotif": "Aucune notification trouvé!",
+      "loading": "Chargement des notifications",
+      "virementEffectue": "Nouveau virement encours",
+      "virementMessage": "Votre virement est bien lancé et est encours de progression.",
+      "received": "Transfert sur votre compte",
+      "receivedMessage": "Vous avez reçu une somme sur votre compte. Votre nouveau solde est de: "
+    },
+    "virement": {
+      "title": "Virement",
+      "amountLabel": "Montant",
+      "dateLabel": "Date:",
+      "recipientLabel": "IBAN du bénéficiaire",
+      "motifLabel": "Motif du virement",
+      "availableBalance": "Solde disponible",
+      "beneficiare": "Bénéficiaire",
+      "emailLabel": "Adresse mail du bénéficiaire",
+      "addressLabel": "Adresse du bénéficiaire",
+      "zipLabel": "Code postal du bénéficiaire",
+      "cityLabel": "Ville du bénéficiaire",
+      "countryLabel": "Pays du bénéficiaire",
+      "submitButton": "Effectuer",
+      "verifying": "Vérification encours",
+      "insufficientBalance": "Solde insuffissant",
+      "invalidEmail": "Adresse mail invalide",
+      "required": "Ce champ est requis", 
+      "invalidZip": "Code postale invalide",
+      "invalidAmount": "Montant invalide",
+      "loading": "Chargement des données",
+      "codeVerification": "Code de vérification",
+      "verificationError": "Code erronné"
+    }
+  }

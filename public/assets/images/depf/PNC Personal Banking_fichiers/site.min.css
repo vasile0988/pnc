@@ -1,0 +1,174 @@
+.live-help {
+	display: none;
+}
+
+.lpChatButtonSpSm a {
+	font-size: 1px;
+	line-height: 1px;
+}
+
+.global-container .live-help {
+	position: static;
+}
+.global-container .live-help-panel {
+	display: block;
+}
+
+@media only screen and (min-width: 280px) {
+	.live-help {
+		display: block;
+		position: fixed;
+		right: 0;
+		top: 35%;
+		z-index: 701;
+	}
+
+	.live-help a {
+		color: #004C97;
+		text-decoration: none;
+	}
+
+	.live-help .btn-live-help {
+		background: url(site/resources/sprite_btn_live_help_sm.png) no-repeat;
+		display: block;
+		font: 12px/40px "PNC Brand Bold", Arial, sans-serif;
+		height: 40px;
+		position: relative;
+		text-shadow: 1px 1px 1px #ffffff;
+		text-transform: uppercase;
+		width: 51px;
+		white-space: nowrap;
+		text-indent: 51px;
+		overflow: hidden;
+	}
+
+	.live-help .btn-live-help:hover {
+		background-position: 0 -40px;
+	}
+		
+	.live-help-panel {
+		background: url(site/resources/bg_live_help.png) no-repeat;
+		background-size: auto 100%;
+		display: none;
+		min-height: 129px;
+		overflow: hidden;
+		padding: 0 18px;
+		position: relative;
+		top: 0;
+		width: 195px;
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='../resources/bg_live_help.png', sizingMethod='scale');
+		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='../resources/bg_live_help.png', sizingMethod='scale')";
+	}
+
+	.live-help-panel h6 {
+		color: #484848;
+		font: 14px/1.2"PNC Brand Bold", Arial, sans-serif;
+		margin: 4px 0;
+	}
+
+	.live-help-panel p {
+		color: #484848;
+		font: 12px/14px "PNC Brand Regular", Arial, sans-serif;
+		margin: 8px 0;
+	}
+
+	.live-help-panel p b {
+		font: 12px/14px "PNC Brand Bold", Arial, sans-serif;
+	}
+			
+		
+	.live-help-panel.open {
+		display: block;
+	}
+
+	.live-help-liveperson {
+		padding: 6px 0;
+	}
+		
+	.live-help-liveperson a {
+		background: url(site/resources/icon_liveperson.png) no-repeat left top;
+		display: inline-block;
+		line-height: 1.2;
+		min-height: 19px;
+		padding-left: 30px;
+	}
+
+	.live-help-liveperson a:hover {
+		text-decoration: underline;
+	}
+				
+	.live-help-borderline {
+		padding: 6px 0;
+		border-top: 1px solid #dadada;
+	}
+	.live-help-sched-row {
+		margin: 4px 0;
+	}
+
+	.live-help.open .btn-live-help {
+		background: url(site/resources/btn_live_help_open.png) no-repeat;
+		height: 36px;
+		text-indent: 16px;
+		width: 231px;
+	}
+
+	.live-help.open span {
+		visibility: hidden;
+	}
+
+	#lpChatButton {
+		min-height: 60px;
+	}
+		
+	.loading {
+		margin: 0 auto;
+		display: block;
+		padding-top: 20px;
+	}
+}
+
+@media (max-height: 425px) and (orientation: landscape) {
+    .live-help .message, 
+    .live-help-borderline p {
+        display: none;
+    } 
+    
+    .live-help .live-help-panel{
+        background-size: 100% 100%;
+    }
+    
+     .live-help {
+        top: 162px;
+    }
+
+}
+
+@media (max-height: 320px) and (orientation: landscape) {
+    .live-help-borderline,
+	.live-help-liveperson {
+		padding: 6px 0;
+	}
+    
+    .live-help .live-help-panel{
+        background-size: 100% 100%;
+    }
+    
+     .live-help {
+        top: 50%;
+    }
+
+}
+
+@media screen and (min-width: 980px) {
+
+	.live-help .btn-live-help {
+		background-image: url(site/resources/sprite_btn_live_help.png);
+		width: 101px;
+		text-indent: 12px;
+	}
+
+	.pdp-container .live-help {
+		top: 370px;
+		z-index: 400;
+}
+}

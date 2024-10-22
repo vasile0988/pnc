@@ -1,0 +1,973 @@
+{
+  "metadataTitle": {
+    "home": "Home",
+    "virtualWallet": "Virtual Wallet",
+    "checkingAccount": "Checking Account",
+    "saving": "Saving",
+    "creditCards": "Credit Cards",
+    "studentBanking": "Student Banking",
+    "homeEquity": "Home Equity Lines of Credit",
+    "construction": "Construction and Land Loans",
+    "autoLoans": "Auto Loans",
+    "personalLoans": "Personal Loans and Lines of Credit",
+    "login": "Log In",
+    "contact": "Contact Us",
+    "signup": "Create an Account",
+    "dashboard": "Dashboard",
+    "profile": "My Profile",
+    "settings": "Settings",
+    "virement": "Transfer",
+    "notifications": "Notifications"
+  },
+  "navigation": {
+    "loadingText": "Loading ",
+    "more": "More",
+    "menu": "Menu",
+    "borrowingLink": "Apply for a Loan",
+    "banking": {
+      "title": "Banking",
+      "virtualWallet": "Virtual Wallet",
+      "checking": "Checking Account",
+      "saving": "Saving",
+      "creditCards": "Credit Cards",
+      "studentBanking": "Student Banking",
+      "militaryBanking": "Military Banking"
+    },
+    "borrowing": {
+      "title": "Borrowing",
+      "homeEquity": "Home Equity Lines of Credit",
+      "constructionLoans": "Construction and Land Loans",
+      "autoLoans": "Auto Loans",
+      "personalLoans": "Personal Loans and Lines of Credit",
+      "studentLoans": "Student Loans",
+      "studentLoanRefinancing": "Student Loan Refinancing"
+    },
+    "investing": {
+      "title": "Investing and Wealth Management",
+      "pncInvestments": "PNC Investments",
+      "pncPrivateBank": "PNC Private Bank"
+    },
+    "contactUs": "Contact Us",
+    "login": "Log In",
+    "signup": "Create an Account"
+  },
+  "sectionImgItems": {
+    "banking": {
+      "checking": "Check",
+      "creditCards": "Credit Cards",
+      "saving": "Saving",
+      "homeLoans": "Home Loans",
+      "retirement": "Retirement",
+      "autoLoans": "Auto Loans",
+      "title": "Products & Services",
+      "text": "Explore and apply online."
+    },
+    "virtualWallet": {
+      "title": "The PNC Check is a Virtual Wallet",
+      "text": "Your virtual wallet comes with useful digital tools, linked checking and savings accounts, as well as:",
+      "tab": {
+        "text1": "Over 2,200 locations and approximately 60,000 ATMs from PNC and partners",
+        "text2": "Digital money management tools all in one place",
+        "text3": "Low Cash Mode® - gives you more control when your balance is low"
+      }
+    }
+  },
+  "sectionHero": {
+    "banking": {
+      "title": "The safest plan is often the smartest",
+      "linkText": "See what boring banking can do for you"
+    },
+    "virtualWallet": {
+      "title": "Earn up to $400",
+      "text": "when you open and use a new selected virtual wallet."
+    },
+    "autoLoans": {
+      "title": "Monthly Payment Estimate Calculator",
+      "text": "Use the calculator below to determine your vehicle monthly payments."
+    }
+  },
+  "sectionTitleParagraph": {
+    "banking": {
+      "title": "Important Legal Information and Disclosures",
+      "paragraph1": "PNC does not charge fees for mobile banking services. However, third-party messaging and data fees may apply. These include charges that your mobile carrier may impose for data use and text messaging services. Check with your mobile carrier for details on your specific wireless plan and any applicable data or messaging fees. Additionally, a supported mobile device is required to use the mobile banking app. Mobile deposit is a feature of PNC Mobile Banking. Using the mobile deposit feature requires a compatible device equipped with a camera, and you must download a PNC mobile banking app. A PNC eligible bank account and PNC online banking services are required. Some other restrictions apply. Please refer to the terms and conditions of mobile banking services in the PNC online banking service agreement.",
+      "paragraph2": "Customer videos on this site are unpaid testimonials from real PNC customers.",
+      "paragraph3": "Equal Housing Lender",
+      "paragraph4": "PNC, PNC HomeHQ, PNC Home Insight, and Home Insight are registered service marks of The PNC Financial Services Group, Inc. (‘PNC’). PNC has pending patent applications related to various features and functions of Home Insight Planner and Home Insight Tracker. All loans are made by PNC, National Association, a subsidiary of PNC, and are subject to credit approval and property appraisal.",
+      "paragraph5": "The PNC Financial Services Group, Inc. (‘PNC’) uses the trade names PNC Private Bank℠ and PNC Private Bank Hawthorn® to provide investment and wealth management advice, trust services, FDIC-insured banking products and services, and lending to individual clients through PNC, National Association (‘PNC’), which is a member of the FDIC, and to provide specific trust and agency services through its subsidiary, PNC Delaware Trust Company or PNC Ohio Trust Company. PNC uses the trade name PNC Institutional Asset Management® for various discretionary and non-discretionary institutional investment, trust, custody, and related services provided by PNC, as well as investment management activities conducted by PNC Capital Advisors, LLC, a registered investment advisor with the SEC and a wholly-owned subsidiary of PNC (‘PNC Capital Advisors’). PNC uses the trade name PNC Institutional Advisory Solutions® for discretionary investment management, trust services, and related services provided by PNC. PNC uses the trade name PNC Retirement Solutions® for investment, advisory, fiduciary, and custody services for employer-sponsored retirement plans provided by PNC. PNC does not provide legal, tax, or accounting advice unless, with respect to tax advice, PNC has entered into a written tax services agreement. PNC is not registered as a municipal advisor under the Dodd-Frank Wall Street Reform and Consumer Protection Act (‘Act’). Investment management and related products and services provided to a ‘municipal entity’ or an ‘obligated person’ regarding ‘municipal securities products’ (as these terms are defined in the Act) will be provided by PNC Capital Advisors.",
+      "paragraph6": "Investments: Not FDIC insured. No bank guarantee. May lose value.",
+      "paragraph7": "©2024 The PNC Financial Services Group, Inc. All rights reserved. PNC, National Association. Member FDIC.",
+      "paragraph8": "Read a summary of the privacy rights of California residents, which describes the types of information we collect, and how and why we use that information."
+    },
+    "virtualWallet": {
+      "paragraph1": "The Virtual Wallet with Performance Spend includes reimbursement of the first 2 PNC ATM fees at non-PNC national or international ATMs and up to $5 for other bank ATM surcharge fees per statement cycle. The Virtual Wallet with Performance Select includes no fees for using other banks' national or international ATMs and up to $10 in surcharge fee reimbursement per statement cycle for other banks' ATM fees.",
+      "paragraph2": "Low Cash Mode is available only on the Spend account of your Virtual Wallet product.",
+      "paragraph3": "An eligible direct deposit is defined as a recurring direct deposit of a paycheck, pension, Social Security, or other regular monthly income deposited electronically by an employer or outside agency into the Spend account of a Virtual Wallet with Performance Select, a Virtual Wallet with Performance Spend, or a Virtual Wallet. Exclusions apply. See product features and fees for more details.",
+      "paragraph4": "To be eligible for a relationship rate, you must have a Spend account linked to a Virtual Wallet with Performance Select, a Virtual Wallet with Performance Spend, or a Virtual Wallet and meet one of the following requirements: Make a combination of 5 or more PIN-based and/or signature-based point-of-sale transactions (excluding cash advances) posted during the previous calendar month on your account using your linked Visa® debit card or Visa® credit card. Have $500 in eligible direct deposits into a Spend account linked to a Virtual Wallet during the previous calendar month. Have $2,000 in eligible direct deposits ($1,000 for WorkPlace or Military Banking customers) into a Spend account linked to a Virtual Wallet with Performance Spend during the previous calendar month. Have $5,000 in eligible direct deposits into a Spend account linked to a Virtual Wallet with Performance Select during the previous calendar month. (An eligible direct deposit is defined as a recurring electronic deposit made by an employer or outside agency. Transfers from one account to another or deposits made via branch, ATM, online transfer, mobile device, or mail are not eligible for this requirement.)",
+      "paragraph5": "Beginning the calendar month following the opening of your Virtual Wallet Growth account and each month thereafter, whether the account earns the standard or relationship variable rate for the entire calendar month will be determined on the first of the month based on the number of eligible transactions or the direct deposit requirement from the previous calendar month.",
+      "paragraph6": "If changes are made to your linked checking account (it is closed, changed to a new account type, or no longer linked to your Virtual Wallet Growth account), you may no longer qualify for a relationship rate, or the rates may otherwise change from those in effect at the time of the change.",
+      "paragraph7": "For Virtual Wallet with Performance Spend, the average monthly combined balance of $10,000 includes all linked PNC consumer accounts. For Virtual Wallet with Performance Select, the average monthly combined balance of $25,000 includes all linked PNC consumer and investment accounts. See product features and fees for more details.",
+      "paragraph8": "A maximum of eight (8) linked PNC accounts, including Spend and Reserve accounts, may be counted in the combined average monthly balance relationship.",
+      "paragraph9": "Certain accounts may not be eligible to be included in the combined average monthly balance requirement based on title structure, product type, or other constraints. The customer must request that the account be linked to receive relationship benefits.",
+      "paragraph10": "Zelle® should only be used to send or receive money to people you know and trust. Before using Zelle® to send money, you must confirm the recipient’s email address or U.S. mobile phone number. Neither PNC nor Zelle® offers purchase protection for payments made with Zelle®, for example, if you do not receive the item you paid for, or if the item is not as described or meets your expectations. Zelle® is available for almost anyone with a bank account in the United States. Transactions typically occur within minutes between enrolled users. If the recipient is not enrolled, the payment will expire after 14 calendar days. Please refer to the PNC Zelle terms of use for additional terms and conditions. Use of Zelle® is subject to and conditioned upon compliance with the terms of use of PNC Zelle®.",
+      "paragraph11": "✝This offer is subject to product availability and may vary based on where you open your account and the zip code of your primary address. For online or phone applications, the zip code of your primary address will be used to determine product availability. You can earn a $400 reward if you open and use a new Virtual Wallet with Performance Select, a $200 reward if you open and use a new Virtual Wallet with Performance Spend, or a $100 reward if you open and use a new Virtual Wallet. If you change your Virtual Wallet product type after account opening, the product type you are in on the last business day of the month in which you opened your account will determine your eligibility for the offer, the conditions, and the corresponding reward amount, if any.",
+      "paragraph12": "To be eligible for the reward, the new Virtual Wallet product must be opened online via the application links on this page from 04/09/2024 to 10/31/2024, and one or more eligible direct deposits must be received within the first 60 days. Your Virtual Wallet product must remain open for you to receive the reward, which will be credited to the eligible account 60 to 90 days after all conditions are met and will be identified as a credit verification reward on your monthly statement.",
+      "paragraph13": "An eligible direct deposit for this offer is defined as a recurring direct deposit of a paycheck, pension, Social Security, or other regular monthly income deposited electronically by an employer or outside agency into the Spend account of a Virtual Wallet with Performance Select, a Virtual Wallet with Performance Spend, or a Virtual Wallet. The total amount of all eligible direct deposits credited to your Spend account must be at least $5,000 for a Virtual Wallet with Performance Select, $2,000 for a Virtual Wallet with Performance Spend, or $500 for a Virtual Wallet. Transfers from one account to another or deposits made via branch, ATM, online transfer, mobile device, or mail are not eligible for this requirement. Exclusions apply. See product features and fees for more details.",
+        "paragraph14": "The new account will not be eligible for the offer if you or any signatories of the new account already have a PNC Bank consumer checking account or have closed an account in the past 12 months, or have received a PNC promotional bonus in the last 24 months. If multiple accounts are opened with the same signatories, only one account will be eligible for the bonus. Trust accounts, estate accounts, and other specialized accounts are excluded from this offer. The offer may be extended, modified, or discontinued at any time and may vary by market. The value of the reward may be reported on the appropriate forms of the Internal Revenue Service (IRS) and may be considered taxable income for you. Please consult your tax advisor regarding your specific situation.",
+        "paragraph15": "Virtual Wallet is a registered trademark of The PNC Financial Services Group, Inc.",
+        "paragraph16": "Low Cash Mode is a registered trademark of The PNC Financial Services Group, Inc.",
+        "paragraph17": "Zelle and related marks are the exclusive property of Early Warning Services, LLC and are used here under license.",
+        "paragraph18": "PNC holds numerous patents/patent applications pending for various features and functions of Virtual Wallet.",
+        "paragraph19": "Bank deposit products and services are provided by PNC Bank, National Association. Member FDIC.",
+        "paragraph20": "Read a summary of the privacy rights of California residents that describes the types of information we collect, as well as how and why we use that information.",
+        "paragraph21": "The Virtual Wallet with Performance Spend includes reimbursement for the first two PNC ATM fees at national or international ATMs and up to $5 for surcharge fees from other banks each statement cycle. The Virtual Wallet with Performance Select does not include any charge for using national or international ATMs from other banks and up to $10 per statement cycle for surcharge fees from other banks.",
+        "paragraph22": "The Low Cash Mode is only available on the spend account of your Virtual Wallet product.",
+        "paragraph23": "An eligible direct deposit is defined as a recurring direct deposit of a paycheck, pension, Social Security, or other regular monthly income electronically deposited by an employer or external agency into the spend account of a Virtual Wallet with Performance Select, Virtual Wallet with Performance Spend, or Virtual Wallet. Exclusions apply. See Product Features and Fees for more details.",
+        "paragraph24": "To be eligible for a relationship rate, you must have a linked spend account from a Virtual Wallet with Performance Spend or a Virtual Wallet and meet one of the following requirements:",
+        "paragraph25": "  - Receive a combination of 5 PIN transactions or more and/or signature-based point-of-sale transactions (excluding cash advances) posted during the previous calendar month on your account using your Visa debit card or Visa credit card.",
+        "paragraph26": "  - Have $500 in eligible direct deposits into a linked spend account from a Virtual Wallet during the previous calendar month.",
+        "paragraph27": "  - Have $2,000 in eligible direct deposits ($1,000 for WorkPlace or Military Banking customers) into a linked spend account from a Virtual Wallet with Performance Spend during the previous calendar month.",
+        "paragraph28": "  - Have $5,000 in eligible direct deposits into a linked spend account from a Virtual Wallet with Performance Select during the previous calendar month. (An eligible direct deposit is a recurring electronic deposit made by an employer or external agency. Transfers made from one account to another or deposits made through a branch, ATM, online transfer, mobile device, or mail are not eligible to meet this requirement.)",
+        "paragraph29": "Starting the calendar month following the opening of your Virtual Wallet Growth account and monthly thereafter, whether the account earns the Standard or Relationship rate for the entire calendar month will be determined based on the number of eligible transactions or the direct deposit requirement from the previous calendar month.",
+        "paragraph30": "If there are any changes to your linked checking account (it is closed, modified to a new account type, or no longer linked to your Virtual Wallet Growth account), you may no longer be eligible for a relationship rate, or the rates may otherwise change to those in effect at the time of the change.",
+        "paragraph31": "For the Virtual Wallet with Performance Spend, the average monthly combined balance of $10,000 includes all consumer accounts at PNC. For the Virtual Wallet with Performance Select, the average monthly combined balance of $25,000 includes all linked PNC consumer and investment accounts. See Product Features and Fees for more details.",
+        "paragraph32": "A maximum of eight (8) linked PNC accounts, including spend and reserve accounts, can be considered in the combined average monthly balance relationship.",
+        "paragraph33": "Certain accounts may not be eligible to be included in the combined average monthly balance requirement based on ownership structure, product type, or other constraints. The customer must request a linked account to receive relationship-related benefits.",
+        "paragraph34": "It should only be used to send or receive money with people you know and trust. Before using money transfer, you must confirm the recipient's email address or U.S. mobile phone number. Neither PNC nor PNC provides purchase protection for payments made with Zelle, for example, if you do not receive the item you paid for, or if the item is not as described or expected. It is available to almost anyone with a bank account in the U.S. Transactions typically occur within minutes between registered users. If the recipient is not registered, the payment will expire after 14 calendar days.",
+        "paragraph35": "This offer is subject to product availability and may vary based on where you open your account and the zip code of your primary address. For online or phone establishment, the zip code of your primary address will be used to determine product availability. You may earn a $400 reward if you open and use a new Virtual Wallet with Performance Select, a $200 reward if you open and use a new Virtual Wallet with Performance Spend, or a $100 reward if you open and use a new Virtual Wallet. If you change your type of Virtual Wallet product after account opening, the product type you are in on the last business day of the month in which you opened your account will determine your eligibility offer, conditions, and the corresponding reward amount, if any.",
+        "paragraph36": "To be eligible for the reward, the new Virtual Wallet product must be opened online via the application links on this page from 09/04/2024 to 10/31/2024, and one or more eligible direct deposits must be received within the first 60 days. Your Virtual Wallet product must remain open in order for you to receive the reward, which will be credited to the eligible account 60 to 90 days after all conditions have been met and will be identified as a credit allowance on your monthly statement.",
+        "paragraph37": "An eligible direct deposit for this offer is defined as a recurring direct deposit of a salary, pension, Social Security, or other regular monthly income electronically deposited by an employer or external agency into the spend account of a Virtual Wallet with Performance Select, Virtual Wallet with Performance Spend, or Virtual Wallet. The total amount of all eligible Direct Deposits credited to your spend account must be at least $5,000 for the Virtual Wallet with Performance Select, $2,000 for the Virtual Wallet with Performance Spend, or $500 for the Virtual Wallet. Advance transfers by credit card, wire transfers, person-to-person transfers, transfers from one account to another, or deposits made at a PNC branch or ATM are not considered eligible direct deposits.",
+        "paragraph38": "The new account will not be offered if you or a signatory on the new account has a PNC Bank consumer checking account or if you closed an account in the past 12 months, or if you have received a promotional bonus from PNC in the last 24 months. If multiple accounts are opened with the same signatories, only one account will be eligible for the bonus. Trust accounts, estate accounts, and other specialized accounts are excluded from this offer. The offer may be extended, modified, or discontinued at any time and may vary by market. The value of the reward may be reported on the appropriate forms of the Internal Revenue Service (IRS) and may be considered taxable income for you. Please consult your tax advisor regarding your specific situation.",
+        "paragraph39": "Virtual Wallet is a registered trademark of The PNC Financial Services Group, Inc.",
+        "paragraph40": "Low Cash Mode is a registered trademark of The PNC Financial Services Group, Inc.",
+        "paragraph41": "The Zelle marks are used here under license.",
+        "paragraph42": "PNC has numerous patents/patent applications pending for various features and functions of Virtual Wallet.",
+        "paragraph43": "Bank deposit products and services are provided by PNC Bank, National Association. Member FDIC."
+      },
+    "checkingAccount": {
+      "paragraph1": "The hypo mode is only available on the spending account of your Virtual Wallet product.",
+      "paragraph2": "A supported mobile device is required to use mobile banking. Standard messaging and data rates may apply.",
+      "paragraph3": "The Virtual Wallet student account has no minimum balance requirement or monthly service fee for active students for six years from the account opening date. You may be asked to provide proof of active enrollment in an eligible educational institution. At the end of the six years, your account will be converted to a Virtual Wallet and will be subject to the current Virtual Wallet Features and Charges at that time. If you transfer this account to another type of product or account during the first six years, you will lose the benefits of the Virtual Wallet Student account and will not be able to return to the Virtual Wallet Student account.",
+      "paragraph4": "Virtual Wallet is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph5": "PNC Purchase Payback is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph6": "The cash mode is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph7": "Visa is a registered trademark of Visa International Service Association and used under license.",
+      "paragraph8": "Banking deposit products and services provided by PNC Bank, National Association. CIDEC member."
+    },
+    "savings": {
+      "paragraph1": "To be eligible for a relationship rate, you must have a linked checking account (for the performance checking relationship rate, you must have a linked performance checking or virtual wallet with performance spending; for the performance checking relationship rate, you must have a linked performance checking or virtual wallet with Performance Select) and meet one of the following requirements: ",
+      "paragraph2": " - Receive a combination of 5 PINs or more and/or signature point-of-sale transactions (excluding cash advances) recorded during the previous calendar month on your account using your Visa debit card or on your linked Visa credit card.",
+      "paragraph3": " - Have €2,000 in eligible direct deposits (€1,000 for WorkPlace or Military Banking customers) in a linked virtual wallet with performance spending or a performance checking account during the previous calendar month.",
+      "paragraph4": " - Have eligible direct deposits of €5,000 in a linked virtual wallet with Performance Select or Performance Select Checking during the previous calendar month. (An eligible direct deposit is a recurring electronic deposit made by an employer or outside agency. Transfers from one account to another or deposits made through a branch, ATM, online transfer, mobile device, or mail are not eligible to meet this requirement.) Starting the calendar month following the opening of your Premiere Money Market account, and monthly thereafter, whether the account earns the standard variable or relationship rate for the entire calendar month will be determined based on the number of eligible transactions or direct deposit requirements from the previous calendar month. If there are changes to your linked checking account (it is closed, changed to a new account type, or is no longer linked to your Premiere Money Market account), you may no longer be eligible for a relationship rate, or the rates may otherwise be changed to those in effect at the time of the change. We will only link accounts at your direction. If you have not instructed PNC to link another account to your Virtual Wallet, the accounts will not be linked, and you will not receive a relationship rate, waivers applicable to monthly service fees, or other relationship benefits on your unlinked PNC accounts. You are required to instruct us to link accounts in order to receive benefits applied to all your PNC accounts.",
+      "paragraph5": "To qualify for the standard relationship rate for savings, you must have a standard checking link, performance checking link, a virtual wallet with performance spending, a performance select checking link, or a virtual wallet with selected performance and meet one of the following requirements:",
+      "paragraph6": " - Receive a combination of 5 PINs and/or signature or more point-of-sale transactions (excluding cash advances) posted during the previous calendar month on your checking account using your Visa debit card or on your PNC Visa credit card that you chose to link to an eligible PNC checking account.",
+      "paragraph7": " - Have €500 in eligible direct deposits in a linked standard checking account during the previous calendar month.",
+      "paragraph8": " - Have €2,000 in eligible direct deposits (€1,000 for WorkPlace or Military Services customers) during the previous calendar month in a virtual wallet with performance spending or performance checking that you chose to link.",
+      "paragraph9": " - Have €5,000 in eligible direct deposits during the previous calendar month in a virtual wallet with Performance Select or Select Checking that you chose to link.",
+      "paragraph10": "(An eligible direct deposit is a recurring electronic deposit made by an employer or outside agency. Transfers from one account to another or deposits made through a branch, ATM, online transfer, mobile device, or mail are not eligible to meet this requirement.)",
+      "paragraph11": "When you open or transfer to a standard savings or Premiere Money Market account, and monthly thereafter, whether the account earns the standard rate or relationship rate is determined on the first of each month and will be based on the number of eligible transactions or direct deposit requirements compared to the previous calendar month.",
+      "paragraph12": "If there are changes to your linked checking account (it is closed, changed to a new account type, or is no longer linked to your standard savings or Premiere Money Market account), you may no longer be eligible for a relationship rate, or the rates may otherwise change to those in effect at the time of the change.",
+      "paragraph13": "We will only link accounts at your direction. If you have not instructed PNC to link another account to your standard savings or Premiere Money Market account, the accounts will not be linked, and you will not receive a relationship rate, exemptions from applicable monthly service fees, or other relationship benefits on your unlinked PNC accounts. You are required to instruct us to link accounts in order to receive benefits applied to all your PNC accounts.",
+      "paragraph14": "Transaction fees will apply to your account if you exceed six (6) restricted transfers during a monthly service period. Restricted transfers are transfers from a savings or money market account to other accounts (including transfers to another account for overdraft protection) or to third parties by check, draft, via point-of-sale purchase transactions or similar debit card transactions, by preauthorized or automatic agreements, by telephone, online or similar payment orders to a third party. If you make more than a total of six (6) restricted transfers during a monthly service period, you will be charged a fee for each restricted transfer. See your account agreement and fee schedule for more information. Other limits may apply to your account. We reserve the right to suspend the enforcement of these transaction limitations or modify them at our discretion.",
+      "paragraph15": "Investments are not insured by the FDIC, are not bank guaranteed, and may lose value.",
+      "paragraph16": "Sesame Street, \"Sesame Workshop\" and the characters, trademarks, and design associated are owned and licensed by Sesame Workshop. - Sesame Workshop. All rights reserved.",
+      "paragraph17": "\"S is for Savings\" is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph18": "Virtual Wallet is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph19": "Money Mode is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph20": "Banking deposit products and services provided by PNC Bank, National Association. Member FDIC."
+    },
+    "creditCards": {
+      "paragraph1": "To be eligible for bonus offers, you must not have opened the same credit card product and received a bonus related to the account opening in the past 24 months. For example, if you opened a PNC Cash Rewards credit card on January 15, 2023, and then received a bonus related to that account opening, you are not eligible for a bonus on any other PNC Cash Rewards card opened before January 15, 2025, subject to other terms and conditions.",
+      "paragraph2": "The term 'purchases' does not mean all transactions you make with your credit card. Certain limited transactions, such as cash advances (including purchasing cash equivalent products) and balance transfers, are excluded.",
+      "paragraph3": "We consider various factors, including, among others, your credit history, income, and any existing relationship with PNC, to determine if you meet the requirements to obtain at least the minimum credit line associated with the credit card product for which you are applying. If we deny your application, we will provide you with the reasons for the denial.",
+      "paragraph4": "Apply for a new PNC Cash Unlimited Visa Signature credit card through PNC.com. Offer available when applying through one of the links provided on this page. If you are approved, you will receive a $250 cash credit on your statement after making $1,000 in purchases within the first 3 months of account opening. The $250 cash credit will be applied to your account within 90 days following the purchase that met the minimum requirement of $1,000.",
+      "paragraph5": "Apply for a new PNC Cash Rewards Visa credit card through PNC.com. Offer available when applying through one of the links provided on this page. If you are approved, you will receive a $250 cash credit on your statement after making $1,000 in purchases within the first 3 months of account opening. The $250 cash credit will be applied to your account within 90 days following the purchase that met the minimum requirement of $1,000.",
+      "paragraph6": "Apply for a new PNC Points Visa credit card through PNC.com. Offer available when applying through one of the links provided on this page. If approved, 100,000 bonus points will be awarded after you make at least $1,000 in purchases within the first 3 months of account opening. The 100,000 bonus points will be awarded within 90 days following the purchase that met the minimum requirement of $1,000. PNC Bank, National Association ('we', 'us', 'our') reserves the right to modify or revoke this offer at any time, without compensation to you.",
+      "paragraph7": "You may lose any bonus (or reward) you earned under this offer if we determine, at our sole discretion, that you have engaged in or intend to engage in abusive, manipulative, or deceptive behavior in connection with this offer in any way. This may include, without limitation and without notice, any (1) disqualification from the offer; (2) cancellation of any bonus (or reward) granted under this offer; (3) closure or suspension of your account; or (4) legal action against you to recover any financial loss, including attorney fees and damages.",
+      "paragraph8": "PNC Bank, National Association ('we', 'us', 'our') reserves the right to modify or revoke this offer at any time, without compensation to you.",
+      "paragraph9": "Upon closure of your account by you or us, any points and/or cashback that you have earned but not redeemed are immediately and automatically forfeited.",
+      "paragraph10": "The annual cap of $8,000 resets each year on your account anniversary date, not at the beginning of each calendar year. Your anniversary date is the date when your account was enrolled in PNC's cash rewards program, and the same month/day each year thereafter. For example, if your account was enrolled in the program on June 17, 2023, your anniversary date in 2024 is June 2024.",
+      "paragraph11": "Certain grocery, gas, or food purchases may only qualify for 1% cashback. The cashback on a purchase is determined by the merchant category code assigned to a merchant. The merchant category code is based on the type of business the merchant is in and is assigned by the merchant's credit card processor. PNC Bank does not assign merchant category codes. For more details, please refer to the terms of the PNC cash rewards program.",
+      "paragraph12": "All points expire at the end of the month, 48 months after they have been added to your PNC points account. Upon closure of your account, whether by you or us, any earned but unredeemed points are immediately and automatically forfeited.",
+      "paragraph13": "Limitations apply. Immediately inform PNC Bank of any unauthorized use. For specific time restrictions, limitations, and other details regarding unauthorized use, please refer to your account agreement.",
+      "paragraph14": "When you pay your wireless bill with your eligible PNC Visa credit card, your mobile phone is protected for the following month if it is stolen or damaged. A maximum of two claims will be settled per 12-month period, with each claim subject to a $50 deductible. Additional terms and exclusions apply. If your credit card application is approved, you will receive a link to a Visa benefits guide that contains complete details about the program.",
+      "paragraph15": "PNC Cash Unlimited, PNC Cash Rewards, PNC Core, and PNC are registered trademarks of The PNC Financial Services Group, Inc.",
+      "paragraph16": "Virtual Wallet is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph17": "Visa and Visa Signature are registered trademarks of Visa International Service Association and used under license.",
+      "paragraph18": "PNC Bank, National Association is the issuer of the PNC Bank credit cards described here.",
+      "paragraph19": "Bank deposit products and services provided by PNC Bank, National Association. FDIC member.",
+      "paragraph20": "In accordance with the 2009 Credit Card Accountability, Responsibility, and Disclosure Act, the credit card agreements below have been submitted to the Federal Reserve Board. These agreements were in effect as of July 31, 2024. If you apply for a credit card now, the terms of the account you apply for may differ from those of the agreements filed below."
+    },
+    "studentBanking": {
+      "paragraph1": "The Virtual Wallet Student does not have a minimum balance requirement or monthly service fee for active students for six years from the account opening date. You may be required to provide proof of active enrollment at an eligible educational institution. After six years, your account will convert to a Virtual Wallet and will be subject to the Virtual Wallet Features and Fees in effect at that time. If you transfer this account to another type of product or account during the first six years, you will lose the benefits of the Virtual Wallet Student account and will not be able to return to the Virtual Wallet Student account.",
+      "paragraph2": "PNC does not charge fees for mobile banking services, including PNC alerts. However, third-party messaging and data rates may apply. Check with your wireless provider for more details.",
+      "paragraph3": "The spending mode is only available on the spending account of your Virtual Wallet product.",
+      "paragraph4": "It should only be used to send or receive money with people you know and trust. Before using the money transfer feature, you must confirm the recipient's email address or U.S. mobile phone number. Neither PNC nor PNC offers purchase protection for payments made with Zelle; for example, if you do not receive the item you paid for, or if the item is not as described or as you expected. It is available to nearly anyone with a bank account in the U.S. Transactions usually occur within minutes between registered users. If the recipient is not registered, the payment will expire after 14 calendar days. For more terms of use, see PNC Zelle's Terms of Use for additional conditions. The use of Zelle is subject to compliance with the terms and conditions of PNC.",
+      "paragraph5": "PNC Solutions loans and PNC education financing loans are subject to credit approval. Certain restrictions and conditions apply. You are encouraged to explore all scholarship, grant, and federal loan options before applying for a private loan. Federal loans have benefits that may not be available with a private loan.",
+      "paragraph6": "Zelle is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph7": "The trademarks of Avertissement, LLC, are used here under license.",
+      "paragraph8": "Virtual Wallet Student is a registered trademark of The PNC Financial Services Group, Inc.",
+      "paragraph9": "Visa is a registered trademark of Visa International Service Association and is used under license.",
+      "paragraph10": "PNC provides equal opportunities to qualified individuals regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or any other category protected by law.",
+      "paragraph11": "Bank deposit products and services are provided by PNC Bank, National Association. CIDEC member."
+    },
+    "homeEquity": {
+      "paragraph1": "Credit is subject to approval. Some restrictions and conditions apply.",
+      "paragraph2": "This account allows the possibility of establishing one or more fixed-rate locks during the draw period for a term of 5 to 30 years (except in the state of Tennessee where terms range from 5 to 20 years). There is a fee each time you choose to use this option. The introductory APR does not apply to balances transferred to a fixed-rate portion.",
+      "paragraph3": "Interest on loans/home equity lines that are not considered acquisition debt for homes is not tax-deductible. Please consult your tax advisor.",
+      "paragraph4": "To receive a 0.25% interest rate discount on the applicable variable APR after the introductory period ends, you must set up automatic payments from an eligible PNC checking account at closing. The automatic payment discount will be interrupted if you cancel automatic payments. PNC may occasionally offer a promotional APR. The automatic payment discount does not apply to the introductory APR.",
+      "paragraph5": "Carrier fees may apply.",
+      "paragraph6": "The annual fee is €50.",
+      "paragraph7": "Title insurance may be required for lines of €500,000 or more and for lines of lesser amounts based on a number of factors, including how the property was acquired. If title insurance is required, fees may range up to €605 and €16,270.",
+      "paragraph8": "There is a fee each time you set a fixed-rate portion; however, this fee will be waived if you create a fixed-rate portion at the time of opening the credit line.",
+      "paragraph9": "In addition to any required property insurance, you are required to maintain homeowners insurance on the properties securing your account. Flood insurance may be required. Your payments on this account do not include taxes or insurance. PNC Bank will pay certain closing costs, including, if applicable, certain state transfer taxes and fees on your behalf. If you pay off and close your line of credit within the first 36 months, you will be required to reimburse us for these closing costs. There are no refundable fees for Texas accounts.",
+      "paragraph10": "This account includes an option to establish a fixed-rate portion for terms ranging from 5 to 30 years (except in the state of Tennessee where terms range from 5 to 20 years). Payments include principal and interest amounts based on an amortization schedule designed to fully repay the fixed-rate portion by the end of the chosen term.",
+      "paragraph11": "The APRs for applicable fixed-rate portions will vary and are based on the value of the current fixed-rate option index at the time a fixed-rate portion is established; and a margin value based on your credit qualifications, the repayment term of the fixed-rate portion, the amount transferred, the type of property, loan-to-value, lien position, and whether you choose the automatic payment feature on a PNC checking account established at the time of application. Once a fixed-rate portion is established, the APR for that portion will not change. The minimum amount to establish a fixed-rate portion is €5,000. Principal repayments during the draw period replenish the available credit line and are available for future draws.",
+      "paragraph12": "Your rate may also be higher or lower as rates are subject to change at any time based on market conditions or other business factors, including changes in benchmark interest rates. Call 1-833-353-0111 for the most current rates available in your market.",
+      "paragraph13": "Fixed portion rates and payments displayed are for new customers only.",
+      "paragraph14": "Suspension of credit privileges and reduction of the maximum credit limit. Certain conditions, such as a significant negative change in your financial situation or a significant decline in the market value of your home, may result in a temporary suspension of your ability to draw on your HELOC or a reduction in your maximum credit limit. Refer to the disclosure titled 'Important Conditions of Our Choice Home Equity Lines of Credit' for a complete description of the conditions under which PNC may prohibit further advances or reduce the credit limit.",
+      "paragraph15": "Bank deposit products and services provided by PNC Bank, National Association. Member CIDEC.",
+      "paragraph16": "The benefits of a HELOC Choice for debt consolidation depend on your particular situation. Because a HELOC Choice may have a longer term than the debt you are consolidating, you may not realize savings over the life of your new HELOC Choice.",
+      "paragraph17": "If you are currently entitled to benefits provided by the Service Members Civil Relief Act (SCRA), refinancing current debt may not be beneficial.",
+      "paragraph18": "Origination fees: Customers with collateral located in California, North Carolina, and New York will incur an origination fee payable with the first monthly billing statement after account opening. The origination fee will be calculated based on the approved credit limit as follows: for approved credit lines up to €149,999.99, the origination fee will be €199; for approved credit lines from €150,000 to €499,999.99, the origination fee will be €299; for approved credit lines from €500,000 to €749,999.99, the origination fee will be €499.",
+      "paragraph19": "Texas Choice home equity lines of credit can only be secured by a designated primary residence and may not exceed 80% of combined loans to the value of those properties. Non-applicable fees for accounts secured by Texas properties include: the annual fee and reimbursement of any closing costs paid on behalf of the borrower by PNC Bank if the customer closes the credit line within 36 months of account opening. The minimum draw in Texas is €4,000. Home equity lines of credit obtained through Texas are not eligible for a Choice VISA access card and will receive access checks upon request. PNC cannot use a customer's home equity funds to pay (in whole or in part) PNC's non-home debt at account opening.",
+      "paragraph20": "- 2017-2024 and TM, NerdWallet, Inc. All rights reserved.",
+      "paragraph21": "NerdWallet and the NerdWallet logo are trademarks owned by NerdWallet, Inc. and used with permission.",
+      "paragraph22": "PNC is a registered service mark of The PNC Financial Services Group, Inc. ('PNC'). All loans are made by PNC Bank, National Association, a subsidiary of PNC, and are subject to credit approval and property evaluation."
+    },
+    "autoLoans": {
+      "paragraph1": "Credit is subject to approval. Some restrictions and conditions apply.",
+      "paragraph2": "Checks can only be used at authorized dealerships selling new vehicles from manufacturers such as Ford, Kia, or BMW, or at eligible dealers. Checks can be used to purchase new or used vehicles at these dealerships. Before visiting a dealer, confirm that it is an eligible distributor.",
+      "paragraph3": "Refinancing: Longer-term refinancing may reduce your car payment, but it may also increase the total amount of interest paid over the life of the loan. Shorter-term refinancing may increase your car payment but can decrease the total interest paid over the loan duration. For example, if you have a 60-month loan that matures in 55 months and you refinance for another 60 months at a lower rate, your payments will be lower, but you will pay interest for an additional 5 months. Contact us to discuss the option that best meets your needs.",
+      "paragraph4": "The terms of the website, privacy, and security policies of PNC Bank do not apply to the site you are about to visit. Please review the terms, privacy, and security policies of TrueCar to see how they apply to you. PNC Total Auto is provided by TrueCar.",
+      "paragraph5": "Bank deposit products and services are provided by PNC Bank, National Association. Member FDIC.",
+      "paragraph6": "PNC and PNC Total Auto are registered trademarks of The PNC Financial Services Group, Inc."
+    }
+  },
+    "sectionFinancial": {
+      "title": "Financial Well-Being",
+      "text": "We can help you gain a clear understanding of your current situation and plan for the future you desire."
+    },
+  "banking": {
+    "home": {
+      "heroBanner": {
+        "title": "Change the Way You Bank",
+        "text": "Take the next step with PNC Virtual Wallet – checking, saving, and financial tools designed to support you wherever you go.",
+        "learnMore": "Learn More"
+      }
+    },
+    "virtualWallet": {
+      "heroBanner": {
+        "title": "Virtual Wallet",
+        "text": "PNC's Virtual Wallet combines checking and saving tools to help you manage your financial life."
+      },
+      "offers": {
+        "title": "Choose Your Virtual Wallet",
+        "text": "The virtual wallet includes a Spend checking account, a Reserve checking account, and a Growth savings account with no fees to help you manage your money. Choose the one that suits you best:",
+        "feature1": {
+          "title": "Virtual Wallet",
+          "text": "When you establish eligible direct deposits totaling $500 or more into the checking account, includes:",
+          "earn": "Earn $100",
+          "items": {
+            "text1": "Spend - primary checking account",
+            "text2": "Reserve - secondary checking account",
+            "text3": "for short-term planning",
+            "text4": "Growth - long-term savings account",
+            "text5": "$7 monthly service fee, or $0 with $500 in direct deposits to your Spend account or a combined balance between checking accounts",
+            "text6": "Interest rates on your Growth account",
+            "text7": "Relationship interest rates on your Growth account"
+          }
+        },
+        "feature2": {
+          "title": "Virtual Wallet with Performance Spending",
+          "text": "When you establish eligible direct deposits totaling $2,000 or more into the Spend account, includes:",
+          "earn": "Earn $200",
+          "items": {
+            "text1": "Spend - primary checking account",
+            "text2": "Reserve - secondary checking account for short-term planning",
+            "text3": "Growth - long-term savings account",
+            "text4": "$15 monthly service fee, or $0 with $2,000 in direct deposits to your Spend or a combined balance between checking accounts",
+            "text5": "Reimbursements available for certain non-PNC ATM fees",
+            "text6": "Higher relationship interest rates on your Growth account"
+          }
+        },
+        "feature3": {
+          "title": "Virtual Wallet with Performance Select",
+          "text": "When you establish eligible direct deposits totaling $5,000 or more into the Spend account, includes:",
+          "earn": "Earn $400",
+          "items": {
+            "text1": "Spend - primary checking account",
+            "text2": "Reserve - secondary checking account for short-term planning",
+            "text3": "Growth - long-term savings account",
+            "text4": "$25 monthly service fee, or $0 with $5,000 in direct deposits to your Spend or a combined balance between checking accounts",
+            "text5": "No PNC fees for using other banks' ATMs and increased reimbursements available for other banks' fees",
+            "text6": "Highest interest rates on your Growth account",
+            "text7": "No fees for domestic wires"
+          }
+        }
+      },
+      "infos": {
+        "title": "With the Virtual Wallet, you get",
+        "text": "Three accounts linked to digital tools to help you manage your money",
+        "alt": "Image",
+        "feature1": {
+          "title": "Three accounts help you spend, plan, and save.",
+          "text": "It's easy to transfer money from one account to another so you can stay organized and on track to meet your goals.",
+          "items": {
+            "text1": "Spend is your primary checking account – you’ll also receive a debit card with contactless technology for easy payments.",
+            "text2": "Reserve is your secondary checking account – for all your short-term budgeting needs.",
+            "text3": "Growth is your long-term savings account to help you reach your goals."
+          }
+        },
+        "feature2": {
+          "title": "Virtual Wallet's digital tools bring it all together.",
+          "text": "",
+          "alt": "Image",
+          "items": {
+            "text1": "Zelle® helps you easily send and receive money with people you know and trust.",
+            "text2": "Low cash mode gives you more control when your balance is low and more time to get your balance out of the negative.",
+            "text3": "Spending categories let you review and stay on top of how you spend and budget better for the future.",
+            "text4": "The calendar allows you to schedule and track upcoming bills and paydays so you can plan ahead.",
+            "text5": "Goals and savings rules help you track and progress towards long-term planning."
+          }
+        }
+      }
+    },
+    "sectionCollapse": {
+      "virtualWallet": {
+        "collapse1": {
+          "title1": "PNC Virtual Wallet.",
+          "text1": "Including low cash rate mode",
+          "title2": "Earn up to $400",
+          "text2": "when you open and use a new Virtual Wallet product",
+          "tab1": {
+            "text1": "In today’s world, you need more than just a checking account. Virtual Wallet starts with Spend, which is a checking account, and digital tools to help you manage your money and stay on track. To best meet your needs, we offer three spending tiers.",
+            "text2": "Whether you choose a Virtual Wallet with Spend only or add Reserve and Growth for planning, saving, and protection, Virtual Wallet works as a powerful solution for today’s banking needs."
+          }
+        },
+        "collapse2": {
+          "title1": "Virtual Wallet® for Students",
+          "text1": "A checking and savings account designed for students to help you manage your financial life.",
+          "tab1": {
+            "text1": "  - No monthly service fees for 6 years",
+            "text2": "  - Combination of checking and savings",
+            "text3": "  - Alerts and overdraft protection, including low cash mode in the PNC mobile app"
+          }
+        },
+        "collapse3": {
+          "title1": "Discover the enhancement of your budgeting and financial needs.",
+          "tab1": {
+            "text1": "  - No overdraft fees",
+            "text2": "  - Free cashier’s checks",
+            "text3": "  - Digital tools to track your account activity"
+          }
+        }
+      },
+      "savings": {
+        "collapse1": {
+          "title1": "Virtual Wallet®",
+          "text1": "Checking and savings. Together.",
+          "tab1": {
+            "text1": "Including low cash rate",
+            "text2": "In today’s world, you need more than just a checking account. Virtual Wallet starts with checking (we call it Spend) and digital tools to help you manage your money and stay on track. To best meet your needs, we offer three spending tiers.",
+            "text3": "Whether you choose a Virtual Wallet with Spend only or add Reserve and Growth for planning, saving, and protection, Virtual Wallet works as a powerful solution for today’s banking needs."
+          }
+        },
+        "collapse2": {
+          "title1": "Premium Money Market",
+          "text1": "An account that rewards your banking relationship with higher interest rates.",
+          "tab1": {
+            "text1": "  - Higher relationship rates when certain qualifications are met",
+            "text2": "  - Unlimited deposits and transfers into the account",
+            "text3": "  - FDIC insured up to the maximum allowed by law"
+          }
+        },
+        "collapse3": {
+          "title1": "Standard Savings",
+          "text1": "An easy way to start saving and help you reach your short- and long-term goals.",
+          "tab1": {
+            "text1": "  - Minimum deposit to open: $0",
+            "text2": "  - Earn a higher relationship rate when certain qualifications are met",
+            "text3": "  - Unlimited deposits and transfers into the account",
+            "text4": "  - Auto Savings tool that allows you to set up a recurring savings routine",
+            "text5": "  - Overdraft protection - link your standard savings account to your PNC checking account",
+            "text6": "  - FDIC insured up to the maximum allowed by law"
+          }
+        },
+        "collapse4": {
+          "title1": "Certificate of Deposit",
+          "text1": "Earn a fixed interest rate.",
+          "tab1": {
+            "text1": "Fixed return rate",
+            "text2": "Variety of terms available from 7 days to 10 years with automatic renewal",
+            "text3": "FDIC insured up to the maximum allowed by law",
+            "text4": "Enhance retirement savings with a tax-deferred CD IRA"
+          }
+        },
+        "collapse5": {
+          "title1": "S is for Savings",
+          "text1": "A fun and friendly way to help teach your child to save, share, and spend.",
+          "tab1": {
+            "text1": "Interactive online banking experience that introduces basic money concepts with Sesame Workshop’s tips on learning financial basics",
+            "text2": "No service fees for account holders under 18",
+            "text3": "Interest on balances starting at $1",
+            "text4": "With goal setting, set specific savings goals with your child that they can reach over time"
+          }
+        }
+      },
+      "creditCards": {
+        "collapse1": {
+          "title1": "PNC Cash Unlimited and Visa Signature Credit Card",
+          "text1": "Earn unlimited 2% cashback on every purchase",
+          "title2": "Earn $250",
+          "text2": "$0 annual fee",
+          "tab1": {
+            "text1": "Must be eligible for a minimum credit line of $5,000.",
+            "text2": "Bonus offer: Earn a $250 bonus after making purchases of $1,000 or more within the first 3 months of account opening.",
+            "text3": "Card benefits:",
+            "text4": "   - No limits on what you can earn",
+            "text5": "   - No expiration dates on cashback to worry about",
+            "text6": "   - No foreign transaction fees",
+            "text7": "Introductory offers: Save more with an introductory APR of 0% on balance transfers.",
+            "text8": "  - 0% APR on eligible balance transfers for the first 15 months from account opening when the balance is transferred within the first 90 days.",
+            "text9": "  - After that, a variable APR on balance transfers, currently 19.74% to 29.74%, based on creditworthiness. This APR will vary with the market based on the prime rate."
+          }
+        },
+        "collapse2": {
+          "title1": "PNC Cash Rewards and Visa Credit Card",
+          "text1": "Maximize your cashback",
+          "title2": "$0 annual fee",
+          "text2": "Earn $250",
+          "tab1": {
+            "text1": "Must be eligible for a minimum credit line of $500.",
+            "text2": "Bonus offer: Earn a $250 bonus after making purchases of $1,000 or more within the first 3 months of account opening.",
+            "text3": "Card benefits:",
+            "text4": "  - 4% cashback on gas station purchases",
+            "text5": "  - 3% cashback on restaurant purchases",
+            "text6": "  - 2% cashback on grocery purchases",
+            "text7": "On the first $8,000 in combined purchases in the above categories per year.",
+            "text8": "Earn 1% cashback on all other purchases"
+          }
+        },
+        "collapse3": {
+          "title1": "PNC Core, Visa Credit Card",
+          "text1": "Save with low rates",
+          "title2": "$0 annual fee",
+          "tab1": {
+            "text1": "Must be eligible for a minimum credit line of $500.",
+            "text2": "Introductory offers: Save more with our 0% introductory rate on purchases and balance transfers.",
+            "text3": "  - 0% intro APR on purchases for the first 18 months from account opening.",
+            "text4": "  - 0% intro APR on balance transfers for the first 18 months from account opening when the balance is transferred within the first 90 days.",
+            "text5": "  - Then a variable APR on purchases and balance transfers, currently 18.74% to 29.74%, based on creditworthiness. This APR will vary with the market based on the prime rate."
+          }
+        },
+        "collapse4": {
+          "title1": "PNC Points - Visa Credit Card",
+          "text1": "Earn points for exciting rewards",
+          "title2": "$0 annual fee",
+          "text2": "Earn 100,000 points",
+          "tab1": {
+            "text1": "Must be eligible for a minimum credit line of $500.",
+            "text2": "Bonus offer: Earn 100,000 bonus points after making $1,000 in purchases within the first 3 months of account opening.",
+            "text3": "Card benefits: Earn 4 to 7 points for every dollar spent and redeem for rewards including Apple products, merchandise, travel, gift cards, or cashback.",
+            "text4": "  - Earn more points on top of the base points you earn in a billing cycle when you meet additional requirements with an eligible PNC checking account.",
+            "text5": "  - There is no limit to the number of points you can earn."
+          }
+        },
+        "collapse5": {
+          "title1": "PNC Visa Secured Credit Card",
+          "text1": "Establish and strengthen your credit",
+          "tab1": {
+            "text1": "Card benefits:",
+            "text2": "  - Open your account with a refundable security deposit ($300 to $2,500). If approved, the security deposit will be used to establish your new credit limit.",
+            "text3": "  - Establish, strengthen, or build your credit – use this card responsibly and over time, it can improve your overall credit score.",
+            "text4": "  - The PNC secured Visa credit card can only be opened in person at a PNC Bank branch. Apply by visiting a branch nearest you."
+          }
+        }
+      },
+      "studentBanking": {
+        "collapse1": {
+          "title1": "No monthly service fees for up to 6 years, plus:",
+          "tab1": {
+            "text1": "  - Track your spending, set aside money for planned expenses, and grow your savings in a digital banking experience",
+            "text2": "  - Overdraft protection and alerts",
+            "text3": "  - Low cash mode in the PNC mobile app gives you more control when your balance is low"
+          }
+        },
+        "collapse2": {
+          "title1": "I have an advantage with PNC's My Finance Academy",
+          "text1": "Learning from others and their real-world experiences can help prepare you for a healthier financial future. Explore our collection of:",
+          "tab1": {
+            "text1": "  - Financial webinars",
+            "text2": "  - Educational articles",
+            "text3": "  - Calculators to help with budgeting, planning, and saving money -"
+          }
+        }
+      }
+    },
+    "checkingAccount": {
+      "heroBanner": {
+        "title": "Open an Online Checking Account",
+        "text": "Virtual Wallet combines innovative digital tools with your checking account."
+      },
+      "advantage": {
+        "title": "Benefits and Features",
+        "feature1": {
+          "title": "Branch and ATM Access",
+          "text": "Enjoy over 2,200 locations and approximately 60,000 PNC and partner ATMs."
+        },
+        "feature2": {
+          "title": "Low Cash Mode with Virtual Wallet",
+          "text": "Manage your spending account when your balance is low. With Low Cash Mode, use smart alerts, extra time, and payment control to help avoid overdraft fees."
+        },
+        "feature3": {
+          "title": "PNC Debit Cards",
+          "text": "Use your PNC Bank Visa Debit card for convenience by loading it onto your preferred mobile wallet, stay informed by setting alerts to track purchases, and earn rewards with PNC Purchase Payback."
+        }
+      },
+      "FAQ": {
+        "title": "FAQ",
+        "text": "",
+        "FAQ1": {
+          "q": "How can I set up direct deposit?",
+          "r": "Direct deposit allows you to automatically deposit your paycheck, dividend payments, pension, or Social Security into your checking account."
+        },
+        "FAQ2": {
+          "q": "What is a checking account?",
+          "r": "A checking account is a bank account designed to allow you to deposit, withdraw, or transfer funds on a daily basis. You can use it to pay for goods and services in person and online—you'll typically have a debit card and the option to order checks."
+        },
+        "FAQ3": {
+          "q": "Why is it important to have a checking account?",
+          "r": "It provides easy access to your funds, allows you to receive direct deposits, and lets you use digital tools for money management. Your deposited money is also insured by the FDIC up to the maximum amount allowed by the United States, giving you security and peace of mind."
+        },
+        "FAQ4": {
+          "q": "Can I open a checking account online?",
+          "r": "Yes, in many cases. We require customers under 16 to visit a branch with a parent or legal guardian to apply for a new account. You may also need to visit a branch if you do not have a Social Security number."
+        },
+        "FAQ5": {
+          "q": "What age do I need to be to open a checking account?",
+          "r": "Typically, you must be at least 18 years old to open a checking account. However, we allow young people to open an account with the help of a parent or legal guardian."
+        },
+        "FAQ6": {
+          "q": "What does 'minimum balance' mean for a checking account?",
+          "r": "The minimum balance is the lowest amount that the account holder must maintain in the account to receive certain benefits. These benefits may include waiving monthly maintenance fees or even the ability to earn interest on deposited funds."
+        },
+        "FAQ7": {
+          "q": "What do I need to open a checking account?",
+          "r": "You can open a PNC checking account online or in person. You will need: A government-issued photo ID, such as a driver's license, state ID, military ID, or passport. Personal information, including Social Security number, date of birth, and current home address. You may need additional information or documentation depending on the type of account."
+        },
+        "FAQ8": {
+          "q": "What do I need to open a joint bank account?",
+          "r": "If you wish to open an account for more than one person to use, ensure that all applicants are present. You will need information for each owner, including names, Social Security numbers, dates of birth, phone numbers, and mailing addresses—you may also need a photo ID for each applicant."
+        }
+      }
+    },
+    "savings": {
+      "heroBanner": {
+        "title": "PNC Savings",
+        "text": "We have savings solutions to help you achieve your goals."
+      },
+      "FAQ": {
+        "title": "FAQ",
+        "text": "",
+        "FAQ1": {
+          "q": "How can I choose the best savings account for me?",
+          "r": "Start by identifying the purpose of the account. Ask yourself, are you saving for an emergency fund, a big purchase, or long-term goals like retirement or education? Knowing your goals will help you determine the right type of account. For example, if you need regular access to funds, a traditional or high-yield savings account offers flexible withdrawals. However, if you don’t plan to access the funds for a while, a certificate of deposit can provide higher interest rates in exchange for leaving the funds untouched for a specified period. Next, compare interest rates across accounts. Higher rates help grow account balances faster, making accounts with higher rates an attractive option for many savers. Also, be aware of fees, minimum balance requirements, or transaction limits that could diminish benefits or limit access to funds. Finally, consider convenience features, such as automatic savings plans and online and mobile banking capabilities."
+        },
+        "FAQ2": {
+          "q": "What do I need to open a savings account?",
+          "r": "You can open a PNC savings account online or in person. You will need: A government-issued photo ID such as a driver’s license, non-driver state ID, military ID, or passport. Personal information including Social Security number, date of birth, and current home address. You may need additional information or documentation depending on the type of account."
+        },
+        "FAQ3": {
+          "q": "Can I open a savings account online?",
+          "r": "Yes, you can open any of our traditional savings accounts online. We require customers under 18 years old to visit a branch with a parent to request a new account. Once the account is open, you may be able to manage it entirely online so you can start saving right away from the comfort of your home. However, you may want to consider where our branches are located in case you prefer to handle a transaction or ask a question in person."
+        },
+        "FAQ4": {
+          "q": "Do savings accounts earn interest?",
+          "r": "Yes, savings accounts earn interest, allowing your account balance to grow over time. Rates can vary based on several factors, including account type, current balance, and market conditions. Note that some savings accounts may require a minimum balance to earn the advertised interest rate. Accounts may also structure rates in tiers based on account balance."
+        },
+        "FAQ5": {
+          "q": "What is APY?",
+          "r": "The annual percentage yield (APY) indicates the actual interest rate an account earns over a year, considering the effects of compounding. Unlike a simple interest rate, which only calculates interest on the principal amount, the APY provides a more complete picture by including both the interest rate and whether interest is compounded daily, monthly, or annually. If two accounts have the same interest rate but different compounding frequencies, the account that compounds more frequently has a higher APY and offers greater account growth over a given period."
+        },
+        "FAQ6": {
+          "q": "Can I have more than one savings account?",
+          "r": "Yes. Many people use multiple savings accounts to organize their money for different goals or expenses. We offer several account options, each with unique features to meet different needs. For example, you might have one account for an emergency fund, another for vacation savings, and a separate account for long-term goals like a down payment on a home."
+        },
+        "FAQ7": {
+          "q": "What does the 'minimum balance' requirement mean for a savings account?",
+          "r": "The minimum balance on a savings account is the lowest amount that the account holder must maintain in the account to receive certain benefits. These benefits may include waiving monthly maintenance fees or even the ability to earn interest on deposited funds."
+        }
+      }
+    },
+    "creditCards": {
+      "heroBanner": {
+        "title": "PNC Personal Credit Cards",
+        "text": "Discover more possibilities with a PNC credit card"
+      },
+      "secure": {
+        "title": "You get our highest level of protection. Always.",
+        "feature1": {
+          "title": "Zero Liability Fraud Protection",
+          "text": "If your card number is ever lost or stolen, you won’t be held responsible for unauthorized use of your card."
+        },
+        "feature2": {
+          "title": "Cell Phone Protection Available",
+          "text": "When you use your eligible PNC Visa credit card to pay your monthly wireless bill, you could be reimbursed up to $800 if your cell phone is stolen or damaged. Limitations apply."
+        },
+        "feature3": {
+          "title": "Go Contactless and Check Out with Confidence",
+          "text": "Pay quickly and conveniently for everyday purchases with PNC Visa contactless credit cards. Get the same level of security when you tap as when you insert your chip."
+        }
+      },
+      "EnvTitle": "Credit Card Agreements"
+    },
+    "studentBanking": {
+      "heroBanner": {
+        "title": "Student Banking Center",
+        "text": "The support you can count on today so you can focus on tomorrow's dreams."
+      },
+      "advantage": {
+        "title": "Student-Friendly Products",
+        "text": "Funding your education can be complicated both before and after graduation. Whether it's private student loans or refinancing, PNC has multiple options to meet your needs.",
+        "feature1": {
+          "title": "Undergraduate Student Loans",
+          "text": "A PNC private student loan can help cover college expenses and includes customizable repayment options."
+        },
+        "feature2": {
+          "title": "Graduate Student Loans",
+          "text": "For graduate students in health, medicine, and law fields, PNC has loans to help you pursue and advance your education."
+        },
+        "feature3": {
+          "title": "Refinance Student Loans",
+          "text": "Whether you’re looking to adjust your rate, payment, or term, refinancing your student loans with PNC can help you achieve your goals."
+        }
+      }
+    }
+  },
+  "borrowing": {
+    "sectionCollapse": {
+      "homeEquity": {
+        "collapse1": {
+          "title1": "Benefits",
+          "text1": "Why choose PNC HELOC.",
+          "title2": "Low rates, no hidden fees",
+          "text2": "You pay fees each time you lock or unlock your interest rate. No surprises.",
+          "tab1": {
+            "text1": "Fix your roof or consolidate your bills. At rates that may be lower than other loan/credit options, with the ability to switch from a variable rate to a fixed rate."
+          }
+        },
+        "collapse2": {
+          "title1": "Switching between fixed and variable rates",
+          "text1": "You can track the market and wait for the lowest interest rate. After drawing your funds, you can transfer to a fixed-rate portion to lock in the fixed rate. You can also switch from a fixed rate to a variable rate."
+        },
+        "collapse3": {
+          "title1": "Potential tax benefits for home renovations",
+          "text1": "Home renovations made in a residence for medical purposes (e.g., a wheelchair ramp) or to install energy-efficient equipment (e.g., solar panels) may be considered a deductible expense. Consult your tax advisor."
+        },
+        "collapse4": {
+          "title1": "Get a rate reduction",
+          "text1": "Receive a 0.25% discount when you open and maintain automated payments from an eligible PNC checking account."
+        }
+      },
+      "constructionLoans": {
+        "collapse1": {
+          "title1": "Construction and Renovation to Permanent Financing - Lot Loans",
+          "tab1": {
+            "text1": "Building or renovating a home is an exciting time for homeowners. Whether you're a first-time builder or an experienced pro, everyone needs a little guidance along the way.",
+            "text2": "PNC's primary responsibility is to provide financing while adhering to all applicable regulatory guidelines. We do this by providing exceptional service, acting as a source of information, monitoring project progress, and disbursing funds in a timely manner."
+          }
+        },
+        "collapse2": {
+          "title1": "How can I get started?",
+          "text1": "If you're ready to start building, renovating, or purchasing land to build on, fill out the form below to be contacted by a certified mortgage loan officer (MLO)."
+        }
+      },
+      "autoLoans": {
+        "title": "Refinance Your Car",
+        "collapse1": {
+          "title1": "Start saving by refinancing your auto loan.",
+          "text1": "PNC's auto refinancing can help improve your existing auto loan with competitive APR and flexible terms. Plus, get a quick loan decision."
+        },
+        "collapse2": {
+          "title1": "Find and finance your vehicle in one place.",
+          "text1": "With PNC Total Auto, powered by TrueCar, you can find a vehicle with advanced search, see what people in your area paid for the same car, and review financing options all in one place."
+        }
+      },
+      "personalLoans": {
+        "title": "Credit Card Consolidation Loans",
+        "collapse1": {
+          "text1": "You could pay off high-interest debt—pay less, with manageable monthly payments. Combine all your debt into one monthly payment with a loan that has a lower interest rate. No collateral required."
+        }
+      }
+    },
+    "homeEquity": {
+      "heroBanner": {
+        "title": "Home Equity Lines of Credit", 
+        "text": "Use a line of credit to renovate your home, refinance your mortgage, or consolidate debt."
+      },
+      "infos": {
+        "title": "I want to learn more", 
+        "feature1": {
+          "title": "Understanding Home Equity", 
+          "text": "Learn your options for accessing funds from your home, weigh the pros and cons, and explore what you can do with your home equity." 
+        },
+        "feature2": {
+          "title": "Fixed Rate Lock", 
+          "text": "A fixed rate lock allows you to secure a specific rate and provides a consistent monthly payment for all or part of your credit balance." 
+        },
+        "feature3": {
+          "title": "Other Loan Products", 
+          "text": "Learn your options for accessing funds from your home, evaluate the pros, and PNC has been lending for over 100 years. We can help you find the right product." 
+        }
+      },
+      "tips": {
+        "title": "Home Equity Loan Tools and Calculators", 
+        "text": "Use our quick and easy calculators to find out how much you can borrow, compare your loan options, or get a renovation estimate.",
+        "feature1": {
+          "title": "What will my renovation cost?", 
+          "text": "Our 'Home Improvement Calculator' can create a personalized cost estimate for your project plan. Once you know how much you need, explore borrowing options to find your best financing choice." 
+        },
+        "feature2": {
+          "title": "Not sure what to choose?", 
+          "text": "Visit our lending platform for resources, articles, and links to help you make the best decision for your borrowing needs." 
+        }
+      }
+    },
+    "constructionLoans": {
+      "heroBanner": {
+        "title": "Build Your Dream Home",
+        "text": "Whether building or renovating, learn how PNC's construction loan options might work for you."
+      },
+      "FAQ": {
+        "title": "Documentation Required During Each Draw Phase", 
+        "FAQ1": {
+          "q": "What type of loan should I take during the construction phase?", 
+          "r": "Interest-only monthly payments, calculated on the disbursed loan funds. If you are in a flood zone, flood insurance will be charged during the construction phase." 
+        }, 
+        "FAQ2": {
+          "q": "What should I expect to pay at my conversion date?", 
+          "r": "Some of the most common expenses you should expect to pay include: Interest from the final construction phase, Escrows for taxes and insurance, Prepaid interest on the permanent phase, Additional inspection fees, if applicable." 
+        },
+        "FAQ3": {
+          "q": "Can my builder assert that a draw request should be funded or released without my approval?", 
+          "r": "No. The owner(s) and builder must both approve each draw request." 
+        }, 
+        "FAQ4": {
+          "q": "When are escrows collected?", 
+          "r": "Escrows for taxes and insurance are collected at your conversion date. Borrowers are responsible for all escrow payments that become due during the construction phase." 
+        },
+        "FAQ5": {
+          "q": "What happens if I need more time to complete my project?", 
+          "r": "If improvements are incomplete and/or you are unable to meet requirements by the deadline, additional fees and/or interest rate increases may apply. The lender will determine if an extension is appropriate. This provision is subject to qualification and applicable fees. Some restrictions apply." 
+        }, 
+        "FAQ6": {
+          "q": "What are the responsibilities of owners and builders?", 
+          "r": "Meet PNC requirements, follow established procedures, and comply with loan conditions. It is the responsibility of both the owner and contractor/builder to complete the project under the construction contract. Meet regularly to discuss the project, issues, changes, etc. Make frequent job site visits together. Resolve disputes quickly and fairly. Maintain quick and effective communication. Notify PNC of any changes or issues as they arise." 
+        }
+      },
+      "infos": {
+        "title": "Disbursement of Funds for Completed Work",  
+        "text": "It is easy and convenient to request a disbursement of funds from PNC. The typical disbursement process is as follows:", 
+        "feature1": {
+          "text": "PNC will inspect the project to determine progress. If inspections exceed the number of prepaid inspections (usually three for renovation and six for construction), additional inspection fees may be charged and are the responsibility of the owner."
+        }, 
+        "feature2": {
+          "text": "The inspection schedule will determine completion based on a percentage complete. The actual cost of construction may differ at any stage of completion."
+        }, 
+        "feature3": {
+          "text": "Inspections are typically obtained within 48 hours of notification, and the corresponding draw will be processed within 24 hours of receiving the inspection report and required documents. If the owner and/or builder fails to properly complete a required document, funds will not be released until the error is corrected."
+        }, 
+        "feature4": {
+          "text": "Funds are disbursed to the owner, builder, or jointly as agreed by the parties after an inspection of the property. Only items completed at the time of inspection will be credited."
+        }, 
+        "feature5": {
+          "text": "Once the disbursement method is established, any changes to the disbursement method, regardless of who requests the change, must be submitted in writing by the owner."
+        }, 
+        "feature6": {
+          "text": "If applicable, Earnest Money and the Startup Draw are calculated and included in the first draw, which may occur at closing. The owner and/or builder will provide a breakdown detailing how funds have been used."
+        }
+      }
+    },
+    "autoLoans": {
+      "heroBanner": {
+        "title": "Auto Loans",
+        "text": "Explore borrowing options for new or used cars."
+      },
+      "infos": {
+        "title": "Buying a Car",
+        "text": "Purchase new or used cars with the right loan solution for you. Apply today for an auto loan online, by phone, or at a branch.",
+        "feature1": {
+          "title": "Buy from a Dealer",
+          "text": "With approval, you can buy a new or used vehicle from an eligible dealer."
+        },
+        "feature2": {
+          "title": "Buy a Lease",
+          "text": "With an auto lease loan, you can finance your own car."
+        },
+        "feature3": {
+          "title": "Buy from a Private Party",
+          "text": "With a used car loan, you can purchase from a private seller."
+        }
+      }
+    },
+    "personalLoans": {
+      "heroBanner": {
+        "title": "PNC Bank Personal Loans",
+        "text": "A personal loan or line of credit gives you access to the money you need to achieve your goals."
+      },
+      "infos": {
+        "title": "Explore Personal Loans and Lines of Credit",
+        "feature1": {
+          "title": "Personal Installment Loan",
+          "text": "Borrow money and pay it back with regular monthly payments."
+        },
+        "feature2": {
+          "title": "Personal Line of Credit",
+          "text": "Access funds whenever you need to—up to an approved credit limit."
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Do you have any concerns?",
+    "text": "Send us your concerns and receive a response within 24 hours.",
+    "messageFieldLabel": "Message",
+    "nameFieldLabel": "Name",
+    "surnameFieldLabel": "Surname (Optional)",
+    "emailFieldLabel": "Email Address",
+    "telephoneFieldLabel": "Phone (Optional)",
+    "sendButton": "Send",
+    "requiredField": "This field is required",
+    "emailFieldInvalid": "Invalid email address",
+    "successMessage": "Your message has been sent successfully",
+    "sending": "Sending"
+  },
+  "login": {
+    "title": "Login",
+    "text": "Log in to your account to perform account operations",
+    "emailFieldInvalid": "Invalid email address",
+    "emailFieldLabel": "Email Address",
+    "passwordFieldLabel": "Password",
+    "requiredField": "This field is required",
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Log In",
+    "sendCode": "Send Code",
+    "backToLogin": "Back to Login",
+    "successMessage": "Login successful! Redirecting...",
+    "generalError": "An error occurred while logging in",
+    "recoveryCodeSent": "A recovery code has been sent to your email address",
+    "loggingIn": "Logging in...",
+    "createAccount": "Create an Account",
+    "noUserFound": "No user found with this email.",
+    "incorrectPassword": "Incorrect password.",
+    "connected": "Login successful."
+  },
+  "signup": {
+  "title": "Sign Up",
+  "text": "Create your account to enjoy the many benefits PNC offers you",
+  "lastNameLabel": "Last Name",
+  "firstNameLabel": "First Name",
+  "emailLabel": "Email",
+  "phoneLabel": "Phone",
+  "addressLabel": "Address",
+  "zipLabel": "Zip Code",
+  "cityLabel": "City",
+  "countryLabel": "Country",
+  "selectCountry": "Select Country",
+  "genderLabel": "Gender",
+  "selectGender": "Select Gender",
+  "genderMale": "Male",
+  "genderFemale": "Female",
+  "professionLabel": "Profession",
+  "monthlyIncomeLabel": "Monthly Income",
+  "maritalStatusLabel": "Marital Status",
+  "childrenCountLabel": "Number of Children",
+  "submitButton": "Submit",
+  "enterVerificationCode": "Enter the verification code sent to your email address",
+  "verifyCode": "Verify",
+  "enterVerificationCodePlaceholder": "Verification Code",
+  "verificationError": "Incorrect Code",
+  "passwordLabel": "Password"
+  },
+  "dashboard": {
+    "title": "Dashboard", 
+    "noVirement": "No transactions found!",
+    "statut": {
+      "good": "Good",
+      "care": "Concerning"
+    },
+    "soldeLabel": "Account Balance",
+    "accountTypeLabel": "Account Type",
+    "accountTypeValue": "Checking",
+    "accountStatutLabel": "Account Status",
+    "transactionsLabel": "Transactions",
+    "send": "Transfer",
+    "loading": "Loading data",
+    "virementTo": "Transfer to ",
+    "detailsLinkText": "Details"
+  },
+  "settings": {
+  "title": "Settings",
+  "emailSection": "Email Address",
+  "emailFieldLabel": "Your email address",
+  "oldPasswordRequired": "Old password is required.",
+  "newPasswordRequired": "New password is required.",
+  "confirmPasswordRequired": "Password confirmation is required.",
+  "passwordsDoNotMatch": "Passwords do not match.",
+  "passwordsMustBeDifferent": "New password must be different from the old one.",
+  "emailUpdated": "Your email address has been updated.",
+  "updateError": "Error updating.",
+  "passwordChanged": "Your password has been changed.",
+  "passwordNotDisplayed": "Your password is not displayed.",
+  "saving": "Saving...",
+  "save": "Save",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "passwordSection": "Password",
+  "oldPasswordFieldLabel": "Old Password",
+  "newPasswordFieldLabel": "New Password",
+  "confirmPasswordFieldLabel": "Confirm New Password",
+  "loading": "Loading data"
+  },
+  "profile": {
+    "title": "My Profile",
+    "loading": "Loading data"
+  },
+  "logout": {
+    "title": "Log Out",
+    "loading": "Loading data"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "nonotif": "No notifications found!",
+    "loading": "Loading notifications",
+    "virementEffectue": "New transfer in progress",
+    "virementMessage": "Your transfer has been initiated and is in progress.",
+    "received": "Transfer to your account",
+    "receivedMessage": "You have received an amount in your account. Your new balance is: "
+  },
+  "virement": {
+    "title": "Transfer",
+    "amountLabel": "Amount",
+    "dateLabel": "Date:",
+    "recipientLabel": "Beneficiary IBAN",
+    "motifLabel": "Transfer reason",
+    "availableBalance": "Available balance",
+    "beneficiare": "Beneficiary",
+    "emailLabel": "Beneficiary email address",
+    "addressLabel": "Beneficiary address",
+    "zipLabel": "Beneficiary postal code",
+    "cityLabel": "Beneficiary city",
+    "countryLabel": "Beneficiary country",
+    "submitButton": "Execute",
+    "verifying": "Verifying in progress",
+    "insufficientBalance": "Insufficient balance",
+    "invalidEmail": "Invalid email address",
+    "required": "This field is required",
+    "invalidZip": "Invalid postal code",
+    "invalidAmount": "Invalid amount",
+    "loading": "Loading data",
+    "codeVerification": "Verification code",
+    "verificationError": "Incorrect code"
+  }
+}
